@@ -1,22 +1,22 @@
 author,year,matchauthoryear,matchtitle,matchtype,matchid
 Shiraliev,1997,shiraliev1997,Azerbajdzhanskij jazyk,,wals:5521
 Mehraliev,p.c. 2017,,,,
-Shiraliev,1971,,,,
+Shiraliev,1971,,,,hh:g:Shiraliev:Azerbajdzanskogo
 Poppe,1964,nicholas1964,Bashkir Manual,grammar,hh:g:Poppe:Bashkir
 Gisbert Fanselow,p.c. 2017,,,,
-Yuldashev,1981,,,,
-Yuldashev,1997,,,,
-Garinov,1959,,,,
+Yuldashev,1981,,,,mpieva:Juldasev1981Grammati
+Yuldashev,1997,,,,wals:3027
+Garipov,1959,,,,mpieva:Garipov1959Baskirsk
 Dmitriev,1948,dmitriev1948,Grammatika bashkirskogo jazyka,grammar,hh:g:Dmitriev:Bashkirskogo
 Juwon,2011,juwon2011,A grammar of Ewen,grammar,hh:g:Juwon:Ewen
-Pakendorf,in preparation,,,,
+Pakendorf,2020,,The North Siberian Turkic Languages,,
+Pakendorf,2020,,Even and the Northern Tungusic Languages,,
 Todaeva,1997,b1997,Baoan'skij Jazyk,grammar_sketch,hh:s:Todaeva:Baoanskij
 Fried,2010,fried2010,"A grammar of Bao'an Tu, a Mongolic language of northwest China",grammar,hh:g:Fried:Baoan-Tu
 Rybatzki,2003,volker2003,Middle Mongol,grammar_sketch,hh:s:Rybatzki:Middle-Mongol
 Hugjiltu,2003,wu2003,Bonan,grammar_sketch,hh:s:Hugjiltu:Bonan
-Hugkiltu,2003,,,,
 Poppe,1960,nicholas1960,Buriat Grammar,grammar,hh:g:Poppe:Buriat
-Sanzeev,1962,,,,
+Sanzeev,1962,,,,wals:5287
 Skribnik,2003,elena2003,Buryat,grammar_sketch,hh:s:Skribnik:Buryat
 Sanzeev,1964,sanzeev1964,Sravnitelnaja grammatika mongolskich jazykov: glagol,,mpieva:Sanzeev1964Sravnite
 Sanzeev,1953,sanzeev1953,Sravnitelnaja grammatika mongolskich jazykov: Tom 1,,mpieva:Sanzeev1953Sravnite
@@ -27,7 +27,6 @@ Levitskaja,1976,levitskaja1976,Istoricheskaja morfologija Chuvashskogo jazyka,co
 Andreev,1997,andreev1997,Čuvašskij Yazyk,grammar_sketch,hh:s:Andreev:Cuvasskij
 "Savelev, Alexandr",p.c. 2017,,,,
 Andreev,1961,sirotkin1961,Cuvassko-russkij slovar': okolo 25000 slov ; s prilozeniem kratkogo grammaticeskogo ocerka cuvasskogo jazyka,,mpieva:Sirotkin1961Cuvassko
-Benzing,1940,,,,
 Andreev,1966,andreev1966,Čuvašskogo Yazyk: načal'nyj kurs,grammar,hh:g:Andreev:Chuvashskogo:1966
 "Savelev, Alexandr",p.c. 2018,,,,
 Kavitskaya,2010,darya2010,Crimean Tatar,grammar_sketch,hh:s:Kavitskaya:Crimean-Tatar
@@ -37,10 +36,9 @@ Kim,2003,kim2003,On the Historical Phonology of Ossetic,comparative,hh:v:Kim:Oss
 Kupchik,2011,kupchik2011,A grammar of the Eastern Old Japanese dialects,grammar,hh:g:Kupchik:EOldJapanese
 Nedjalkov,1997,igor1997,Evenki,grammar,hh:g:Nedjalkov:Evenki
 Bulatova,1999,n1999,Yazyk Saxalinskix Èvenkov,grammar,hh:g:Bulatova:Saxalinskix
-Tsumagari,1978,,,,
 Oskolskaya,p.c.,,,,
 Brodskaya,1988,brodskaya1988,Slozhnoje predlozhenije v evenkijskom jazyke,specific_feature,hh:typ:Brodskaya:Evenkijskom
-Malchukov,not published,,,,
+Malchukov,2020,,Complex constructions in Transeurasian languages,,
 Boldyrev,2000,boldyrev2000,Evenkijsko-russkij slovar': okolo 21000 slov,,mpieva:Boldyrev2000Evenkijs
 Pokrovskaja,1964,pokrovskaja1964,Grammatika gagauzskogo jazyka: fonetika i morfologija,grammar,hh:g:Pokrovskaja:Gagauzskogo
 Ulutas,2000,ulutas2000,Gagauz syntax: an examination of relative clauses,grammar_sketch;specific_feature,hh:styp:Ulutas:Gagauz
@@ -53,20 +51,17 @@ Martin,1988,harris1988,French,grammar_sketch,hh:s:Harris:French
 Robbeets,2017,martine2017,Like ripples in a pond. Basic vocabulary linking Japonic to Turkic,comparative,hh:v:Robbeets:Japonic-Turkic
 Kaiser,2013,stefan2013,Japanese: A Comprehensive Grammar,grammar,hh:g:Kaiser:Japanese
 Ishizuka,2012,ishizuka2012,The Passive in Japanese. A cartographic minimalist approach,,benjamins:la.192.xml
-Kaiser,1-698,,,,
 Kim,2004,gerdes2004,Tree Unification Grammar,,langsci:Gerdes:04
 Bläsing,2003,uwe2003,Kalmuck,grammar_sketch,hh:s:Blasing:Kalmuck
-Piurbeev,1997,,,,
+Piurbeev,1997,,,,hh:s:Pyurbeev:Kalmytskij
 Benzing,1985,johannes1985,Kalmückische Grammatik zum Nachschlagen,grammar,hh:g:Benzing:Kalmuckische
-Saj,2009,,,,
-Benzing,1085,,,,
+Goto,2009,,Sistema finitnyh form proshedshego vremeni v kalmyckom jazyke,,
 Wurm,1951,stefan1951,The Karakalpak Language,grammar_sketch,hh:s:Wurm:Karakalpak
 Kara,2002,david2002,Kazak,grammar_sketch,hh:s:Kara:Kazak
-Peacecorps,1995,,,,
+Peacecorps,1995,,,,hh:g:PeaceCorps:Kazakh
 Baskakov,1975,baskakov1975,Grammatika Xakasskogo Jazyka,grammar,hh:g:Baskakov:Xakasskogo
 Doerfer,1988,gerhard1988,Grammatik des Chaladsch,grammar,hh:g:Doerfer:Chaladsch
-Scerbak,1997,,,,
-Janhunen,2010,,,,
+Scerbak,1997,,,,hh:s:Scerbak:Xaladzskij
 Janhunen,2012,juha2012,On the hierarchy of structural convergence in the Amdo Sprachbund,overview;comparative,hh:hv:Janhunen:Amdo-Sprachbund
 Poppe,1954,poppe1954,A fragment of the Bodhicaryavatara from Olon Süme,,mpieva:Poppe1954Afragmen
 Kullmann,2001,kullmann2001,Mongolian Grammar,grammar,hh:g:KullmannTserenpil:Mongolian
