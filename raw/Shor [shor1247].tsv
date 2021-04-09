@@ -1,0 +1,500 @@
+Grambank ID	Feature	Possible Values	Value	Source	Comment	Detailed comment	Example
+GB020	Are there definite or specific articles?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB022	Are there prenominal articles?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB023	Are there postnominal articles?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Dyrenkova (1941:102-104)			"altï kiži
+[ten person]
+‘ten people'"
+GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Dyrenkova (1941:86-87)			"ol kiži-ler
+[that person-PL]
+‘those people’"
+GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Gisbert Fanselow (p.c. 2017)	it might be possible		
+GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	0	Dyrenkova (1941:122)	both by comitative		"pis-tiŋ aal-da škola-ba bolnica par
+[1PL-GEN village-LOC school-COM hospital exist]
+'There is a school and a hospital in our village.’"
+GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Dyrenkova (1941:81)			
+GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Dyrenkova (1941:81)			
+GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	0	Dyrenkova (1941:81)			
+GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	1	Dyrenkova (1941:86-87)			"po ‘this’
+tigi ‘that’
+ol 'that far away’"
+GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	Dyrenkova (1941:86-87)			
+GB037	Do demonstratives show a visible-nonvisible distinction?	1: present, 0: absent	0	Dyrenkova (1941:86-87)			
+GB038	Are there demonstrative classifiers?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB039	Is there nonphonological allomorphy of noun number markers?	1: present, 0: absent	0	Dyrenkova (1941:38-39)	it is phonological		
+GB041	Are there several nouns (more than three) which are suppletive for number?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB042	Is there productive overt morphological singular marking on nouns?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			
+GB043	Is there productive morphological dual marking on nouns?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			
+GB044	Is there productive morphological plural marking on nouns?	1: present, 0: absent	1	Dyrenkova (1941:26, 38-39)		-lar, -ler, -tar, -ter, -nar, -ner	"kiži-ler [person-PL]
+kas-tar [goose-PL]"
+GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	1	Dyrenkova (1941:73)		suffix -tïg, -nïg, -lïg	"marja-lïg-a
+[Marja-ASS-DAT/ILL]
+‘into Marja’s family’
+šolban-nïg-dï
+[Sholban-ASS-ACC]
+‘Sholban’s friends’"
+GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	1	Dyrenkova (1941:27-31)		-ïg, -ig, -ug, -üg	sat- ‘to trade’ - sadïg ‘trade’ 
+GB048	Is there a productive morphological pattern for deriving an agent noun from a verb?	1: present, 0: absent	1	Dyrenkova (1941:27-31)		-aačï, -eečï	"kad-aačï
+[guard-NMLZ]
+‘guardian’"
+GB049	Is there a productive morphological pattern for deriving an object noun from a verb?	1: present, 0: absent	1	Dyrenkova (1941:27-31)		-n, -ïn, -in	tü- ‘to tie’ - tüün ‘a tie’
+GB051	Is there a noun class/gender system where sex is a factor in class assignment?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB052	Is there a noun class/gender system where shape is a factor in class assignment?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB053	Is there a noun class/gender system where animacy is a factor in class assignment?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB054	Is there a noun class/gender system where plant status is a factor in class assignment?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB057	Are there numeral classifiers?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB058	Are there possessive classifiers?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Dyrenkova (1941:48-51)			"tura-m
+[city-1SG]
+‘my city’
+kol-їm
+[hand-1SG]
+‘my hand’"
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	3	Dyrenkova (1941:40-42, 48-51)		Pronominal possession: Possessed-possessor.	
+GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	"Dyrenkova (1941:40-42); Kurpeshko-Tanagasheva (1993:7)"		"NOM unmarked
+ACC -nï, -nu, -tï. -tu, -da, -du etc."	"pörü koj-dï kaap al-dï
+[wolf sheep-ACC grasp.CONV take-PST]
+‘The wolf grasped the sheep.’"
+GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Dyrenkova (1941:81-82)			
+GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	"Dyrenkova (1941:42-52); Kurpeshko-Tanagasheva (1993:7)"		"DAT/ILL -ka,-ke,-ga,-ge
+LOC -ta,-te,-da,-de
+etc."	"čïš-ta pörü-ler ul-ča-lar
+[taiga-LOC wolf-PL howl-PRS-PL]
+‘The wolves are howling in the taiga.’"
+GB073	Are there morphological cases for oblique independent personal pronouns (i.e. not S/A/P)?	1: present, 0: absent	1	Dyrenkova (1941:81-82)			
+GB074	Are there prepositions?	1: present, 0: absent	0	Dyrenkova (1941:25)			
+GB075	Are there postpositions?	1: present, 0: absent	1	Dyrenkova (1941:25, 232-234)			
+GB079	Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB080	Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	1	Dyrenkova (1941:180-181)			
+GB081	Is there productive infixation in verbs?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB082	Is there overt morphological marking of present tense on verbs?	1: present, 0: absent	1	Dyrenkova (1941:193-197)	The auxiliary verb meaning ‘to lie’ , which is used to express present tense if followed by person markers only, forms a phonological word with the verb.	The auxiliary verb ča meaning ‘to lie’, which is used to express present tense if followed by person markers only, forms a phonological word with the verb.	
+GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	Dyrenkova (1941:180-181)			
+GB084	Is there overt morphological marking on the verb dedicated to future tense?	1: present, 0: absent	1	Dyrenkova (1941:187-191)			
+GB086	Is a morphological distinction between perfective and imperfective aspect available on verbs?	1: present, 0: absent	1	Dyrenkova (1941:191-192)	imperfective is marked	-kalak IPFV	
+GB089	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	Dyrenkova (1941:263-264)			
+GB090	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Dyrenkova (1941:263-264)			
+GB091	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	Dyrenkova (1941:54-56)			"pala-m-ga kniga perd-im
+[child-1SG-DAT book give-1SG]
+‘I gave my child a book.’
+kniga-nї alü
+[book-ACC take]
+‘Take the book!’"
+GB092	Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB093	Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	Dyrenkova (1941:266-267)			
+GB094	Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Dyrenkova (1941:266-267)			
+GB095	Are variations in marking strategies of core participants based on TAM distinctions?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB096	Are variations in marking strategies of core participants based on verb classes?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB098	Are variations in marking strategies of core participants based on person distinctions?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB099	Can verb stems alter according to the person of a core participant?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB103	Is there a benefactive applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	Dyrenkova (1941:54-56)			"pala-m-ga kniga perd-im
+[child-1SG-DAT book give-1SG]
+‘I gave my child a book.’
+kniga-nї alü
+[book-ACC take]
+‘Take the book!’"
+GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	Dyrenkova (1941:281-282)			
+GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB109	Is there verb suppletion for participant number?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB110	Is there verb suppletion for tense or aspect?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB111	Are there conjugation classes?	1: present, 0: absent	0	Dyrenkova (1941:1-304)	Not mentioned.		
+GB113	Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?	1: present, 0: absent	1	Dyrenkova (1941:148-149)		"-t, -tïr, -dïr etc.
+-r, -ïr etc."	karal [become.black] ‘become black’ - karal-t [become.black-CAUS] ‘make black’
+GB114	Is there a phonologically bound reflexive marker on the verb?	1: present, 0: absent	1	Dyrenkova (1941:146)		-n, -ïn, -in, -un, -ün	
+GB115	Is there a phonologically bound reciprocal marker on the verb?	1: present, 0: absent	1	Dyrenkova (1941:146-147)	There is a marker for a reciprocal or collective action.	-š, -ïš, -iš, -uš, -üš	"ezen menči sur-aš-tї-lar
+[greeting bow ask-RECIP-PST-PL] 
+‘They greeted each other.’"
+GB116	Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	Dyrenkova (1941:122, 208-209)		par	"ol čer-de ijgi karïndaš kaan-nar par
+[that land-LOC two brother khan-PL exist]
+‘There are two brother khans in that land.’
+pis-tiŋ aal-da škola-ba bolnica par
+[1PL-GEN village-LOC school-COM hospital exist]
+'There is a school and a hospital in our village.’
+tajga-da kadïg čïl pol-dï
+[taiga-LOC hard year be-PST]
+‘There was a difficult year in taiga.’"
+GB118	Are there serial verb constructions?	1: present, 0: absent	1	Dyrenkova (1941:218-219)		"čїčїl par
+[fall depart]
+‘to fall’
+ayt per
+[say give]
+‘to say’"	
+GB119	"Can mood be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Dyrenkova (1941:179-180, 196-197, 215)			
+GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Dyrenkova (1941:192, 207)			
+GB121	"Can tense be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Dyrenkova (1941:205-207)			
+GB122	Is verb compounding a regular process?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB123	Are there verb-adjunct (aka light-verb) constructions?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB124	Is incorporation of nouns into verbs a productive intransitivizing process?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB126	Is there an existential verb?	1: present, 0: absent	1	Dyrenkova (1941:265, 275)		"par- ‘to be, to exist’
+köp-?"	"ol apšїy-dїŋ karbakčї par polgan
+[that old.man-GEN starling exist be.PST]
+‘That old man had a starling.’"
+GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	?	Dyrenkova (1941:251-253)	Not mentioned.		
+GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Dyrenkova (1941:40, 251-253)			"kebe ak-ča
+[boat flow-PRS]
+‘The boat is flowing.’
+ol keler
+[DEM come]
+‘He will come.’"
+GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Dyrenkova (1941:252)			
+GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Dyrenkova (1941:252)			
+GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Dyrenkova (1941:252)			"pörü koj-dï kaap al-dï
+[wolf sheep-ACC grasp.CONV take-PST]
+‘The wolf grasped the sheep.’
+aŋčï tiiŋ at-tï
+[hunter squirrel shoot-PST]
+‘Hunter shot the squirrel.’"
+GB134	Is the order of constituents the same in main and subordinate clauses?	1: present, 0: absent	1	Dyrenkova (1941:251-253, 285-286)		SOV in both	
+GB135	Do clausal objects usually occur in the same position as nominal objects?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB136	Is the order of core argument (i.e. S/A/P) constituents fixed?	1: present, 0: absent	1	Dyrenkova (1941:40, 251-253)			"kebe ak-ča
+[boat flow-PRS]
+‘The boat is flowing.’
+ol keler
+[DEM come]
+‘He will come.’"
+GB137	Can standard negation be marked clause-finally?	1: present, 0: absent	1	Dyrenkova (1941:281-282)	Negation is marked on the verb, what appears to be clause-finally.		
+GB138	Can standard negation be marked clause-initially?	1: present, 0: absent	0	Dyrenkova (1941:281-282)			
+GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	0	Dyrenkova (1941:281-282)			"terlig attï sugar-ba
+[sweaty horse water-NEG]
+‘Don’t give a sweaty horse something to drink.’
+ol čajgïzïn ačïkka par-ba-s
+[DEM summer fish.PTCP go-NEG-FUT]
+‘He won’t go fishing that summer.’"
+GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	0	Dyrenkova (1941:53, 122, 281-282)		"čok for existential negation
+ebes for nominal negation
+suffix -pa/-ba for verbal negation"	"ol aŋčï kiži ebes
+[DEM hunt person NEG]
+‘He is not a hunter.’"
+GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	1	Dyrenkova (1941:145)		"-l
+middle and passive marked by one suffix"	"oyna-l [play-PASS] ‘be played’
+kezi-l [cut-PASS] ‘be cut’"
+GB148	Is there a morphological antipassive marked on the lexical verb?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB149	Is there a morphologically marked inverse on verbs?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB150	Is there clause chaining?	1: present, 0: absent	1	Dyrenkova (1941:155, 158-159)			"par-a par-a kel-genin saaskan čuglug kuš četpes sarïg šölbe par-ča
+[go-CONV go-CONV come-PTCP magpie feather.POSS bird never yellow steppe go-PRS]
+‘He rode through the yellow steppe, magpie never comes.’"
+GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	Dyrenkova (1941:155, 158-159)	Converbs are used for simultaneous and sequential actions.		"par-a par-a kel-genin saaskan čuglug kuš četpes sarïg šölbe par-ča
+[go-CONV go-CONV come-PTCP magpie feather.POSS bird never yellow steppe go-PRS]
+‘He rode through the yellow steppe, magpie never comes.’"
+GB155	Are causatives formed by affixes or clitics on verbs?	1: present, 0: absent	1	Dyrenkova (1941:148-149)		"-t, -tïr, -dïr etc.
+-gïs, -gis, -gus etc."	kes [cut] ‘cut’ - kes-tir [cut-CAUS] ‘make cut’
+GB156	Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB158	Are verbs reduplicated?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB159	Are nouns reduplicated?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB165	Is there productive morphological trial marking on nouns?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			
+GB166	Is there productive morphological paucal marking on nouns?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			
+GB167	Is there a logophoric pronoun?	1: present, 0: absent	0	Dyrenkova (1941:81-82)			
+GB170	Can an adnominal property word agree with the noun in gender/noun class?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB171	Can an adnominal demonstrative agree with the noun in gender/noun class?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB172	Can an article agree with the noun in gender/noun class?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB177	Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument visible in the NP domain?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB184	Can an adnominal property word agree with the noun in number?	1: present, 0: absent	0	Dyrenkova (1941:71. 273)			"kök tag-lar
+[blue mountain-PL]
+‘blue mountains’"
+GB185	Can an adnominal demonstrative agree with the noun in number?	1: present, 0: absent	0	Dyrenkova (1941:86-87)			"ol kiži-ler
+[that person-PL]
+‘those people’
+ol kiži
+[that person]
+‘that person’"
+GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	Dyrenkova (1941:32)			"aŋ-čak
+[animal-DIM]
+‘a small animal’
+čulad-ak
+[river-DIM]
+‘a small river’"
+GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Dyrenkova (1941:70-71)		it always precedes the noun	"čaḳšї kün
+[good day]
+‘a good day’"
+GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Dyrenkova (1941:81)			
+GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Dyrenkova (1941:81)			
+GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Dyrenkova (1941:102-104)			
+GB203	What is the order of the adnominal collective universal quantifier ('all') and the noun?	0: no UQ, 1: UQ-N, 2: N-UQ, 3: both	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB204	Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB250	Can predicative possession be expressed with a transitive 'habeo' verb?	1: present, 0: absent	0	Dyrenkova (1941:53)			"ol oolak-tïŋ čagïz peče-zi
+[that boy-GEN one elder.sister-3SG]
+‘That boy had only a single elder sister.’"
+GB252	Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB253	Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB254	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	1: present, 0: absent	1	Dyrenkova (1941:252, 256-257)			"meeŋ tük nebe par
+[1SG.GEN hair ?? exist]
+‘I have fur.’
+ol oolak-tïŋ čagïz peče-zi
+[that boy-GEN one elder.sister-3SG]
+‘That boy had only a single elder sister.’"
+GB256	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB257	Can polar interrogation be marked by intonation only?	1: present, 0: absent	0	Dyrenkova (1941:279-280)			
+GB260	Can polar interrogation be indicated by a special word order?	1: present, 0: absent	0	Dyrenkova (1941:279-280)			
+GB262	Is there a clause-initial polar interrogative particle?	1: present, 0: absent	0	Dyrenkova (1941:279-280)			
+GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	Dyrenkova (1941:243, 279-280)		pa/ba and allomorphs	"se:ŋ akkaŋ tirig-be
+2SG grandfather alive-Q
+‘Is your grandfather alive?’
+ol taiga-da aŋ köp-pe
+that taiga-LOC animal many-Q
+‘Are there many animals in taiga?’"
+GB264	Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?	1: present, 0: absent	0	Dyrenkova (1941:279-280)			
+GB265	Is there a comparative construction that includes a form that elsewhere means 'surpass, exceed'?	1: present, 0: absent	0	Dyrenkova (1941:63-64, 80)			
+GB266	Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?	1: present, 0: absent	1	Dyrenkova (1941:63-64, 80)		ABL -naŋ, -neŋ, -taŋ, -teŋ, -daŋ, -deŋ	"Pustag Padïŋ tajga-daŋ mözük
+[Mustag Padiŋ mountain-ABL high]
+‘Mountain Mustag is higher than mountain Padyng’.
+kazïŋ-naŋ kadïg agaš čok
+[birch-ABL hard tree NEG]
+‘There is no tree more solid than birch.’"
+GB270	Can comparatives be expressed using two conjoined clauses?	1: present, 0: absent	0	Dyrenkova (1941:63-64, 80)			
+GB273	Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?	1: present, 0: absent	0	Dyrenkova (1941:63-64, 80)			
+GB275	Is there a bound comparative degree marker on the property word in a comparative construction?	1: present, 0: absent	0	Dyrenkova (1941:63-64, 80)			
+GB276	Is there a non-bound comparative degree marker modifying the property word in a comparative construction?	1: present, 0: absent	0	Dyrenkova (1941:63-64, 80)			
+GB285	Can polar interrogation be marked by a question particle and verbal morphology?	1: present, 0: absent	0	Dyrenkova (1941:279-280)			
+GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: present, 0: absent	0	Dyrenkova (1941:279-280)	the phonologically bound particle can attach to any part of speech	-pa, -ba, -ma, -pe, -be, -me	"ol taiga-da aŋ köp-pe
+[that taiga-LOC animal many-Q]
+‘Are there many animals in taiga?’"
+GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Dyrenkova (1941:279-280)			
+GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	0	Dyrenkova (1941:279-280)			
+GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Dyrenkova (1941:281-282)			
+GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	?	Dyrenkova (1941:281-282)	the marker, which is normally used for nominal negation, can also be used to negate future or conditional actions	ebes	"po emček-ti em al-ba-anče men parčaŋ ebes
+[this breast-ACC suck take-NEG-PTCP 1SG whole NEG]
+‘I will not go till I have sucked on this breast.’"
+GB300	Does the verb for 'give' have suppletive verb forms?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB301	Is there an inclusory construction?	1: present, 0: absent	1	Dyrenkova (1941:128)			"pir katnap pis ača-mma erten tura erte šaj išpeen körükte-p šïktïbïs
+[one again 1PL brother-?? drink-NEG.PTCP shipmunk.hunt-? went]
+One time my brother and I went hunting shipmunks, having not drunk enough tea.’"
+GB302	Is there a phonologically free passive marker ('particle' or 'auxiliary')?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB303	Is there a phonologically free antipassive marker ('particle' or 'auxiliary')?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB304	Can the agent be expressed overtly in a passive clause?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB309	Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?	1: present, 0: absent	1	Dyrenkova (1941:180-183			
+GB312	Is there overt morphological marking on the verb dedicated to mood?	1: present, 0: absent	1	Dyrenkova (1941:174-179)			
+GB313	Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?	1: present, 0: absent	0	Dyrenkova (1941:48-51, 85-86)			
+GB314	Can augmentative meaning be expressed productively by a shift of gender/noun class?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB315	Can diminutive meaning be expressed productively by a shift of gender/noun class?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB316	Is singular number regularly marked in the noun phrase by a dedicated phonologically free element?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			
+GB317	Is dual number regularly marked in the noun phrase by a dedicated phonologically free element?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			
+GB318	Is plural number regularly marked in the noun phrase by a dedicated phonologically free element?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			
+GB319	Is trial number regularly marked in the noun phrase by a dedicated phonologically free element?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			
+GB320	Is paucal number regularly marked in the noun phrase by a dedicated phonologically free element?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			
+GB321	Is there a large class of nouns whose gender/noun class is not phonologically or semantically predictable?	1: present, 0: absent	0	Dyrenkova (1941:35)			
+GB322	Is there grammatical marking of direct evidence (perceived with the senses)?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB323	Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB324	Is there an interrogative verb for content interrogatives (who?, what?, etc.)?	1: present, 0: absent	1	Dyrenkova (1941:226)		nööt- ‘do what?’	"am nööderziŋ
+[now do.what]
+‘What will you do now?’"
+GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	0	Dyrenkova (1941:93)			
+GB326	Do (nominal) content interrogatives normally or frequently occur in situ?	1: present, 0: absent	1	Dyrenkova (1941:91-92)			
+GB327	Can the relative clause follow the noun?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB328	Can the relative clause precede the noun?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB329	Are there internally-headed relative clauses?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB330	Are there correlative relative clauses?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB331	Are there adjoined relative clauses?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB333	Is there a decimal numeral system?	1: present, 0: absent	1	Dyrenkova (1941:102-104)			
+GB334	Is there synchronic evidence for any element of a quinary numeral system?	1: present, 0: absent	0	Dyrenkova (1941:102-104)			
+GB335	Is there synchronic evidence for any element of a vigesimal numeral system?	1: present, 0: absent	0	Dyrenkova (1941:102-104)			
+GB336	Is there a body-part tallying system?	1: present, 0: absent	0	Dyrenkova (1941:102-104)			
+GB400	Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB401	Is there a class of patient-labile verbs?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB402	Does the verb for 'see' have suppletive verb forms?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB403	Does the verb for 'come' have suppletive verb forms?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	"Dyrenkova (1941:40-42); Kurpeshko-Tanagasheva (1993:7)"			"pörü koj-dï kaap al-dï
+[wolf sheep-ACC grasp.CONV take-PST]
+‘The wolf grasped the sheep.’"
+GB409	Is there any ergative alignment of flagging?	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	1	Dyrenkova (1941:59)	Unspecific objects are unmarked.		"aŋčï kaŋdus aŋnapča
+[hunter otter hunt]
+‘A hunter hunts otter.’
+palïk tud-ïp aldï-m
+[fish grasp-CONV take-1SG.PST]
+‘I caught (some) fish.’"
+GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	0	Dyrenkova (1941:81-82)			
+GB421	Is there a preposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB422	Is there a postposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	Dyrenkova (1941:40-42, 48-51)			
+GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	Dyrenkova (1941:40-42, 48-51)			
+GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	Dyrenkova (1941:40-42, 48-51)	there is an affiliative-genitive suffix		"kuš-tїŋ tur-ugї
+[animal-GEN stand-NMLZ]
+‘animals’ camp]"
+GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	Dyrenkova (1941:40-42, 48-51)			"kol-ïm
+[hand-1SG]
+‘my hand’
+kol-ï
+[hand-3SG]
+‘his hand’
+kol-lar-ï
+[hand-PL-3]
+‘their hand'"
+GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Dyrenkova (1941:1-304)			
+GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Dyrenkova (1941:59)			"palïk tud-ïp aldï-m
+[fish grasp-CONV take-1SG.PST]
+‘I caught (some) fish.’"
+TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?				
+TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Dyrenkova (1941:1-304)			
+TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Dyrenkova (1941:13-14)			"pala-ga
+child-DAT
+iče-ler-ge
+father-PL-DAT"
+TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Dyrenkova (1941:13-15)			
+TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Dyrenkova (1941:17)		probably not, examples provide no evidence	
+TE006	Is there an initial r-?	1: present, 0: absent	?	Dyrenkova (1941:18)		there is only one example available	rak (їrak) ‘far away’
+TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Dyrenkova (1941:16-22)			
+TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Dyrenkova (1941:16)			
+TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?				
+TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0				
+TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	1	Dyrenkova (1941:76-78)			
+TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Dyrenkova (1941:24)			
+TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Dyrenkova (1941:24)			
+TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Dyrenkova (1941:81-82)			
+TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Dyrenkova (1941:81-82)			
+TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Dyrenkova (1941:124)			"nan-gan-nar-ïnda
+[hunters home return-PTCP-PL-LOC merchant there be.PST]
+‘when hunters returned home,"
+TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?				
+TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	0	Dyrenkova (1941:281-282)			
+TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Dyrenkova (1941:81-82)			
+TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	1				
+TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	1				
+TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Dyrenkova (1941:17)			
+TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?				
+TE034	Are there deranked purpose clauses?	1: present, 0: absent	1	Dyrenkova (1941:96, 302)			"čügürer azak-tïg
+[run.PTCP leg-having]
+‘having the legs to run’"
+TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	1	Dyrenkova (1941:279)			"men uzu-urga et-čam
+[1SG sleep do-??]
+‘I want to sleep.’"
+TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Dyrenkova (1941:16-17)			
+TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Dyrenkova (1941:16-17)			
+TE039	Is there vowel length distinction?	1: present, 0: absent	1	Dyrenkova (1941:10-12)			"tan ‘wind’ - taan ‘jackdaw’
+al ‘take’ - aal ‘settlement’"
+TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	1	Dyrenkova (1941:148-149)			"odur [sit] ‘sit’ - odur-t [sit-CAUS] ‘set, make sit’
+tüš [fall] ‘come down, fall’ - tü-žür [fall-CAUS] ‘put down, let down’
+tur [stand] ‘stand’ - tur-gïs [stand-CAUS] ‘put down, make stand’"
+TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	1			"brother: er ḳarïndaš
+elder brother: ača
+younger brother: tuŋma
+sister: ḳïs ḳarïndaš
+younger sister: peče"	
+TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	1	Dyrenkova (1941:77-78)		"brother: er ḳarïndaš
+elder brother: ača
+younger brother: tuŋma
+sister: ḳïs ḳarïndaš
+younger sister: peče"	
+TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Dyrenkova (1941:27-31)			
+TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	1	Kurpeshko-Tanagasheva (1993:111, 129)		"arm/hand: ḳol
+leg/foot: azaḳ"	
+TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	1	Kurpeshko-Tanagasheva (1993:103-104)		month/moon: aj	
+TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Dyrenkova (1941:38-39)			"kiži-ler [person-PL]
+tem-ner [time-PL]"
+TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	1	Dyrenkova (1941:246)		"particle -ta, -da ‘also; even’
+particle -ok ‘also; even’ -> doubtful"	"ol kïïrar sen-da kïïrar-zïŋ
+[DEM read you-also read-??]
+‘He will read, and you will read too.’
+apšakka-da koru-pa-an-čam
+[bear-even fear-NEG-??-??]
+‘I’m not afraid even of a bear.’
+kajïzï kiži pilze-da ajt-pa-an-ča
+[another person know-even say-NEG-??-??]
+‘Another person will even know, but not say.’
+kastar-da turnalar-da učuk
+[crane-also geese-also fly.away]
+‘Both cranes and gees have left.’"
+TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?				
+TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Dyrenkova (1941:86-87)			
+TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Dyrenkova (1941:102-104)			"altï kiži
+[ten person]
+‘ten people'"
+TE051	Is nominative case unmarked?	1: present, 0: absent	1	Dyrenkova (1941:24)			
+TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Dyrenkova (1941:54-55, 59)			"kniga-nï al
+[book-ACC take]
+‘Take the book.’
+palïk tudïp aldï-m
+[?? ?? catch-1SG]
+‘I caught (some) fish.’"
+TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	"Dyrenkova (1941:42-52, 58-59); Kurpeshko-Tanagasheva (1993:7)"		DAT/ILL/LOC -ka,-ke,-ga,ge	"ol pis-ke pismo ïs-tï
+[he 1PL-DAT letter send-3SG.PST]
+‘He sent us a letter.’
+oga-nar su-ga šom-ča-lar
+[boy-PL river-DAT bath-PRS-PL]
+‘Boys are bathing in the river.’"
+TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Dyrenkova (1941:279-280)		There are no interrogative suffixes for content interrogation.	
+TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	0				
+TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	0	Dyrenkova (1941:297)			
+TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	0				
+TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?	Dyrenkova (1941:86-87)			
+TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Dyrenkova (1941:145, 148-149)		"CAUS: -t, -tïr, -dïr etc.
+-gïs, -gis, -gus etc.
+PASS: -l"	
+TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?				
+TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	1	Dyrenkova (1941:303)		participle tep	"selsovet-te kajdig kabarlar tep suradï
+[village.council-LOC ?? ?? QUOT asked]
+‘They asked what news there is in the village council.’"
+TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	?	Dyrenkova (1941:1-304)			
+TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	1	Dyrenkova (1941:121)			"men tigi kuzukka pak kör-ejin
+[?? ?? ?? ?? see-??]
+‘Go on and climb that cedar tree.’"
+TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?				
+TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	0	Dyrenkova (1941:174-176)			
+TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Dyrenkova (1941:24, 141-142, 168)			"nan [return]- nan [return.IMP]
+al [take] - al [take.IMP]"
+TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?				
+TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Dyrenkova (1941:63-64, 80)			
+TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?				
+TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?				
+TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?				
+TE072	Are there balanced purpose clauses?	1: present, 0: absent	?				
+TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?				
+TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	0				
+TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0				
+TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Dyrenkova (1941:25, 232-234)			
+TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Dyrenkova (1941:16)			
+TS001	Can numeral precede the noun?	1: present, 0: absent	1	Dyrenkova (1941:102-104)			"altï kiži
+[ten person]
+‘ten people'"
+TS002	Can numeral follow the noun?	1: present, 0: absent	0	Dyrenkova (1941:102-104)			
+TS003	Can demonstrative precede the noun?	1: present, 0: absent	1	Dyrenkova (1941:86-87)			"ol kiži-ler
+[that person-PL]
+‘those people’"
+TS004	Can demonstrative follow the noun?	1: present, 0: absent	0	Dyrenkova (1941:86-87)			
+TS005	Can adnominal possessor precede the possessed noun?	1: present, 0: absent	1	Dyrenkova (1941:41)			"kuš-tїŋ tur-ugї
+[animal-GEN stand-NMLZ]
+‘animals’ camp]"
+TS006	Can adnominal possessor follow the possessed noun?	1: present, 0: absent	1	Dyrenkova (1941:40-42, 48-51)			"ulise-ngu-ni
+[meat-ALIEN-3]
+’his meat’
+ulise-ni
+[flesh-3SG] 
+‘his flesh’"
+TS007	Can adnominal property word precede the noun?	1: present, 0: absent	1	Dyrenkova (1941:70-71)		it always precedes the noun	"čaḳšї kün
+[good day]
+‘a good day’"
+TS008	Can adnominal property word follow the noun?	1: present, 0: absent	0	Dyrenkova (1941:70-71)		it always precedes the noun	
+TS009	Can adnominal collective universal quantifier (‘all’) precede the noun?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Dyrenkova (1941:1-304)	Not mentioned.		
+TS079	Is there height vowel harmony?	1: present, 0: absent	0	Dyrenkova (1941:13-15)			
+TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Dyrenkova (1941:14-15)			"kon-du
+spend.night-PST
+‘He spent the night.’
+öl-dü
+die-PST
+‘He died."
+TS081	Is there an initial l-?	1: present, 0: absent	?	Dyrenkova (1941:1-304)			
+TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Dyrenkova (1941:1-304)			
+TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Dyrenkova (1941:1-304)			
+TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Dyrenkova (1941:1-304)			
+TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Dyrenkova (1941:1-304)			
+TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Dyrenkova (1941:1-304)			
+TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Dyrenkova (1941:40, 251-253)			
+TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Dyrenkova (1941:40, 251-253)			
+TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Dyrenkova (1941:16)			
