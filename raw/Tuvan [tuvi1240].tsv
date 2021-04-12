@@ -119,9 +119,9 @@ GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in 
 GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Krueger (1997:138)		-gelek/-galak/-kelek/-kalak	"me:ŋ ežim xural-ga kel-gelek
 1SG.POSS friend meeting-DAT come-FUT
 ‘My friend will come to the meeting.’"
-GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Savelyev (p.c. 2018)			
-GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Savelyev (p.c. 2018)			
-GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Savelyev (p.c. 2018)			
+GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Savelev (p.c. 2018)			
+GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Savelev (p.c. 2018)			
+GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Savelev (p.c. 2018)			
 GB134	Is the order of constituents the same in main and subordinate clauses?	1: present, 0: absent	?	Krueger (1997)	Not mentioned.		
 GB135	Do clausal objects usually occur in the same position as nominal objects?	1: present, 0: absent	?	Krueger (1997)	Not mentioned.		
 GB136	Is the order of core argument (i.e. S/A/P) constituents fixed?	1: present, 0: absent	?	Krueger (1997)	Not mentioned.		
@@ -249,7 +249,7 @@ GB400	Are all person categories neutralized in some voice, tense, aspect, mood a
 GB401	Is there a class of patient-labile verbs?	1: present, 0: absent	?	Krueger (1997)	Not mentioned.		
 GB402	Does the verb for 'see' have suppletive verb forms?	1: present, 0: absent	0	Krueger (1997:128-146)	Not mentioned.		
 GB403	Does the verb for 'come' have suppletive verb forms?	1: present, 0: absent	0	Krueger (1997:128-146)	Not mentioned.		
-GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	Savelyev (p.c. 2018)			
+GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	Savelev (p.c. 2018)			
 GB409	Is there any ergative alignment of flagging?	1: present, 0: absent	0	Krueger (1997)			
 GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	1	Krueger (1997:111)			
 GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	0	Krueger (1997)			
@@ -270,11 +270,11 @@ come-COORD-PROG-1SG
 ‘I am coming.’"
 TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Krueger (1997)			
 TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Krueger (1997)			
-TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Harisson (2001:111)			
-TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Harisson (2001:111)			
+TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Harisson (2000:111)			
+TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Harisson (2000:111)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Krueger (1997:105)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Krueger (1997:106)			
-TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Harisson (2001:14)			
+TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Harisson (2000:14)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Krueger (1997:97)			
 TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Krueger (1997:87-162)			
 TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	Krueger (1997:87-162)			
@@ -362,8 +362,8 @@ interesting book-ACC
 TS008	Can adnominal property word follow the noun?	1: present, 0: absent	0	Krueger (1997:127)			
 TS009	Can adnominal collective universal quantifier (‘all’) precede the noun?	1: present, 0: absent	?	Krueger (1997)			
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Krueger (1997)			
-TS079	Is there height vowel harmony?	1: present, 0: absent	0	Harisson (2001:111)			
-TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Harisson (2001:111)			
+TS079	Is there height vowel harmony?	1: present, 0: absent	0	Harisson (2000:111)			
+TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Harisson (2000:111)			
 TS081	Is there an initial l-?	1: present, 0: absent	?	Krueger (1997:87-162)			
 TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Krueger (1997:87-162)			
 TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Krueger (1997:87-162)			

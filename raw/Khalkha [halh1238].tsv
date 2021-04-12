@@ -212,8 +212,8 @@ GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: p
 GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Janhunen (2012:184)			
 GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	0	Janhunen (2012:214-215)	onomatopoetic words do not seem to constitute a separate class		
 GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	0	Janhunen (2012:184)			
-GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	?	"Janhunen (2012:251); Poppe (1954:155)"	no clausal examples available	es-	
-GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	"Janhunen (2012:251); Poppe (1954:155)"		es, ul	"bii es xel-l=uu cam-d
+GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	?	Janhunen (2012:251)	no clausal examples available	es-	
+GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	Janhunen (2012:251)		es, ul	"bii es xel-l=uu cam-d
 [1SG NEG say-CONF=INTERR 2SG-DAT]
 ’Haven’t I told you!’
 or-x-ii.g ul dzeubsheor-e.n’
