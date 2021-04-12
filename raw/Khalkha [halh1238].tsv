@@ -212,8 +212,8 @@ GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: p
 GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Janhunen (2012:184)			
 GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	0	Janhunen (2012:214-215)	onomatopoetic words do not seem to constitute a separate class		
 GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	0	Janhunen (2012:184)			
-GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	?	"Janhunen (2012:251); Poppe (1954:155)"	no clausal examples available	es-	
-GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	"Janhunen (2012:251); Poppe (1954:155)"		es, ul	"bii es xel-l=uu cam-d
+GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	?	Janhunen (2012:251)	no clausal examples available	es-	
+GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	Janhunen (2012:251)		es, ul	"bii es xel-l=uu cam-d
 [1SG NEG say-CONF=INTERR 2SG-DAT]
 ’Haven’t I told you!’
 or-x-ii.g ul dzeubsheor-e.n’
@@ -293,7 +293,7 @@ TE004	Is there tongue root vowel harmony?	1: present, 0: absent	?	Janhunen (2012
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Janhunen (2012:27)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Janhunen (2012:27)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	"Rybatzki (2003:371-372); Janhunen (2012:73)"		only C+glide	
-TE008	Is there a voicing distinction in stops?	1: present, 0: absent	0	"Svantesson (2003:157); Janhunen (2012:28); Luvsandendev (2001)"	there is a contrast in aspiration		"bü: prohibitive marker
+TE008	Is there a voicing distinction in stops?	1: present, 0: absent	0	"Svantesson (2003:157); Janhunen (2012:28)"	there is a contrast in aspiration		"bü: prohibitive marker
 pü: ‘summer heat’"
 TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	1	Janhunen (2012:1-296)			
 TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	Janhunen (2012:117-118, 231)			
@@ -403,4 +403,4 @@ TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally ident
 TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?				
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1				
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0				
-TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	1	"Svantesson (2003:157); Janhunen (2012:28); Luvsandendev (2001)"	"“The strong stops are probably produced with tensed vocal cords; they give a tense voice quality to the surrounding vowels, both the following and the preceding one, result- ing in some pre- and postaspiration.”"		
+TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	1	"Svantesson (2003:157); Janhunen (2012:28)"	"“The strong stops are probably produced with tensed vocal cords; they give a tense voice quality to the surrounding vowels, both the following and the preceding one, resulting in some pre- and postaspiration.”"		

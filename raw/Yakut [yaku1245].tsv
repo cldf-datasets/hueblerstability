@@ -5,7 +5,7 @@ GB022	Are there prenominal articles?	1: present, 0: absent	0	Kharitonov (1982)
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Kharitonov (1982)			
 GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	"Pakendorf (2020:438); Kharitonov (1982:125, 176)"			
 GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Kharitonov (1982:193)			
-GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Gisbert Fanselow (p.c. 2017)			
+GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Fanselow (p.c. 2017)			
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	1	Kharitonov (1982:430, 472)		"coordination: itienne, uonna, da, daɣanï, ikki, buolan
 comitative: kïtarï, kïtta"	"ńukulaj ǰögüörebis itienne ńuukka uybanïap kepset-e olorol-lor
 Nikolaj Jegorovish and Njukka Ivanov sit-? talk-PL

@@ -8,7 +8,7 @@ GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Tsintsius (1982:40)			"bọjunmọ va:ča:v anamma
 [deer kill.PST fat]
 ‘I/You/He/She (Masc.) has/have killed a deer, a fat one.’"
-GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	0	Oskolskaya (p.c.)			"əmən asatka-kkan bi-ča-n amin-ǯi
+GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			"əmən asatka-kkan bi-ča-n amin-ǯi
 [one girl-DIM be-PST-3SG father-INS]
 ’A girl lived with the father.’
 ətixən-ǯi atixan-ǯi bi-ča-tin
@@ -30,12 +30,12 @@ GB043	Is there productive morphological dual marking on nouns?	1: present, 0: ab
 GB044	Is there productive morphological plural marking on nouns?	1: present, 0: absent	1	Tsintsius (1982:20)		Suffixes -l, -sal, -səl, -sel	"dZo: [house] - dZo:-sal [house-PL]
 adel [net] - adeli-l, adeli-sal [net-PL]
 mojn [horse] - moji-l, moji-sal [horse-PL]"
-GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	1	Oskolskaya (p.c.)	“Plural forms of some kinship terms have an associative meaning rather than additive one.”		"am-til
+GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)	“Plural forms of some kinship terms have an associative meaning rather than additive one.”		"am-til
 [father-ASS]
 ’parents’"
 GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"	Not mentioned.		
 GB048	Is there a productive morphological pattern for deriving an agent noun from a verb?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"	Not mentioned.		
-GB049	Is there a productive morphological pattern for deriving an object noun from a verb?	1: present, 0: absent	1	Oskolskaya (p.c.)	‘an instrument or a result of an action’	-wun ‘an instrument or a result of an action’	"egdi-wun
+GB049	Is there a productive morphological pattern for deriving an object noun from a verb?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)	‘an instrument or a result of an action’	-wun ‘an instrument or a result of an action’	"egdi-wun
 [comb.hair-NMLZ]
 ’a comb’"
 GB051	Is there a noun class/gender system where sex is a factor in class assignment?	1: present, 0: absent	0	Tsintsius (1997:192)			
@@ -64,10 +64,10 @@ GB075	Are there postpositions?	1: present, 0: absent	1	Tsintsius (1982:26)		Post
 GB079	Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	0	Tsintsius (1997:198-199)			
 GB080	Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	1	Tsintsius (1997:198-199)			va:-ča:-v [kill-PST-1SG] ‘I killed.’
 GB081	Is there productive infixation in verbs?	1: present, 0: absent	0	Tsintsius (1997:198-199)			
-GB082	Is there overt morphological marking of present tense on verbs?	1: present, 0: absent	1	"Oskolskaya (p.c.); Tsintsius (1997:198-199)"	“General tense is also known as present, present-past, Praesens (Perfectum 1) and refers equally to presence or to past and occasionally to future.”		
-GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	"Oskolskaya (p.c.); Tsintsius (1997:198)"		suffix -ča-	va:-ča:-v [kill-PST-1SG] ‘I killed.’
-GB084	Is there overt morphological marking on the verb dedicated to future tense?	1: present, 0: absent	1	"Oskolskaya (p.c.); Tsintsius (1997:198)"		-ǯa-	
-GB086	Is a morphological distinction between perfective and imperfective aspect available on verbs?	1: present, 0: absent	1	"Oskolskaya (p.c.); Tsintsius (1982:23)"		"-s-
+GB082	Is there overt morphological marking of present tense on verbs?	1: present, 0: absent	1	"Oskolskaya (p.c. 2017); Tsintsius (1997:198-199)"	“General tense is also known as present, present-past, Praesens (Perfectum 1) and refers equally to presence or to past and occasionally to future.”		
+GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	"Oskolskaya (p.c. 2017); Tsintsius (1997:198)"		suffix -ča-	va:-ča:-v [kill-PST-1SG] ‘I killed.’
+GB084	Is there overt morphological marking on the verb dedicated to future tense?	1: present, 0: absent	1	"Oskolskaya (p.c. 2017); Tsintsius (1997:198)"		-ǯa-	
+GB086	Is a morphological distinction between perfective and imperfective aspect available on verbs?	1: present, 0: absent	1	"Oskolskaya (p.c. 2017); Tsintsius (1982:23)"		"-s-
 ‑ǯa~‑ǯə an imperfective marker"	"čixa-s- ‘be cutting’, xoda-s- ‘be selling’
 bi-ǯə- 
 [live-IPFV]
@@ -84,7 +84,7 @@ GB098	Are variations in marking strategies of core participants based on person 
 GB099	Can verb stems alter according to the person of a core participant?	1: present, 0: absent	0	Tsintsius (1997:198-199)			
 GB103	Is there a benefactive applicative marker on the verb (including indexing)?	1: present, 0: absent	0	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
-GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	Oskolskaya (p.c.)	Not mentioned.		
+GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
 GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	0	"Tsintsius (1997:195); Tsintsius (1982:24)"			
 GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	1	Pakendorf (in preparation)	"""Like other Tungusic languages (cf. Stojnova 2016, to appear), the North Tungusic languages have an associated motion suffix –nA that expresses mainly andative meanings, but can have ventive readings as well. This adds a directional argument to the argument structure”"		
 GB109	Is there verb suppletion for participant number?	1: present, 0: absent	0	Tsintsius (1997:198-199)		There is no suppletion whatsoever.	
@@ -99,7 +99,7 @@ GB118	Are there serial verb constructions?	1: present, 0: absent	?	"Tsintsius (1
 GB119	"Can mood be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Tsintsius (1982:24)		auxiliary verb bi- ‘to be’ or o:- ‘to become’	"va:-dZa bi-si-m [kill-FUT be-POT-1SG] ‘I should kill.’
 va:-dZa bi-si-s [kill-FUT be-POT-2SG] ‘You should kill.’"
 GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Tsintsius (1997:194-195)			
-GB121	"Can tense be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Oskolskaya (p.c.)		"""Perfect is derived from a past participle of a notional verb and an auxiliary verb bi- ‘be’ in general tense. Pluperfect is derived from a past participle of a notional verb and an auxiliary verb bi- ‘be’ in past tense.”"	"Ana:! Bəgdi-ji molkel-ča bi-si-m
+GB121	"Can tense be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Oskolskaya (p.c. 2017)		""Perfect is derived from a past participle of a notional verb and an auxiliary verb bi- ‘be’ in general tense. Pluperfect is derived from a past participle of a notional verb and an auxiliary verb bi- ‘be’ in past tense.”"	"Ana:! Bəgdi-ji molkel-ča bi-si-m
 [oh leg-POSS.REFL.SG break-PTCP.PST be-PRSPST-1SG]
 ‘Oh (it hurts)! I have broken my leg.’"
 GB122	Is verb compounding a regular process?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"	Not mentioned.		
@@ -117,7 +117,7 @@ GB135	Do clausal objects usually occur in the same position as nominal objects?	
 GB136	Is the order of core argument (i.e. S/A/P) constituents fixed?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
 GB137	Can standard negation be marked clause-finally?	1: present, 0: absent	1	"Tsintsius (1997:195); Tsintsius (1982:24)"	marked on the verb, which appears to be clause-finally		
 GB138	Can standard negation be marked clause-initially?	1: present, 0: absent	0	"Tsintsius (1997:195); Tsintsius (1982:24)"			
-GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	1	Oskolskaya (p.c.)		both with a negative verb ə- and a connegative of the notional verb, but the verb in declarative negation bears finiteness markers, the negative auxiliary is marked for imperative and person	"ə-xəl bu:-jə
+GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)		both with a negative verb ə- and a connegative of the notional verb, but the verb in declarative negation bears finiteness markers, the negative auxiliary is marked for imperative and person	"ə-xəl bu:-jə
 [NEG-IMP.2SG give-CONNEG]
 ‘do not give (it)!’
 taj bəjə ə-ti ŋɵ:lə-jə bi-čə-n
@@ -134,7 +134,7 @@ ujguli-du wa:-w-ča:-n
 ‘(He) was killed by a huge bear.’"
 GB148	Is there a morphological antipassive marked on the lexical verb?	1: present, 0: absent	0	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 GB149	Is there a morphologically marked inverse on verbs?	1: present, 0: absent	0	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
-GB150	Is there clause chaining?	1: present, 0: absent	1	Oskolskaya (p.c.)			"loxon-mi omŋo-čo bi-mi ə-čə ŋunu-jə
+GB150	Is there clause chaining?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)			"loxon-mi omŋo-čo bi-mi ə-čə ŋunu-jə
 [sword-POSS.REFL.SG forget-PTCP.PST be-CVB1 NEG-PST return-CONNEG]
 ’(he) left his sword and did not return’"
 GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	0	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
@@ -179,13 +179,13 @@ that person-PL-DAT offspring-POSS.3PL be-PST-3SG
 ‘Those people had a child’"
 GB254	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	1: present, 0: absent	0	Pakendorf (in preparation)	Not mentioned.		
 GB256	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	1: present, 0: absent	0	Pakendorf (in preparation)	Not mentioned.		
-GB257	Can polar interrogation be marked by intonation only?	1: present, 0: absent	0	Oskolskaya (p.c.)	Not mentioned.		
-GB260	Can polar interrogation be indicated by a special word order?	1: present, 0: absent	0	Oskolskaya (p.c.)	Not mentioned.		
-GB262	Is there a clause-initial polar interrogative particle?	1: present, 0: absent	0	Oskolskaya (p.c.)	Not mentioned.		
-GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	"Oskolskaya (p.c.); Pakendorf (in preparation)"			"čewka:ŋ-ŋa-s ǯəb-ǯə-m=ŋu
+GB257	Can polar interrogation be marked by intonation only?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
+GB260	Can polar interrogation be indicated by a special word order?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
+GB262	Is there a clause-initial polar interrogative particle?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
+GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	"Oskolskaya (p.c. 2017); Pakendorf (in preparation)"			"čewka:ŋ-ŋa-s ǯəb-ǯə-m=ŋu
 [little.bird-ACC.DEF-POSS.2SG eat-FUT-1SG=Q]
 ’May I eat your little bird?"
-GB264	Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?	1: present, 0: absent	0	Oskolskaya (p.c.)	Not mentioned.		
+GB264	Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
 GB265	Is there a comparative construction that includes a form that elsewhere means 'surpass, exceed'?	1: present, 0: absent	0	"Tsintsius (1982:21); Tsintsius (1997:196)"			
 GB266	Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?	1: present, 0: absent	1	"Tsintsius (1982:21); Tsintsius (1997:196)"		With an ablative case	"bi axinmi: məjGəndukkin ajadZi məjGəlko:n bisim [1SG brother.own mind better mind have.PTCP be] ‘I’m cleverer than my brother.’
 вolin bʊga bəjə-l-dukki-n maŋga bəjə a:čin
@@ -195,11 +195,11 @@ GB270	Can comparatives be expressed using two conjoined clauses?	1: present, 0: 
 GB273	Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?	1: present, 0: absent	0	"Tsintsius (1982:21); Tsintsius (1997:196)"			
 GB275	Is there a bound comparative degree marker on the property word in a comparative construction?	1: present, 0: absent	0	"Tsintsius (1982:21); Tsintsius (1997:196)"			
 GB276	Is there a non-bound comparative degree marker modifying the property word in a comparative construction?	1: present, 0: absent	0	"Tsintsius (1982:21); Tsintsius (1997:196)"			
-GB285	Can polar interrogation be marked by a question particle and verbal morphology?	1: present, 0: absent	0	Oskolskaya (p.c.)	Not mentioned.		
-GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: present, 0: absent	0	Oskolskaya (p.c.)	Not mentioned.		
-GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Oskolskaya (p.c.)	Not mentioned.		
+GB285	Can polar interrogation be marked by a question particle and verbal morphology?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
+GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
+GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
 GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	1	Tsintsius (1982:26)	Ideophones are characterized by consonantal auslaut and pairwise usage. They function as adverbs.		
-GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	0	Oskolskaya (p.c.)	Not mentioned.		
+GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
 GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	"Tsintsius (1997:195); Tsintsius (1982:24)"		auxiliary verb E- and a lexical verb marked by suffix -ja, -je or its phonetic variants	"E-sim va:ja [NEG-PRS.1SG kill.PTCP] ‘I don’t kill’
 E-čev va:ja [NEG-PST.1SG kill.PTCP] ‘I didn’t kill’
 E-ta:m va:ja [NEG-FUT.1SG kill.PTCP] ‘I won’t kill’
@@ -212,7 +212,7 @@ GB303	Is there a phonologically free antipassive marker ('particle' or 'auxiliar
 GB304	Can the agent be expressed overtly in a passive clause?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)			"ujguli-du wa:-w-ča:-n
 [huge.bear-DAT kill-PASS-PST-3SG]
 ‘(He) was killed by a huge bear.’"
-GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	1	"Oskolskaya (p.c.); Tsintsius (1997:195); Tsintsius (1982:33)"			"ma:nmi: ‘oneself (SG)’
+GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	1	"Oskolskaya (p.c. 2017); Tsintsius (1997:195); Tsintsius (1982:33)"			"ma:nmi: ‘oneself (SG)’
 ma:nmoj ‘oneself (PL)’"
 GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	?	Tsintsius (1997:195)	Probably not, not mentioned.		
 GB309	Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?	1: present, 0: absent	1	Tsintsius (1997:198)			"past: 
@@ -283,11 +283,11 @@ GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause w
 TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"	Not mentioned.		
 TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	"Tsintsius (1997:191); Tsintsius (1982:15)"		There is vowel length distinction. In non-initial syllables vowel length is conceived as ‘stress’.	
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	"Tsintsius (1982:13-19); Tsintsius (1997:191)"		Tsintsius (1997:191): height opposition, in Tsintsius (1982): nothing mentioned about vowel harmony.	
-TE004	Is there tongue root vowel harmony?	1: present, 0: absent	1	"Tsintsius (1982:13-19); Tsintsius (1997:191); Oskolskaya (p.c.)"		"Tsintsius (1997:191): height opposition, in Tsintsius (19982) there is nothing mentioned about vowel harmony.
+TE004	Is there tongue root vowel harmony?	1: present, 0: absent	1	"Tsintsius (1982:13-19); Tsintsius (1997:191); Oskolskaya (p.c. 2017)"		"Tsintsius (1997:191): height opposition, in Tsintsius (19982) there is nothing mentioned about vowel harmony.
 Oskolskaya: “The use of vowels is governed by the rules of a vowel harmony. Vowels are divided into three groups on the basis of height: high vowels ɵ, ɵ:, ə, low vowels (e), e:, (ʊ), (ʊ:), o, o:, a. a: and neutral vowels i, i:, u, u:. A word can contain only high (bɵjə-wɵ man-ACC) or only low vowels (ǯo:-wa house-ACC). Neutral vowels can occur in words of both phonological types”"	
 TE005	Is there an initial velar nasal?	1: present, 0: absent	1	Tsintsius (1982:14)			NaNta ‘fir-tree’
 TE006	Is there an initial r-?	1: present, 0: absent	0	Tsintsius (1982:14, 18)		All consonants can be found in initial position, apart from r, which is a non-frequent consonant in Negidal. It appears most often in borrowings.	
-TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Oskolskaya (p.c.)			
+TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	"Tsintsius (1982:13); Tsintsius (1997:190)"			
 TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"		Not mentioned.	
 TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
@@ -295,7 +295,7 @@ TE014	Is there partial emphatic reduplication of nominal property words?	1: pres
 TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Tsintsius (1997:192, 200)			
 TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Tsintsius (1997:200)		exclusively suffing	
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Tsintsius (1997:195)		mi-si opposition	
-TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Oskolskaya (p.c.)			"bi
+TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)			"bi
 [1SG.NOM]
 min
 [1SG.OBL]"
@@ -305,7 +305,7 @@ ju:ča:-dZi-vəj ‘having gone out, (they) …’
 sali-ča:-du:-n salijen ‘he is having lunch where the other one was having lunch’ (at the other one’s place of having lunch)"
 TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"	Not mentioned.		
 TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	0	"Tsintsius (1997:195); Tsintsius (1982:24)"			
-TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	1	Oskolskaya (p.c.)		Plural personal pronouns can acquire number marker in the meaning of a complete set of participants ‘we/you all’, e.g. sun-al-ba you-pl-acc.def ‘you all’.	
+TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)		Plural personal pronouns can acquire number marker in the meaning of a complete set of participants ‘we/you all’, e.g. sun-al-ba you-pl-acc.def ‘you all’.	
 TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	0	Tsintsius (1997:192)			
 TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	0	Tsintsius (1997:192)			"bajan bəje-l
 [rich person-PL]
@@ -315,15 +315,15 @@ TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1
 TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Tsintsius (1982:13)			
-TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	0	Oskolskaya (p.c.)		“A trill r occurs very occasionally in Negidal, mostly in recent loanwords or ideophones. According to (Pevnov, Khasanova 2006), it is sometimes used before k as a variant of l: əlkəǯin ~ ərkəǯin ‘slowly’ […]. ”	
+TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)		“A trill r occurs very occasionally in Negidal, mostly in recent loanwords or ideophones. According to (Pevnov, Khasanova 2006), it is sometimes used before k as a variant of l: əlkəǯin ~ ərkəǯin ‘slowly’ […]. ”	
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Tsintsius (1982:14-16)			
 TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	1	Oskolskaya (p.c.)			
+TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)			
 TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	1	"Oskolskaya (p.c.); Tsintsius (1982:20)"		“The suffix ‑sal~‑səl is used more rarely and mainly with nouns denoting persons”, but Tsintsius (1982:20) gives examples with this suffix used on inanimate nouns.	"ʤo:-sal [house-PL]
+TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	1	"Oskolskaya (p.c. 2017); Tsintsius (1982:20)"		“The suffix ‑sal~‑səl is used more rarely and mainly with nouns denoting persons”, but Tsintsius (1982:20) gives examples with this suffix used on inanimate nouns.	"ʤo:-sal [house-PL]
 adeli-l, adeli-sal [net-PL]
 moji-l, moji-sal [horse-PL]
 sama:-sal ‘shamans’"
@@ -333,11 +333,11 @@ TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	"Tsintsius (1
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Tsintsius (1982:41)			"ʤu:-təl bọjə-vọ
 [two-DISTR person-ACC]
 ‘two people’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Oskolskaya (p.c.)			
-TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Oskolskaya (p.c.)		"“Nominative case in Negidal is never used for marking direct object unlike Nanai and some other Tungus-Manchu languages.”
+TE051	Is nominative case unmarked?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)			
+TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)		"“Nominative case in Negidal is never used for marking direct object unlike Nanai and some other Tungus-Manchu languages.”
 There are different markers for definite and indefinite objects."	
-TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Oskolskaya (p.c.)		In some positions locative cases (locative, prolocative, ablative) include a dative case marker -du before their proper form, but they do not consist of the dative marker only. 	
-TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Oskolskaya (p.c.)		there are no suffixes to mark content interrogation	
+TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)		In some positions locative cases (locative, prolocative, ablative) include a dative case marker -du before their proper form, but they do not consist of the dative marker only. 	
+TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)		there are no suffixes to mark content interrogation	
 TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)			"ujguli-du wa:-w-ča:-n
 [huge.bear-DAT kill-PASS-PST-3SG]
 ‘(He) was killed by a huge bear.’"
@@ -348,13 +348,13 @@ TE059	Are causative and passive expressed by a formally identical marker?	1: pre
 PASS: -v-"	
 TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Oskolskaya (p.c.)		“‑gida (‑jida, ‑ŋida, ‑lida) denotes a place near the object, it usually derives postpositions’”	"boga-jda-
+TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Oskolskaya (p.c. 2017)		“‑gida (‑jida, ‑ŋida, ‑lida) denotes a place near the object, it usually derives postpositions’”	"boga-jda-
 [place-LOC]
 ’near (lit. near place)’"
 TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
 TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			
-TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	Oskolskaya (p.c.)		-xal	"si əgdiŋə mu:lək-kə ǯawa-xal
+TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)		-xal	"si əgdiŋə mu:lək-kə ǯawa-xal
 [2SG big bucket-ACC.DEF take-IMP.2SG]
 ‘take a big bucket’"
 TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	"Tsintsius (1982:3-308); Tsintsius (1997:188-201)"			

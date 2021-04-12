@@ -9,7 +9,7 @@ GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: 
 GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Dyrenkova (1941:86-87)			"ol kiži-ler
 [that person-PL]
 ‘those people’"
-GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Gisbert Fanselow (p.c. 2017)	it might be possible		
+GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Fanselow (p.c. 2017)	it might be possible		
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	0	Dyrenkova (1941:122)	both by comitative		"pis-tiŋ aal-da škola-ba bolnica par
 [1PL-GEN village-LOC school-COM hospital exist]
 'There is a school and a hospital in our village.’"
