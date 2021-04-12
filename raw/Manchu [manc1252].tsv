@@ -3,8 +3,8 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Gorelova 
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	1	Gorelova (2002:143, 146-148, 165)	it is not stated explicitly, but in most examples countable indefinite nouns occur with a numeral ‘one’		
 GB022	Are there prenominal articles?	1: present, 0: absent	1	Gorelova (2002:143, 146-148, 165)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Gorelova (2002:1-600)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	3	Gorelova (2002:202)	when counting: N Num, otherwise: Num N		
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Gorelova (2002:218)			
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	3	Gorelova (2002:202)	when counting: N Num, otherwise: Num N		
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Gorelova (2002:218)			
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Gorelova (2002:1-600)	Not mentioned.		
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Gorelova (2002:1-600)	Not mentioned.		
 GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	1	Gorelova (2002:214)			"be 1PL.EXCL
@@ -48,7 +48,7 @@ khan-GEN hand
 han-i sargan
 khan-GEN wife
 ‘khan’s wife’"
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Gorelova (2002:185, 219, 400)			"ama i bo:
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Gorelova (2002:185, 219, 400)			"ama i bo:
 father GEN house
 ‘father’s house’
 min-i yasa-i
@@ -58,7 +58,7 @@ min-i boo
 1SG-GEN house
 ‘my house’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Gorelova (2002:145-153)	they are treated like nouns and are considered by some scholars inseparable from them		
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Gorelova (2002:145-153)	they are treated like nouns and are considered by some scholars inseparable from them		"muse gemu sain gucu kai
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Gorelova (2002:145-153)	they are treated like nouns and are considered by some scholars inseparable from them		"muse gemu sain gucu kai
 1PL.INCL all good friend COP
 ‘We both are good friends.’"
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	0	Gorelova (2002:162-175)			"i boo be weile-mbi
@@ -152,7 +152,7 @@ dosi-ha bi-ci tere sapali mangusi horho dorgi de dedu-he bi-he bi
 enter-PRF be-CONV that yellow bull.mangus cattleshed-GEN inside DAT lie-PART be-PRF COP
 ‘When (he) had entered that yellow bull-mangus was lying in the cattleshed.’"
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Gorelova (2002:1-600)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Gorelova (2002:392)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Gorelova (2002:392)			
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Gorelova (2002:392)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Gorelova (2002:392)			
 GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Gorelova (2002:438)			"bi sin-de emu sain arga tacibu-re
@@ -169,7 +169,7 @@ bi niyalma-i gisure-re be ulhi-re gojime min-i beye gisure-me o-ho-de oron unde
 1SG person-GEN speak-FUT ACC understand-FUT although 1SG-GEN self speak-CONV be-PRF-DAT not.at.all NEG
 ‘Although I understand other people when they speak (Manchu), but myself I cannot speak Manchu at all.’
 EnÊ-m e-ce-n s§-re, si tineve eme-ne-ve-s. mother-1.SG.POSS NEG-PAST-3.SG.PR.POSS know-PERF you(SG) yesterday come-PART-ACC-2.SG.PR.POSS ‘My mother did not know that you arrived yesterday’ (KOL:200)"
-GB136	Is the order of core argument (i.e. S/A/P) constituents fixed?	1: present, 0: absent	0	Gorelova (2002:413, 454-455)	the most common order is AP, but PA is also possible and not rare	"“the direct object mainly precedes the governing verb. It may stand directly before a verb”; “The position of subject, which is normally the sentence-initial position in Manchu, is very important from the point of view of the communicative organization of utter­ance”"	"bi hergen be ara-mbi
+GB136	Is the order of core argument (i.e. S/A/P) constituents fixed?	1: present, 0: absent	0	Gorelova (2002:413, 454-455)	the most common order is AP, but PA is also possible and not rare	“the direct object mainly precedes the governing verb. It may stand directly before a verb”; “The position of subject, which is normally the sentence-initial position in Manchu, is very important from the point of view of the communicative organization of utter­ance”	"bi hergen be ara-mbi
 1SG letter ACC write-IPFV
 ‘I am writing the letters.’"
 GB137	Can standard negation be marked clause-finally?	1: present, 0: absent	1	Gorelova (2002:260-263)		E.g. gene-raqu go-PTCP+NEG ‘does not go’	"yamji cimari erge-re be bai-raku
@@ -191,7 +191,7 @@ GB150	Is there clause chaining?	1: present, 0: absent	1	Gorelova (2002:267-276)	
 book DAT turn-CONV letter ACC count-CONV eye observe-CONV hand point-CONV rehearse-CONV read-IPFV
 ‘Turning toward the book, counting written characters, observing (closely) with eyes, pointing with his hand (finger), (someone) reads (the text) rehearsing.’"
 GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	0	Gorelova (2002:1-600)			
-GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	Gorelova (2002:267, 277-278, 319)	"“The main meaning of the imperfect converb the suffix for which is -me, is that of simultaneity of both dependent and principal actions.”; “The perfect converb denotes an action which is completed before another action is undertaken. The dependence between the subordinate action, expressed by the perfect converb, and the principal action, mostly has temporal meaning”; “The conditional converb indicates that the subordinate action precedes the principal action in time.”"		"jura-ra o-nggolo
+GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	Gorelova (2002:267, 277-278, 319)	“The main meaning of the imperfect converb the suffix for which is -me, is that of simultaneity of both dependent and principal actions.”; “The perfect converb denotes an action which is completed before another action is undertaken. The dependence between the subordinate action, expressed by the perfect converb, and the principal action, mostly has temporal meaning”; “The conditional converb indicates that the subordinate action precedes the principal action in time.”		"jura-ra o-nggolo
 start-FUT be-CONV
 ‘before starting’
 bi ara-me o-ho-de min-i gucu uthai boo-de dosinji-ha
@@ -220,9 +220,9 @@ GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Gore
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	Gorelova (2002:155)			"suhe-cen
 ax-DIM
 ‘a small ax’"
-GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Gorelova (2002:148-150)	Not productive.	"“The suffix -ri which may be attached to these nouns, is used to denote both plurality and a high degree of quality: bultahån “bulging”— bultahåri “bulging out (especially the eyes);” fiyangtahån “large and robust,” “a giant,” “a sturdy fellow”—fiyangtahåri “large and robust to a high degree;” gonggohon “deeply thoughtful,” “pensive,” “a deeply thoughtful person”—gonggohori PL of gonggohon; kubsuhun “clumsy,” “large and awkward,” “large and fat,” “a stout/fat man”—kubsuhuri “massive,” “unwieldy,” also PL of kubsuhun; lakdahån “hanging down,” “drooping”—lakdahåri “fully drooping,” “hanging all the way down;” sahahån “blackish,” “rather black”—sahahåri “jet black;” sohon “deep yellow”—sohori “bright yellow.””"	
+GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Gorelova (2002:148-150)	Not productive.	“The suffix -ri which may be attached to these nouns, is used to denote both plurality and a high degree of quality: bultahån “bulging”— bultahåri “bulging out (especially the eyes);” fiyangtahån “large and robust,” “a giant,” “a sturdy fellow”—fiyangtahåri “large and robust to a high degree;” gonggohon “deeply thoughtful,” “pensive,” “a deeply thoughtful person”—gonggohori PL of gonggohon; kubsuhun “clumsy,” “large and awkward,” “large and fat,” “a stout/fat man”—kubsuhuri “massive,” “unwieldy,” also PL of kubsuhun; lakdahån “hanging down,” “drooping”—lakdahåri “fully drooping,” “hanging all the way down;” sahahån “blackish,” “rather black”—sahahåri “jet black;” sohon “deep yellow”—sohori “bright yellow.””	
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Gorelova (2002:1-600)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Gorelova (2002:145-153)			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Gorelova (2002:145-153)			
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Gorelova (2002:216)			
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Gorelova (2002:216)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Gorelova (2002:1-600)			
@@ -335,8 +335,6 @@ GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1:
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Gorelova (2002:1-600)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Gorelova (2002:1-600)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Gorelova (2002:425)	“in sentences subjects are often omitted, especially in their co-referential use, when referents are most predictable”		
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Gorelova (2002:1-600)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Gorelova (2002:89-98)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	1	Gorelova (2002:89-98)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Gorelova (2002:61)			
@@ -344,87 +342,28 @@ TE006	Is there an initial r-?	1: present, 0: absent	0	Gorelova (2002:68)
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Gorelova (2002:102)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Gorelova (2002:85)			"dara ‘small of the back’
 tara ‘soured milk’"
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	1	Gorelova (2002:1-600)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	0	Gorelova (2002:1-600)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Gorelova (2002:1-600)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Gorelova (2002:123)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Gorelova (2002:216)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Gorelova (2002:216)			bi NOM, minde DAT
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Gorelova (2002:1-600)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	1	Gorelova (2002:1-600)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Gorelova (2002:216)	diachronically possibly yes, synchronically no 	muse 1PL.INCL, se is a plural marker	
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	?	Gorelova (2002:1-600)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Gorelova (2002:61)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	1	Gorelova (2002:243, 251-252)		"reciprocal: -ndu
-reflexive: beye, -ja/-je/-jo"	
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Gorelova (2002:1-600)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Gorelova (2002:85)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Gorelova (2002:85, 88)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	0	Gorelova (2002:77-85)			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	1	"Roth Li 2000; Shimunek 2001"			"ARM: gala
-""hand, arm""
-mayan
-""arm, elbow""
-HAND: gala
-""hand, arm"""
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	1	Gorelova (2002:134)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Gorelova (2002:217)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Gorelova (2002:202)			"ilan nilyalma
 three man
 ‘three men’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Gorelova (2002:163)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Gorelova (2002:172, 453)		"“As far as classical Manchu is concerned, there is no strict explanation as to when the marker of the accusative is obligatory and when it can be omitted, and the problem needs to be fully investigated. Although it is clear that the appearance of the accusative is closely related with the category of definiteness.“
 “The marker for the accusative is frequently omitted, probably when direct objects do not have definite or specific reference”"	
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Gorelova (2002:190, 503)		de	
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	0	Gorelova (2002:322-325)		-n and -o for both	
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Gorelova (2002:183)			"bi in-de gele-bu-he
-1SG 3SG-DAT fear-PASS-PRF
-‘I was scared of him (I was frightened by him)’"
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	0	Gorelova (2002:506, 512)		examples provide no evidence for this	"ahu:n ji-he turgunde deo gene-he elder.brother come-PRF because younger.brother go-PRF
-‘Because the younger brother went away, the elder brother came (instead of him).’"
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?	Gorelova (2002:1-600)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	1	Gorelova (2002:245-248)		"causative: -bu
 passive: -bu"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	1	Avrorin (1961:276)		se- ‘say’	"ini tere bajta be umesi maŋa se-me henduhe
-‘He concerning this case, very difficult saying. said.’"
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Gorelova (2002:345)			"dorgi-de
-inner.part-DAT
-‘inside’
-jaka-de
-object-DAT
-‘in front of’"
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	Gorelova (2002:1-600)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Gorelova (2002:296)			"si majige ili
 2SG a.little stand
 ‘You stand still for a while.’
 ala
 tell
 ‘Tell!’"
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Gorelova (2002:1-600)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Gorelova (2002:86)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Gorelova (2002:202)			"ilan nilyalma
 three man
@@ -443,17 +382,11 @@ one big mountain
 ‘one big mountain’"
 TS008	Can adnominal property word follow the noun?	1: present, 0: absent	0	Gorelova (2002:145-153)			
 TS009	Can adnominal collective universal quantifier (‘all’) precede the noun?	1: present, 0: absent	1	Gorelova (2002:138)			geren niyalma ‘all/many men/persons’
-TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	1	Gorelova (2002:138)		"“Other words having the same semantics, such as gemu “all,” tome “every,” each,” always follow nouns: bayan gemu “all rich men;” gurgu tome “ every wild animal;” irgen gemu “all people;” moro tome “every bowl;” niyalma tome “every man/person,” “people;” yadahån gemu “all poor men” “"	"irgen temu
+TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	1	Gorelova (2002:138)		“Other words having the same semantics, such as gemu “all,” tome “every,” each,” always follow nouns: bayan gemu “all rich men;” gurgu tome “ every wild animal;” irgen gemu “all people;” moro tome “every bowl;” niyalma tome “every man/person,” “people;” yadahån gemu “all poor men” “	"irgen temu
 person all
 ‘all people’"
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Gorelova (2002:89-98)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	0	Gorelova (2002:89-98)			
-TS081	Is there an initial l-?	1: present, 0: absent	1	Gorelova (2002:66)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Gorelova (2002:1-600)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Gorelova (2002:1-600)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Gorelova (2002:392)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Gorelova (2002:392)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Gorelova (2002:85, 86)			

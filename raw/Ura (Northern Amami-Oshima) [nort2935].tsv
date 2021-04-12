@@ -3,8 +3,8 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Shigeno (
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Shigeno (2010:15-34)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Shigeno (2010:15-34)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Shigeno (2010:15-34)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	?	Shigeno (2010:15-34)	Not mentioned.		
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Shigeno (2010:29)			"kun jingwa=nu ʔkwa-kkwa=nu
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	?	Shigeno (2010:15-34)	Not mentioned.		
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Shigeno (2010:29)			"kun jingwa=nu ʔkwa-kkwa=nu
 this man=gen child-dim=nom"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	0	Shigeno (2010:15-34)			
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Shigeno (2010:15-34)	Not mentioned.		
@@ -31,9 +31,9 @@ GB054	Is there a noun class/gender system where plant status is a factor in clas
 GB057	Are there numeral classifiers?	1: present, 0: absent	?	Shigeno (2010:15-34)	Not mentioned.		
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Shigeno (2010:15-34)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Shigeno (2010:17,20)			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Shigeno (2010:17,20)			
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Shigeno (2010:17,20)			
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	1	Shigeno (2010:22, 24-25)			
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	1	Shigeno (2010:22, 24-25)			
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	1	Shigeno (2010:22, 24-25)			
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Shigeno (2010:20-21,25-26)	clitics		
 GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Shigeno (2010:25-26)	clitics		
 GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Shigeno (2010:25-26)	clitics		
@@ -85,7 +85,7 @@ GB124	Is incorporation of nouns into verbs a productive intransitivizing process
 GB126	Is there an existential verb?	1: present, 0: absent	?	Shigeno (2010:15-34)	No suitable examples available.		
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	0	Shigeno (2010:15-34)			
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Shigeno (2010:15-34)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Shigeno (2010:19)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Shigeno (2010:19)			
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Shigeno (2010:19)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Shigeno (2010:19)			
 GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Shigeno (2010:19)			
@@ -121,7 +121,7 @@ GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Shig
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	Shigeno (2010:17)			
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Shigeno (2010:15-34)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Shigeno (2010:15-34)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Shigeno (2010:20)			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Shigeno (2010:20)			
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	?	Shigeno (2010:15-34)	No section on pronouns available.		
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	?	Shigeno (2010:15-34)	No section on pronouns available.		
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Shigeno (2010:15-34)			
@@ -200,71 +200,25 @@ GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1:
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Shigeno (2010:15-34)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Shigeno (2010:15-34)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Shigeno (2010:21)			
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Shigeno (2010:18)			
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Shigeno (2010:18)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Shigeno (2010:15-34)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Shigeno (2010:15-34)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Shigeno (2010:17)			
 TE006	Is there an initial r-?	1: present, 0: absent	?	Shigeno (2010:15-34)	Not mentioned.		
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Shigeno (2010:18)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Shigeno (2010:17)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Shigeno (2010:22)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Shigeno (2010:22)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	?	Shigeno (2010:15-34)	No section on pronouns available.		
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	?	Shigeno (2010:15-34)	No section on pronouns available.		
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Shigeno (2010:24)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	?	Shigeno (2010:15-34)	No section on pronouns available.		
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent					
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent					
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Shigeno (2010:17)	At least not phonologically		
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Shigeno (2010:15-34)	At least not phonologically		
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Shigeno (2010:15-34)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Shigeno (2010:17)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	0	Shigeno (2010:17)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	?	Shigeno (2010:15-34)	Not mentioned.		
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Shigeno (2010:28)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	1	Shigeno (2010:23)	“The -nta form is restricted to third person pronouns (i.e. pronominal demonstratives), proper names, and kinship terms that can be used as terms of address (e.g. nee ‘elder sister’).”		
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	?	Shigeno (2010:15-34)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	?	Shigeno (2010:15-34)	Not mentioned.		
-TE051	Is nominative case unmarked?	1: present, 0: absent	0	Shigeno (2010:25-26)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Shigeno (2010:25-26)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	?	Shigeno (2010:25-26)	Not mentioned.		
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Shigeno (2010:27)			
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Shigeno (2010:28)			
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?	Shigeno (2010:15-34)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Shigeno (2010:28)			
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	Shigeno (2010:15-34)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	Shigeno (2010:20-21)			
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	?	Shigeno (2010:15-34)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Shigeno (2010:17)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	?	Shigeno (2010:15-34)	Not mentioned.		
 TS002	Can numeral follow the noun?	1: present, 0: absent	?	Shigeno (2010:15-34)	Not mentioned.		
@@ -278,12 +232,6 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Shigeno (2010:15-34)	Not mentioned.		
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Shigeno (2010:15-34)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	0	Shigeno (2010:15-34)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Shigeno (2010:15-34)	Not mentioned.		
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Shigeno (2010:15-34)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Shigeno (2010:15-34)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Shigeno (2010:19)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Shigeno (2010:19)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Shigeno (2010:17)			

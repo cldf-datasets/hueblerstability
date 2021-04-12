@@ -3,23 +3,23 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Niinaga (
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Niinaga (2010:35-87)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Niinaga (2010:35-87)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Niinaga (2010:35-87)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	2	Niinaga (2010:54)			"nasi=nu mii-cɨ mura-tɨ 
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	2	Niinaga (2010:54)			"nasi=nu mii-cɨ mura-tɨ 
 pear=gen three-clf receive-med three-clf=gen pear 
 ‘(I) received three pears.’ "
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Niinaga (2010:48)			"kun hon=ba tu-ta this book=acc take-pst 
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Niinaga (2010:48)			"kun hon=ba tu-ta this book=acc take-pst 
 ‘(I) took this book.’ "
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Niinaga (2010:72)	Not mentioned. how comitative is expressed	"conjunction: =sjutɨ ‘and’ 
 comitative:"	
-GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	"Niinaga (2010:73); Niinaga (2014:103-104)"	there is an inclusive/exclusive interpretation of some modal clitics (intention vs. invitation to do sth)		
+GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Niinaga (2010:73); Niinaga (2014:103-104)	there is an inclusive/exclusive interpretation of some modal clitics (intention vs. invitation to do sth)		
 GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Niinaga (2010:35-87)			
-GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	1	"Niinaga (2010:50); Niinaga (2014:102)"		"1DU: wa-ttəə 
+GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	1	Niinaga (2010:50); Niinaga (2014:102)		"1DU: wa-ttəə 
 2DU: na-ttəə, ura—ttəə"	
-GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	1	"Niinaga (2010:50); Niinaga (2014:111)"		"proximal: ku-/ka-
+GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	1	Niinaga (2010:50); Niinaga (2014:111)		"proximal: ku-/ka-
 mesial: u-/ga
 distal: a-/aga-"	
-GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	"Niinaga (2010:50); Niinaga (2014:111)"			
-GB037	Do demonstratives show a visible-nonvisible distinction?	1: present, 0: absent	0	"Niinaga (2010:50); Niinaga (2014:111)"			
+GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	Niinaga (2010:50); Niinaga (2014:111)			
+GB037	Do demonstratives show a visible-nonvisible distinction?	1: present, 0: absent	0	Niinaga (2010:50); Niinaga (2014:111)			
 GB038	Are there demonstrative classifiers?	1: present, 0: absent	0	Niinaga (2010:35-87)			
 GB039	Is there nonphonological allomorphy of noun number markers?	1: present, 0: absent	1	Niinaga (2010:56-57)	different markers are used for human names+elder kins+professions and others	-taa, -nkja	
 GB041	Are there several nouns (more than three) which are suppletive for number?	1: present, 0: absent	0	Niinaga (2010:56-57)			
@@ -40,7 +40,7 @@ GB054	Is there a noun class/gender system where plant status is a factor in clas
 GB057	Are there numeral classifiers?	1: present, 0: absent	1	Niinaga (2010:54)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Niinaga (2010:35-87)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Niinaga (2010:35-87)			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Niinaga (2014:57-58)			"jumɨ=nu naaja
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Niinaga (2014:57-58)			"jumɨ=nu naaja
 [daughter.in.law=GEN name=TOP]
 ‘the name of the daughter-in-law’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	1	Niinaga (2010:52, 61, 71)			"taa-sa=nu tar-an tall-nlz=nom be.su cient-neg.npst 
@@ -51,7 +51,7 @@ that tree=nom tall-nlz
 an kɨɨ=ja taa-sa-joo-i 
 that tree=top tall-vlz-pol-npst
 ‘That tree is tall.’ "
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	?	Niinaga (2010:84)	Not mentioned.		"daiban+gɨɨ=nu a-tɨ, jinga=nu hasigo kɨɨ-tɨ, nasi=ba ʔtɨɨ ʔtɨɨ mu-tu-n wake
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	?	Niinaga (2010:84)	Not mentioned.		"daiban+gɨɨ=nu a-tɨ, jinga=nu hasigo kɨɨ-tɨ, nasi=ba ʔtɨɨ ʔtɨɨ mu-tu-n wake
 big+tree=nom exist-med man=nom ladder prop-med pear=acc one.clf one.clf pick.up-prog-npst.adn dsc
 ‘There is a big tree, and a man props a ladder on (the tree), and (he) is picking up pears one by one.’ "
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Niinaga (2014:56, 58)		NOM: ga/nu, ACC: ba	"hiroo=ga kangɨɨ=ba kij-tɨ
@@ -124,7 +124,7 @@ GB113	Are there verbal affixes or clitics that turn intransitive verbs into tran
 GB114	Is there a phonologically bound reflexive marker on the verb?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 GB115	Is there a phonologically bound reciprocal marker on the verb?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 GB116	Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?	1: present, 0: absent	0	Niinaga (2010:35-87)			
-GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	"Niinaga (2010:45-46, 63); Niinaga (2014:61-64)"	There are contexts, where it is optional.	"“The copula verbs must occur unless the nominal predicate fulfils all of the following conditions:
+GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	Niinaga (2010:45-46, 63); Niinaga (2014:61-64)	There are contexts, where it is optional.	"“The copula verbs must occur unless the nominal predicate fulfils all of the following conditions:
 a. In the non-past tense;
 b. In affirmative;
 c. Not taking verbal affixes or conjunctive particles;
@@ -141,7 +141,7 @@ GB121	"Can tense be marked by an inflecting word (""auxiliary verb"")?"	1: prese
 GB122	Is verb compounding a regular process?	1: present, 0: absent	1	Niinaga (2010:69)			"uroo an hon=ba jum-j+agɨr-ɨ=joo 
 2sg.nhon.top that book=acc read-se+raise-imp=cnf1
 ‘You read that whole book, right?’"
-GB123	Are there verb-adjunct (aka light-verb) constructions?	1: present, 0: absent	1	"Niinaga (2010:70); Niinaga (2014:60)"			"j’-i=ja sɨr-an=ban
+GB123	Are there verb-adjunct (aka light-verb) constructions?	1: present, 0: absent	1	Niinaga (2010:70); Niinaga (2014:60)			"j’-i=ja sɨr-an=ban
 [say-INF=TOP do-NEG=ADVRS]
 ‘(They) wouldn’t say (so), but …’
 wan=na zii kak-i=du sja
@@ -156,7 +156,7 @@ warabɨ-kkwa=nu wu-i child-dim=nom exist-npst
 ‘There is a tree.’"
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	0	Niinaga (2010:45, 56)			
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Niinaga (2010:35-87)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	"Niinaga (2010:50); Niinaga (2014:56)"			"wan=ga ik-ju-i 
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Niinaga (2010:50); Niinaga (2014:56)			"wan=ga ik-ju-i 
 1sg=nom go-ipfv-npst 
 ‘I will go.’"
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Niinaga (2014:59)			
@@ -186,7 +186,7 @@ letter=acc read-med come-neg.npst
 ama=nan=nja kɨɨ=nu nə-n
 that.place=loc1=top tree=nom not.exist-neg.npst 
 ‘There is no tree.’"
-GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	1	"Niinaga (2010:59); Niinaga (2014:151)"	Nominative case can be used (apart from subject marking) for objects of transitive verbs that express incapability. Apart from that, there are two markers of nominative: one for S higher on the animacy hierarchy and one for lower.		"wan=ga aik-ju-i 
+GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	1	Niinaga (2010:59); Niinaga (2014:151)	Nominative case can be used (apart from subject marking) for objects of transitive verbs that express incapability. Apart from that, there are two markers of nominative: one for S higher on the animacy hierarchy and one for lower.		"wan=ga aik-ju-i 
 1sg=nom walk-ipfv-npst ‘I will walk.’ (1st person singular human pronoun) 
 (47) ɨn=nu aik-ju-i dog=nom walk-ipfv-npst 
 ‘The dog will walk.’ (animal noun) 
@@ -231,7 +231,7 @@ child-dim
 ‘little child’ "
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Niinaga (2010:38, 56)			
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Niinaga (2010:35-87)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	"Niinaga (2010:35); Niinaga (2014:57, 127)"			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Niinaga (2010:35); Niinaga (2014:57, 127)			
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Niinaga (2010:49)			
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Niinaga (2010:49)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Niinaga (2010:35-87)			
@@ -319,7 +319,7 @@ nuu sɨr-jur-tɨ ga asɨb-tur-tar=kai
 [what do-UMRK-SEQ=FOC play-PROG-PST=DUB]
 ‘What did (we) do (when we) were playing (around here)?’"
 GB327	Can the relative clause follow the noun?	1: present, 0: absent	0	Niinaga (2014:58)			
-GB328	Can the relative clause precede the noun?	1: present, 0: absent	1	"Niinaga (2010:53, 60, 65); Niinaga (2014:58)"			"wan=ga ʔkinjuu mu-tan nɨkan=ba tur-ɨ ! 1sg=nom yesterday pick.up-pst.adn orange=acc take-imp 
+GB328	Can the relative clause precede the noun?	1: present, 0: absent	1	Niinaga (2010:53, 60, 65); Niinaga (2014:58)			"wan=ga ʔkinjuu mu-tan nɨkan=ba tur-ɨ ! 1sg=nom yesterday pick.up-pst.adn orange=acc take-imp 
 ‘Take the orange I picked up yesterday!’ 
 hinzjaa sukk-tur-n jinga
 [goat pull-PROG-PTCP man]
@@ -339,7 +339,7 @@ GB400	Are all person categories neutralized in some voice, tense, aspect, mood a
 GB401	Is there a class of patient-labile verbs?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 GB402	Does the verb for 'see' have suppletive verb forms?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 GB403	Does the verb for 'come' have suppletive verb forms?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	"Niinaga (2010:35, 58); Niinaga (2014:56, 146)"		S/A: ga/nu, P: ba	"hiroo ga kangɨɨ=ba kij-tɨ
+GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	Niinaga (2010:35, 58); Niinaga (2014:56, 146)		S/A: ga/nu, P: ba	"hiroo ga kangɨɨ=ba kij-tɨ
 [Hiro NOM hedge=ACC cut-SEQ]
 ‘Hiro cut the hedge, and…’
 hacuko-san ga wur-tɨ
@@ -347,7 +347,7 @@ hacuko-san ga wur-tɨ
 ‘There was Ms. Hatsuko, and…’"
 GB409	Is there any ergative alignment of flagging?	1: present, 0: absent	0	Niinaga (2010:58)			
 GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	0	Niinaga (2010:58)			
-GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	1	"Niinaga (2014:100, 106); Niinaga (2010:50)"		"2SG.HON: na:
+GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	1	Niinaga (2014:100, 106); Niinaga (2010:50)		"2SG.HON: na:
 2SG.NON-HON: ura:
 2PL.HON: na:kja:
 2PL.NON-HON: na:kja:"	
@@ -355,99 +355,45 @@ GB421	Is there a preposed complementizer in complements of verbs of thinking and
 GB422	Is there a postposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	1	Niinaga (2010:83)			"uc-ju-n=ci ju-ta=jaa
 hit-ipfv-npst.adn=qt say-pst=sld 
 ‘(He) said that (he was going to) hit (something).’ "
-GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	"Niinaga (2010:45); Niinaga (2014:58, 177)"			
-GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	"Niinaga (2010:45); Niinaga (2014:58, 177)"			
-GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	"Niinaga (2010:45); Niinaga (2014:58, 177)"	genitive clitic		"jumɨ=nu naaja
+GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	Niinaga (2010:45); Niinaga (2014:58, 177)			
+GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	Niinaga (2010:45); Niinaga (2014:58, 177)			
+GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	Niinaga (2010:45); Niinaga (2014:58, 177)	genitive clitic		"jumɨ=nu naaja
 [daughter.in.law=GEN name=TOP]
 ‘the name of the daughter-in-law’
 warabɨ=nu tɨɨ=ba mi-cja 
 child=gen hand=acc look-pst ‘(I) looked at a child’s hand.’ "
-GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	0	"Niinaga (2010:45); Niinaga (2014:58, 177)"			
+GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	0	Niinaga (2010:45); Niinaga (2014:58, 177)			
 GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	?	Niinaga (2010:80-81)	Not mentioned.		
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Niinaga (2010:80)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Niinaga (2010:64)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Niinaga (2010:48)			"kun hon=ba tu-ta this book=acc take-pst 
 ‘(I) took this book.’ "
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	1	Niinaga (2014:37-39, 43-45)	It seems to be the case, but it is not stated explicitly.		
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	0	"Niinaga (2010:44); Niinaga (2014:30, 49-52)"		“There is lexical prosody in Yuwan. That is, each root has its own prosodic pattern, and these patterns fall into three types.”	"/a/ mjaa ‘cat’ - mja ‘k.o. shellfish’
-haa ‘leaf’ - haa=gadɨ HHHL
-haa ‘teeth’ - haa=gadɨ HHLL"
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Niinaga (2010:35-87)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Niinaga (2010:35-87)			
-TE005	Is there an initial velar nasal?	1: present, 0: absent	0	"Niinaga (2014:31); Niinaga (2010:39)"			
+TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Niinaga (2014:31); Niinaga (2010:39)			
 TE006	Is there an initial r-?	1: present, 0: absent	1	Niinaga (2014:34)		There are no restrictions on initial consonants.	
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Niinaga (2010:40)		only combinations laryngeal-C-glide	
-TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	"Niinaga (2010:39); Niinaga (2014:30-32)"			/tɨɨ/ ‘hand’ - /dɨɨ/ ‘bamboo’
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Niinaga (2010:35-87)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Niinaga (2010:47)			
+TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Niinaga (2010:39); Niinaga (2014:30-32)			/tɨɨ/ ‘hand’ - /dɨɨ/ ‘bamboo’
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Niinaga (2010:49)		wa: vs. na:	
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	0	Niinaga (2010:49)			
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Niinaga (2010:78)	Not mentioned.		
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Niinaga (2010:49-50)			"wan=ga ik-ju-i
 1sg=nom go-ipfv-npst 
 ‘I will go.’"
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	1	Niinaga (2010:35-87)			
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	1	Niinaga (2010:35-87)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Niinaga (2010:39)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Niinaga (2010:38-39)		orthographic z is phonetically [dz]	/sɨzɨ/ ‘tendon’ - /sɨsɨ/ ‘soot’
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	0	Niinaga (2010:39)			
-TE039	Is there vowel length distinction?	1: present, 0: absent	1	"Niinaga (2010:38); Niinaga (2014:30, 49-52)"			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	1	Niinaga (2010:56-57)		-taa, -nkja	"maga=nkja=nu ik-ju-i
-grandchild=appr=nom go-ipfv-npst 
-‘(My) grandchild and some people will go.’ "
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
+TE039	Is there vowel length distinction?	1: present, 0: absent	1	Niinaga (2010:38); Niinaga (2014:30, 49-52)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Niinaga (2010:84)			"kɨɨ=nu sja=nan=nja kago=nu ʔtaa-cɨ u-cju-tɨ
 tree=gen under.part=loc1=top basket=gen two-clf put-prog-med 
 ‘(He) is putting two baskets under the tree, and’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	0	Niinaga (2010:58)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Niinaga (2010:58)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Niinaga (2010:58)			
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Niinaga (2010:36, 76)		-ui (npst) / -tarui (pst) for yes-no questions, and -u (npst) / -taru (pst) for wh-questions 	
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Niinaga (2010:78-79)			"akira=ga zju=n ut-at-ta
-Akira=nom father=dat hit-pass-pst 
-‘Akira was hit by the father.’ "
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	1	Niinaga (2010:78-79)			"wan=na amɨ=n hur-at-ta
-1sg=top rain=dat fall-mal-pst 
-‘I was bothered by the rain (that) fell.’"
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Niinaga (2010:68)		"PASS: -ar(ɨr) 
 CAUS: -as"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Niinaga (2010:80-81)	Not mentioned.		
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	Niinaga (2010:80-81)	Not mentioned.		
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	Niinaga (2010:64, 77)		-i	"kurɨ=ba tur-ɨ ! 
 this=acc take-imp 
 ‘Take this!’"
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	0	Niinaga (2010:35-87)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Niinaga (2010:45, 56)	Not mentioned.		
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Niinaga (2010:39)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	0	Niinaga (2010:54, 84)			
 TS002	Can numeral follow the noun?	1: present, 0: absent	1	Niinaga (2010:54, 84)			"nasi=nu mii-cɨ mura-tɨ 
@@ -461,7 +407,7 @@ TS003	Can demonstrative precede the noun?	1: present, 0: absent	1	Niinaga (2010:
 an kɨɨ=nu taa-sa that tree=nom tall-nlz 
 ‘That tree is tall.’"
 TS004	Can demonstrative follow the noun?	1: present, 0: absent	0	Niinaga (2010:48)			
-TS005	Can adnominal possessor precede the possessed noun?	1: present, 0: absent	1	"Niinaga (2010:45); Niinaga (2014:58, 177)"			"jumɨ=nu naaja
+TS005	Can adnominal possessor precede the possessed noun?	1: present, 0: absent	1	Niinaga (2010:45); Niinaga (2014:58, 177)			"jumɨ=nu naaja
 [daughter.in.law=GEN name=TOP]
 ‘the name of the daughter-in-law’"
 TS006	Can adnominal possessor follow the possessed noun?	1: present, 0: absent	0	Niinaga (2010:35-87)			
@@ -473,12 +419,6 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Niinaga (2010:35-87)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	0	Niinaga (2010:35-87)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Niinaga (2010:35-87)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Niinaga (2010:35-87)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Niinaga (2010:35-87)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Niinaga (2010:35-87)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Niinaga (2010:35-87)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Niinaga (2010:35-87)			
-TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	"Niinaga (2010:50); Niinaga (2014:56)"			
-TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	"Niinaga (2010:50); Niinaga (2014:56)"			
-TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	"Niinaga (2010:39); Niinaga (2014:30-32)"			
+TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Niinaga (2010:50); Niinaga (2014:56)			
+TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Niinaga (2010:50); Niinaga (2014:56)			
+TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Niinaga (2010:39); Niinaga (2014:30-32)			

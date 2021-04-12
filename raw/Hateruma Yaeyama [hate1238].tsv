@@ -3,8 +3,8 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Aso (2010
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Aso (2010:189-226)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Aso (2010:189-226)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Aso (2010:189-226)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	3	Aso (2010:221, 224)			
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Aso (2010:197)			"unu pïtu maagi
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	3	Aso (2010:221, 224)			
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Aso (2010:197)			"unu pïtu maagi
 this person big 
 ‘This person is big.’"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Aso (2010:189-226)	Not mentioned.		
@@ -38,7 +38,7 @@ GB059	Is the adnominal possessive construction different for alienable and inali
 da-gakku 
 2sg-school
 ‘your school’"
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Aso (2010:195, 198)			"ba-aboa
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Aso (2010:195, 198)			"ba-aboa
 1sg-mother
 ‘My mother’
 aboa =nu munu
@@ -53,7 +53,7 @@ mi-sja-Ø-n good-vlz-npst-rls
 ‘(It’s) good.’ 
 h-e-bo-ha-Ø-n eat-med-want-vlz-npst-rls 
 ‘(I) want to eat.’ "
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Aso (2010:197)			"maagi pïtu
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Aso (2010:197)			"maagi pïtu
 big person 
 ‘a great person’"
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Aso (2010:201)			
@@ -146,7 +146,7 @@ GB126	Is there an existential verb?	1: present, 0: absent	1	Aso (2010:211)			"da
 2sg=core tomorrow house=loc be-nprf-npst=q  ‘Will you in the house tomorrow?’"
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	0	Aso (2010:189-226)			
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Aso (2010:189-226)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Aso (2010:195)			"isa-sïma=ci [ng-u-Ø-n]vp Ishigaki-island=all go-nprf-npst-rls 
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Aso (2010:195)			"isa-sïma=ci [ng-u-Ø-n]vp Ishigaki-island=all go-nprf-npst-rls 
 ‘(I) will go to Ishigaki island.’"
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Aso (2010:195)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Aso (2010:195)			
@@ -218,7 +218,7 @@ horse-dim
 ‘a foal’"
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Aso (2010:189-226)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Aso (2010:189-226)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Aso (2010:197)			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Aso (2010:197)			
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Aso (2010:199)			
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Aso (2010:199)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Aso (2010:189-226)			
@@ -321,55 +321,23 @@ GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Aso (2010:213)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Aso (2010:195)			"isa-sïma=ci [ng-u-Ø-n]vp Ishigaki-island=all go-nprf-npst-rls 
 ‘(I) will go to Ishigaki island.’ "
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Aso (2010:193)			
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Aso (2010:193)		there are only two minimal pairs	"/pa.na/ HH ‘ ower’ vs. /pa.na/ HL ‘nose’ 
-/ma.ju/ HL ‘cat’ vs. /ma.ju/ LH ‘eye-brow’ "
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Aso (2010:189-226)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Aso (2010:189-226)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Aso (2010:192)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Aso (2010:193)	“/r/ cannot appear word-initially”		
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Aso (2010:193)		only ss and mm	
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Aso (2010:192)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	Aso (2010:189-226)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	?	Aso (2010:189-226)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Aso (2010:189-227)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Aso (2010:195-196, 203, 213)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Aso (2010:199)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	0	Aso (2010:199)			
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Aso (2010:189-227)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	0	Aso (2010:205)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Aso (2010:199)			
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent					
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent					
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Aso (2010:192)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Aso (2010:189-227)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Aso (2010:192)		only s/z	
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	0	Aso (2010:192)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	?	Aso (2010:191-192)	not clear		
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	1	Aso (2010:221-226)	humans	-nda, -nzi, -ima	"pïtu-nda
-person-PL
-pa-ima,
-grandmother-PL
-utama-nzi
-child-PL"
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	0	Aso (2010:189-227)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Aso (2010:197)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	1	Aso (2010:221, 224)		for humans yes, for others no (no plural marking for non-humans)	"kagu=o mii-cï muc-i k-i, narab-a,
 basket=acc three-piece bring-med come-med align-med  ‘(he) brought three baskets and put them in line’
 e-s-u-Ø kami=ja, ha=ra mita-ri=nu utama-nzi=nu k-u-ta=sïka,
 so-donprf-npst during=top over.there=abl three-people=gen child-pl=gen come-nprf-past=but ‘Then three children came from over there but,’ "
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Aso (2010:190)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Aso (2010:190)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Aso (2010:201)			
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Aso (2010:210)		"polar: -naa
@@ -378,31 +346,11 @@ content: -ba/-ra"	"da=Ø sinsin=naa ?
 za=ga=ru or-ja-Ø=ba ?
 where=dat=foc go.hon-prf-npst=emp 
 ‘Where have you been?’"
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Aso (2010:201, 213)		ablative -gara	
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?	Aso (2010:189-227)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Aso (2010:204-205)		"CAUS: -ah
 PASS: -ar"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	?	Aso (2010:189-226)			
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	0	Aso (2010:202)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	Aso (2010:202)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	Aso (2010:203)		-i	"ha=ga ng-i
 over.there=dat go-imp  ‘Get out of here. (lit. Go over there.)’  mo=ga k-u=ba
 here=dat come-imp=emp  ‘Come here.’ "
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	0	Aso (2010:200)	core participants are not indexed		
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Aso (2010:189-227)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	0	Aso (2010:189-227)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Aso (2010:202)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Aso (2010:189-227)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Aso (2010:189-227)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Aso (2010:192)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Aso (2010:224)			"mita-ri=nu utama-nzi=nu
 three-people=gen child-pl=gen ‘three children’ "
@@ -432,12 +380,6 @@ spill.over-med=infer prf-neg-nprf-npst ‘then he spilled all the fruits.’ "
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Aso (2010:223)			
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Aso (2010:189-226)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	0	Aso (2010:189-226)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Aso (2010:189-227)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Aso (2010:189-227)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Aso (2010:189-227)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Aso (2010:189-227)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Aso (2010:189-227)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Aso (2010:189-227)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Aso (2010:195)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Aso (2010:195)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Aso (2010:192)			

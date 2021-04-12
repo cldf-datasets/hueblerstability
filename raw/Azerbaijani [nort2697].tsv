@@ -3,10 +3,10 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Shiraliev
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Shiraliev (1997:165)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Shiraliev (1997:165)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Shiraliev (1997:165)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Shiraliev (1971:226, 229)			"beš adam
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Shiraliev (1971:226, 229)			"beš adam
 [five man]
 ‘five men’"
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Shiraliev (1971:226)			"bu oɣlan
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Shiraliev (1971:226)			"bu oɣlan
 [this boy]
 ‘this boy’"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	0	Mehraliev (p.c. 2017)			"*ev män-dä gözäl-dir
@@ -24,10 +24,10 @@ GB027	Are nominal conjunction and comitative expressed by different elements?	1:
 GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Shiraliev (1971:79)			
 GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	0	Shiraliev (1971:79)			
-GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	0	"Shiraliev (1971:82); Shiraliev (1997:165-166)"			"bu ‘this’
+GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	0	Shiraliev (1971:82); Shiraliev (1997:165-166)			"bu ‘this’
 o ‘that’"
-GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	"Shiraliev (1971:82); Shiraliev (1997:165-166)"			
-GB037	Do demonstratives show a visible-nonvisible distinction?	1: present, 0: absent	0	"Shiraliev (1971:82); Shiraliev (1997:165-166)"			
+GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	Shiraliev (1971:82); Shiraliev (1997:165-166)			
+GB037	Do demonstratives show a visible-nonvisible distinction?	1: present, 0: absent	0	Shiraliev (1971:82); Shiraliev (1997:165-166)			
 GB038	Are there demonstrative classifiers?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB039	Is there nonphonological allomorphy of noun number markers?	1: present, 0: absent	0	Shiraliev (1997:163)			
 GB041	Are there several nouns (more than three) which are suppletive for number?	1: present, 0: absent	0	Shiraliev (1971:42-43)			
@@ -35,7 +35,7 @@ GB042	Is there productive overt morphological singular marking on nouns?	1: pres
 GB043	Is there productive morphological dual marking on nouns?	1: present, 0: absent	0	Shiraliev (1997:163)			
 GB044	Is there productive morphological plural marking on nouns?	1: present, 0: absent	1	Shiraliev (1997:163)			
 GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	1	Shiraliev (1997:163)		the same as the plural marker, -lar and allomorphs	
-GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	1	"Shiraliev (1971:54-55); Shiraliev (1997:166)"			
+GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	1	Shiraliev (1971:54-55); Shiraliev (1997:166)			
 GB048	Is there a productive morphological pattern for deriving an agent noun from a verb?	1: present, 0: absent	1	Shiraliev (1971:53)			
 GB049	Is there a productive morphological pattern for deriving an object noun from a verb?	1: present, 0: absent	1	Shiraliev (1971:55)	there is an affix deriving nouns meaning the result of an action		
 GB051	Is there a noun class/gender system where sex is a factor in class assignment?	1: present, 0: absent	0	Shiraliev (1997:163)			
@@ -44,31 +44,31 @@ GB053	Is there a noun class/gender system where animacy is a factor in class ass
 GB054	Is there a noun class/gender system where plant status is a factor in class assignment?	1: present, 0: absent	0	Shiraliev (1997:163)			
 GB057	Are there numeral classifiers?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
-GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	"Shiraliev (1971:49-51); Shiraliev (1997:163-164)"			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	3	"Shiraliev (1971:49-51); Shiraliev (1997:163-164)"			
+GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Shiraliev (1971:49-51); Shiraliev (1997:163-164)			
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Shiraliev (1971:49-51); Shiraliev (1997:163-164)			
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Shiraliev (1997:166)			"ağ yumurta ‘white egg’
 yumurta aɣdır 'The egg is white’
 yumurta aɣ idi ‘The egg was white’"
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Shiraliev (1997:166)			aɣ yumurta ‘white egg’
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Shiraliev (1997:166)			aɣ yumurta ‘white egg’
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Shiraliev (1997:163)			
 GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Shiraliev (1971:80-81)			
 GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Shiraliev (1997:163)			
 GB073	Are there morphological cases for oblique independent personal pronouns (i.e. not S/A/P)?	1: present, 0: absent	1	Shiraliev (1971:80-81)			
-GB074	Are there prepositions?	1: present, 0: absent	0	"Shiraliev (1971:159-167); Shiraliev (1997:167)"			
-GB075	Are there postpositions?	1: present, 0: absent	1	"Shiraliev (1971:159-167); Shiraliev (1997:167)"			
+GB074	Are there prepositions?	1: present, 0: absent	0	Shiraliev (1971:159-167); Shiraliev (1997:167)			
+GB075	Are there postpositions?	1: present, 0: absent	1	Shiraliev (1971:159-167); Shiraliev (1997:167)			
 GB079	Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB080	Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	1	Shiraliev (1971:94-146)			
 GB081	Is there productive infixation in verbs?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB082	Is there overt morphological marking of present tense on verbs?	1: present, 0: absent	1	Shiraliev (1997:165)			
-GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	"Shiraliev (1971:123); Shiraliev (1997:165)"		-dї/-di	
+GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	Shiraliev (1971:123); Shiraliev (1997:165)		-dї/-di	
 GB084	Is there overt morphological marking on the verb dedicated to future tense?	1: present, 0: absent	1	Shiraliev (1997:165)			
-GB086	Is a morphological distinction between perfective and imperfective aspect available on verbs?	1: present, 0: absent	0	"Shiraliev (1971:101, 137); Shiraliev (1997:165)"	tenses can have aspectual meaning		
-GB089	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	"Shiraliev (1971:110-112, 213); Shiraliev (1997:168)"			
-GB090	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Shiraliev (1971:110-112, 213); Shiraliev (1997:168)"			
-GB091	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	"Shiraliev (1971:110-112, 213); Shiraliev (1997:168)"			
-GB092	Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Shiraliev (1971:110-112, 213); Shiraliev (1997:168)"			
-GB093	Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Shiraliev (1971:110-112, 213); Shiraliev (1997:168)"			
-GB094	Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Shiraliev (1971:110-112, 213); Shiraliev (1997:168)"			
+GB086	Is a morphological distinction between perfective and imperfective aspect available on verbs?	1: present, 0: absent	0	Shiraliev (1971:101, 137); Shiraliev (1997:165)	tenses can have aspectual meaning		
+GB089	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	Shiraliev (1971:110-112, 213); Shiraliev (1997:168)			
+GB090	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Shiraliev (1971:110-112, 213); Shiraliev (1997:168)			
+GB091	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	Shiraliev (1971:110-112, 213); Shiraliev (1997:168)			
+GB092	Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Shiraliev (1971:110-112, 213); Shiraliev (1997:168)			
+GB093	Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	Shiraliev (1971:110-112, 213); Shiraliev (1997:168)			
+GB094	Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Shiraliev (1971:110-112, 213); Shiraliev (1997:168)			
 GB095	Are variations in marking strategies of core participants based on TAM distinctions?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB096	Are variations in marking strategies of core participants based on verb classes?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB098	Are variations in marking strategies of core participants based on person distinctions?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
@@ -76,19 +76,19 @@ GB099	Can verb stems alter according to the person of a core participant?	1: pre
 GB103	Is there a benefactive applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	"Shiraliev (1971:100); Shiraliev (1997:166)"			
+GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	Shiraliev (1971:100); Shiraliev (1997:166)			
 GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB109	Is there verb suppletion for participant number?	1: present, 0: absent	0	Shiraliev (1971:110-112)	Not mentioned.		
 GB110	Is there verb suppletion for tense or aspect?	1: present, 0: absent	0	Shiraliev (1971:100-106, 123-138)	Not mentioned.		
 GB111	Are there conjugation classes?	1: present, 0: absent	0	Shiraliev (1971:1-407)	Not mentioned.		
 GB113	Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?	1: present, 0: absent	1	Shiraliev (1971:109)			
-GB114	Is there a phonologically bound reflexive marker on the verb?	1: present, 0: absent	1	"Shiraliev (1971:107); Shiraliev (1997:164)"			
-GB115	Is there a phonologically bound reciprocal marker on the verb?	1: present, 0: absent	1	"Shiraliev (1971:108); Shiraliev (1997:164)"			
+GB114	Is there a phonologically bound reflexive marker on the verb?	1: present, 0: absent	1	Shiraliev (1971:107); Shiraliev (1997:164)			
+GB115	Is there a phonologically bound reciprocal marker on the verb?	1: present, 0: absent	1	Shiraliev (1971:108); Shiraliev (1997:164)			
 GB116	Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	Shiraliev (1971:275)			
 GB118	Are there serial verb constructions?	1: present, 0: absent	0	Shiraliev (1971:1-407)	Not mentioned.		
 GB119	"Can mood be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Shiraliev (1971:100)		idi	
-GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	"Shiraliev (1971:101-103); Shiraliev (1997:164)"		"aux 'to sit’ - progressive
+GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Shiraliev (1971:101-103); Shiraliev (1997:164)		"aux 'to sit’ - progressive
 aux 'to remain/stay’ - progressive"	
 GB121	"Can tense be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Shiraliev (1971:118, 128-129)			
 GB122	Is verb compounding a regular process?	1: present, 0: absent	0	Shiraliev (1971:1-407)	Not mentioned.		
@@ -111,7 +111,7 @@ stäkan masa-nïn üstündä-dir
 [glass table-GEN be.on-PRED]
 ‘The glass is on the table.’"
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Shiraliev (1997:169)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Shiraliev (1997:169)			
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Shiraliev (1997:169)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Shiraliev (1997:169)			
 GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Shiraliev (1997:169)			
@@ -136,13 +136,13 @@ GB146	Is there a morpho-syntactic distinction between predicates expressing cont
 o özünü pis hiss edir
 [3SG REFL bad feeling do.PRS]
 ‘He feels bad.’"
-GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	1	"Shiraliev (1971:106-107); Shiraliev (1997:164)"			
+GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	1	Shiraliev (1971:106-107); Shiraliev (1997:164)			
 GB148	Is there a morphological antipassive marked on the lexical verb?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB149	Is there a morphologically marked inverse on verbs?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB150	Is there clause chaining?	1: present, 0: absent	1	Shiraliev (1971:144)			
 GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	0	Shiraliev (1971:142-146)	participles are used to distinguish the relative order of events		participles are used to distinguish the relative order of events
-GB155	Are causatives formed by affixes or clitics on verbs?	1: present, 0: absent	1	"Shiraliev (1971:109); Shiraliev (1997:164)"		-t/-dїr	
+GB155	Are causatives formed by affixes or clitics on verbs?	1: present, 0: absent	1	Shiraliev (1971:109); Shiraliev (1997:164)		-t/-dїr	
 GB156	Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB158	Are verbs reduplicated?	1: present, 0: absent	0	Shiraliev (1971:102)	repeated forms do not constitute phonological words		
 GB159	Are nouns reduplicated?	1: present, 0: absent	?	Shiraliev (1971:43)	it is not clear whether these constitute phonological words	meaning of plurality	"dästä-dästä čičäk
@@ -157,14 +157,14 @@ GB171	Can an adnominal demonstrative agree with the noun in gender/noun class?	1
 GB172	Can an article agree with the noun in gender/noun class?	1: present, 0: absent	0	Shiraliev (1997:163)			
 GB177	Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument visible in the NP domain?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 GB184	Can an adnominal property word agree with the noun in number?	1: present, 0: absent	0	Shiraliev (1971:59-60)			
-GB185	Can an adnominal demonstrative agree with the noun in number?	1: present, 0: absent	0	"Shiraliev (1971:82); Shiraliev (1997:165-166)"			
+GB185	Can an adnominal demonstrative agree with the noun in number?	1: present, 0: absent	0	Shiraliev (1971:82); Shiraliev (1997:165-166)			
 GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Shiraliev (1997:165)			
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	Mehraliev (p.c. 2017)			"at-cїɣaz [horse-DIM]
 kitab-cїġ [book-DIM]
 kitab-ča [book-DIM]"
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Mehraliev (p.c. 2017)			
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Shiraliev (1997:163)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Shiraliev (1971:226)			"yaχšï adam
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Shiraliev (1971:226)			"yaχšï adam
 [good man]
 ‘a good person’"
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Shiraliev (1971:79)			
@@ -194,7 +194,7 @@ män-im pišiy-ïm var
 [1SG-POSS.1SG cat-POSS.1SG be]
 ‘I have a cat.’"
 GB256	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	1: present, 0: absent	0	Mehraliev (p.c. 2017)			
-GB257	Can polar interrogation be marked by intonation only?	1: present, 0: absent	1	"Shiraliev (1971:254-257); Shiraliev (1997:162)"			
+GB257	Can polar interrogation be marked by intonation only?	1: present, 0: absent	1	Shiraliev (1971:254-257); Shiraliev (1997:162)			
 GB260	Can polar interrogation be indicated by a special word order?	1: present, 0: absent	0	Shiraliev (1971:254-257)			
 GB262	Is there a clause-initial polar interrogative particle?	1: present, 0: absent	0	Shiraliev (1971:254-257)			
 GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	Shiraliev (1971:254-257)		mï/mi/mu/mü, ki, aχï, ha, bäs, mäkär	"bïča-ɣïn joχ-dur ki
@@ -232,9 +232,9 @@ GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1:
 onlar bir-birlärini döyürlär
 [3PL one-another beat:PL]
 ‘They beat each other.’"
-GB309	Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?	1: present, 0: absent	1	"Shiraliev (1971:123-136); Shiraliev (1997:165)"	they do not distinguish distance from Time of Reference		
+GB309	Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?	1: present, 0: absent	1	Shiraliev (1971:123-136); Shiraliev (1997:165)	they do not distinguish distance from Time of Reference		
 GB312	Is there overt morphological marking on the verb dedicated to mood?	1: present, 0: absent	1	Shiraliev (1997:164-165)			
-GB313	Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?	1: present, 0: absent	0	"Shiraliev (1971:49-51, 87); Shiraliev (1997:163-164)"	genitive case of personal pronouns		
+GB313	Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?	1: present, 0: absent	0	Shiraliev (1971:49-51, 87); Shiraliev (1997:163-164)	genitive case of personal pronouns		
 GB314	Can augmentative meaning be expressed productively by a shift of gender/noun class?	1: present, 0: absent	0	Shiraliev (1997:163)			
 GB315	Can diminutive meaning be expressed productively by a shift of gender/noun class?	1: present, 0: absent	0	Shiraliev (1997:163)			
 GB316	Is singular number regularly marked in the noun phrase by a dedicated phonologically free element?	1: present, 0: absent	0	Shiraliev (1997:163)			
@@ -273,77 +273,43 @@ päncärä qїr-їl-dї
 ‘The window broke.’"
 GB402	Does the verb for 'see' have suppletive verb forms?	1: present, 0: absent	0	Shiraliev (1971:1-407)	Not mentioned.		
 GB403	Does the verb for 'come' have suppletive verb forms?	1: present, 0: absent	0	Shiraliev (1971:1-407)	Not mentioned.		
-GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	"Shiraliev (1971:44); Shiraliev (1997:163)"			
+GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	Shiraliev (1971:44); Shiraliev (1997:163)			
 GB409	Is there any ergative alignment of flagging?	1: present, 0: absent	0	Shiraliev (1971:1-407)	Not mentioned.		
-GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	1	"Shiraliev (1971:44); Shiraliev (1997:163)"			
+GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	1	Shiraliev (1971:44); Shiraliev (1997:163)			
 GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	0	Shiraliev (1971:79)			
 GB421	Is there a preposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
 GB422	Is there a postposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	"Shiraliev (1971:49-51); Shiraliev (1997:163-164)"			
-GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	"Shiraliev (1971:49-51); Shiraliev (1997:163-164)"			
-GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	"Shiraliev (1971:49-51); Shiraliev (1997:163-164)"			
-GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	"Shiraliev (1971:49-51); Shiraliev (1997:163-164)"			
+GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	Shiraliev (1971:49-51); Shiraliev (1997:163-164)			
+GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	Shiraliev (1971:49-51); Shiraliev (1997:163-164)			
+GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	Shiraliev (1971:49-51); Shiraliev (1997:163-164)			
+GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	Shiraliev (1971:49-51); Shiraliev (1997:163-164)			
 GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Shiraliev (1997:164-165)			
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Shiraliev (1997:164)			
-GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	"Shiraliev (1971:105-106); Shiraliev (1997:165)"			
+GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Shiraliev (1971:105-106); Shiraliev (1997:165)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Mehraliev (p.c. 2017)			"sän-i sevir-äm
 [2SG-ACC love-1SG]
 ‘I love you.’
 ġїz-ї öp-dü
 [girl kiss-PST]
 ‘He kissed the girl.’"
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	1				
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Shiraliev (1997:161-162)	Not mentioned.		
-TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	"Shiraliev (1971:27-28); Shiraliev (1997:162)"			
+TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Shiraliev (1971:27-28); Shiraliev (1997:162)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Shiraliev (1997:162)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Shiraliev (1997:161)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Shiraliev (1971:26)	only in borrowings		
-TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	"Shiraliev (1971:27); Shiraliev (1997:162)"			
+TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Shiraliev (1971:27); Shiraliev (1997:162)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Shiraliev (1971:20-23)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0				
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	1	Shiraliev (1997:166)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Shiraliev (1997:163)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Shiraliev (1971:1-407)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Shiraliev (1971:79)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Shiraliev (1971:80)			"1SG.NOM: män
 1SG.DAT: mänä
 3SG.NOM: o
 3SG.DAT: ona"
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Shiraliev (1971:142-146)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Shiraliev (1997:166)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	1	Shiraliev (1971:79)			biz / biz-lär 1PL
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	?	Shiraliev (1971:1-407)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Shiraliev (1997:161)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Shiraliev (1971:22-24)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Shiraliev (1971:26)			
-TE039	Is there vowel length distinction?	1: present, 0: absent	0	"Shiraliev (1971:7); Shiraliev (1997:162)"			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	0				
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	1	Achundova 1971			"äl ‘hand’
-äl ‘arm'"
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	1				"ay ‘moon’
-ay ‘month’"
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Shiraliev (1997:163)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	0	Mehraliev (p.c. 2017)		"dä ‘also’
-hätta ‘even’"	"män dä dondurma istäyiräm
-1SG also ice.cream want:1SG
-‘I want an ice cream too.’
-män hätta dondurma belä istämiräm
-1SG even ice.cream like.that want:1SG
-‘I don’t want even an ice cream.’"
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	"Shiraliev (1971:82); Shiraliev (1997:165-166)"			
+TE039	Is there vowel length distinction?	1: present, 0: absent	0	Shiraliev (1971:7); Shiraliev (1997:162)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Shiraliev (1971:71)			
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	"Shiraliev (1971:44); Shiraliev (1997:163)"			
-TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	"Shiraliev (1971:44); Shiraliev (1997:163)"			
+TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Shiraliev (1971:44); Shiraliev (1997:163)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Shiraliev (1971:45-48)		"DAT: -a/-e/-ya/-ye
 LOC: -da/-dä"	
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Mehraliev (p.c. 2017)		no question particle is used in content interrogation	"siz yedin mi
@@ -352,32 +318,9 @@ TE054	Is there a distinction between marking of interrogation in polar and conte
 sən nə yedin
 [2SG what eat]
 ‘What did you eat?’"
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	0	Mehraliev (p.c. 2017)			"sičan pišik täräfindän tut-ul-du
-[mouse cat by catch-PASS-PST]
-‘The mouse was caught by the cat.’"
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	0	"Shiraliev (1971:82); Shiraliev (1997:165-166)"			
-TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	"Shiraliev (1971:106-109); Shiraliev (1997:164)"		"causative: -t/-dїr
+TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Shiraliev (1971:106-109); Shiraliev (1997:164)		"causative: -t/-dїr
 passive: -їl/-il/-ul/-ül"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	?	"Shiraliev (1971:159-167); Shiraliev (1997:167)"			
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Shiraliev (1997:164-165)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	0	Shiraliev (1997:164-165)			
-TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	"Shiraliev (1971:114); Shiraliev (1997:164)"			
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Shiraliev (1971:47)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	1				"ayaq ‘foot’
-ayaq ‘leg’"
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?	"Shiraliev (1971:159-167); Shiraliev (1997:167)"		Not mentioned.	
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Shiraliev (1997:164)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Shiraliev (1971:1-407)			
+TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Shiraliev (1971:114); Shiraliev (1997:164)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Shiraliev (1971:226, 229)			
 TS002	Can numeral follow the noun?	1: present, 0: absent	0	Shiraliev (1971:226, 229)			
@@ -385,8 +328,8 @@ TS003	Can demonstrative precede the noun?	1: present, 0: absent	1	Shiraliev (197
 [this boy]
 ‘this boy’"
 TS004	Can demonstrative follow the noun?	1: present, 0: absent	0	Shiraliev (1971:226)			
-TS005	Can adnominal possessor precede the possessed noun?	1: present, 0: absent	1	"Shiraliev (1971:49-51); Shiraliev (1997:163-164)"			
-TS006	Can adnominal possessor follow the possessed noun?	1: present, 0: absent	1	"Shiraliev (1971:49-51); Shiraliev (1997:163-164)"			
+TS005	Can adnominal possessor precede the possessed noun?	1: present, 0: absent	1	Shiraliev (1971:49-51); Shiraliev (1997:163-164)			
+TS006	Can adnominal possessor follow the possessed noun?	1: present, 0: absent	1	Shiraliev (1971:49-51); Shiraliev (1997:163-164)			
 TS007	Can adnominal property word precede the noun?	1: present, 0: absent	1	Shiraliev (1971:226)			"yaχšï adam
 [good man]
 ‘a good person’"
@@ -395,12 +338,6 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	0	Shiraliev (1971:88-93)			
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Shiraliev (1971:1-407)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Shiraliev (1971:1-407)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Shiraliev (1971:1-407)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Shiraliev (1971:1-407)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Shiraliev (1997:169)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Shiraliev (1997:169)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Shiraliev (1971:20-23)			

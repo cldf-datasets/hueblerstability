@@ -3,8 +3,8 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Tsumagari
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Tsumagari (2009:11)			
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Tsumagari (2009:12)			"eri jü:
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Tsumagari (2009:11)			
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Tsumagari (2009:12)			"eri jü:
 this house
 ‘this house’"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Tsumagari (2009:7)			"imin do:-ni: mü:-nin aruxxun bičči antasi Imin.river-GEN water-3 clear be.PTCP sweet
@@ -38,7 +38,7 @@ GB054	Is there a noun class/gender system where plant status is a factor in clas
 GB057	Are there numeral classifiers?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Tsumagari (2009:5)			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Tsumagari (2009:5, 11)			"xonin-i: nanda-wa:-ni
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Tsumagari (2009:5, 11)			"xonin-i: nanda-wa:-ni
 sheep-GEN skin-ACC-3SG
 ‘sheep skin (ACC)’
 sin-i: a:wun-si
@@ -53,7 +53,7 @@ min-i: bitig
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Tsumagari (2009:7)			"imin do:-ni: mü:-nin aruxxun bičči antasi Imin.river-GEN water-3 clear be.PTCP sweet
 ‘The water of Imin river is clear and sweet.’ 
 (Hu & Chaoke 1986:100)"
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Tsumagari (2009:1-18)			"aja xonin-sal
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Tsumagari (2009:1-18)			"aja xonin-sal
 good sheep-PL
 ‘good sheep’"
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Tsumagari (2009:4)	There is a nominative, an accusative and an undefinite accusative case.		
@@ -137,7 +137,7 @@ GB127	Are different posture verbs used obligatorily depending on an inanimate lo
 desk-GEN surface-DAT-3SG book be-PRS.PTCP-3SG
 ‘There is a book on the desk.’"
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Tsumagari (2009:12-14)			"tari beje e-se: nini-re
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Tsumagari (2009:12-14)			"tari beje e-se: nini-re
 that man NEG-PST go-PRS
 ‘He didn’t go’."
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Tsumagari (2009:12-14)			
@@ -214,7 +214,7 @@ GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Tsum
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Tsumagari (2009:1-18)	Not mentioned.		
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Tsumagari (2009:1-18)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Tsumagari (2009:11)			"aja xonin-sal
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Tsumagari (2009:11)			"aja xonin-sal
 good sheep-PL
 ‘good sheep’"
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Tsumagari (2009:6)			
@@ -354,64 +354,21 @@ GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1:
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Tsumagari (2009:1-18)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Tsumagari (2009:10)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	?	Tsumagari (2009:1-18)	Not mentioned.		
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Tsumagari (2009:3-4)	Not mentioned.		
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	?	Tsumagari (2009:3-4)	Not mentioned.		
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Tsumagari (2009:3)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	1	Tsumagari (2009:3)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Tsumagari (2009:3)		"""Any consonants except N and r may appear in word-initial position.”"	
 TE006	Is there an initial r-?	1: present, 0: absent	0	Tsumagari (2009:3)		"""Any consonants except N and r may appear in word-initial position.”"	
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Tsumagari (2009:3-4)		“any consonant cluster occurs neither word-initially nor finally”	
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Tsumagari (2009:3-4)		"""We recognize the following seventeen consonant phonemes in Solon:p t k b d g m n N c [tS] j [dZ] s x l r w y [j]”"	
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	1	Tsumagari (2009:18)			də:ŋxo munda- ‘to make a telephone call’ (lit. ‘to hit telephone’), daNga ta:n- ‘to smoke’ (lit. ‘to pull tobacco’)
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	1	Tsumagari (2009:7)			"ab aja ‘very good’
-xob xonnorin ‘coal-black’
-nem nemikkün ‘very thin’"
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Tsumagari (2009:4)		"""Morphological process in Solon is basically suffix-agglutinative”."	"xaxra:-sül-ni:-s
-chicken-PL-GEN-2SG
-‘of your chickens’
-(Poppe 1931:117)"
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Tsumagari (2009:4)		"""Morphological process in Solon is basically suffix-agglutinative”."	"xaxra:-sül-ni:-s
-chicken-PL-GEN-2SG
-‘of your chickens’
-(Poppe 1931:117)"
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Tsumagari (2009:6)		bi:-si:	
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Tsumagari (2009:6)		"bi: 1SG
 min 1SG.OBL"	
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Tsumagari (2009:10, 16-17)		"coordinative converb -mi: simultaneous action by the same doer(s)
-subordinative converb -kci ~ -cci: preceding action by the same doer(s)
-perfective converb -ta:n(i): perfect preceding action by the same doer(s)
-durative converb -gi:: continued or repeated action by the same doer(s)
-conditional converb -kki: imperfect conditional action by a different doer(s)
-successive converb -jixi, -jixa:: preceding action by a different doer(s)"	"tari arxi imi-gi: imi-gi: sotto-so:
-3SG liquor drink-DUR drink-DUR get.drunk-PST
-’He drank and drank and got drunk.’"
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Tsumagari (2009:13-14)		Not mentioned.	
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Tsumagari (2009:6)			
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	1	Tsumagari (2009:1-18)			
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	1	Tsumagari (2009:7)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Tsumagari (2009:3)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Tsumagari (2009:3)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Tsumagari (2009:3)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Tsumagari (2009:3)			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	1	Lie 1978			"ARM: nā-li ""Arm [Hand], vgl. nali""
-HAND: nali	""Hand"""
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Tsumagari (2009:6)		suffix -sal	"omolə:-sal [grandson-PL]
-xolə:-sal [mountain-PL]"
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Tsumagari (2009:11)			
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Tsumagari (2009:4)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Tsumagari (2009:4)	indefinite unaccusative is marked		
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Tsumagari (2009:13)			"sire-ni: oro:n-du-ni bitig bi-si-n
 desk-GEN surface-DAT-3SG book be-PRS.PTCP-3SG
@@ -422,35 +379,8 @@ this ox good-Q
 si: i:le: tegeʤi-ndi
 you where live-PRS.2SG
 ‘Where do you live?’"
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Tsumagari (2009:8, 15-16)			"bi: e-dü munda-wu-suu 1SG this-DAT hit-PASS-PST.1SG
-‘I was hit by him.’"
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Tsumagari (2009:8, 15-16)			
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	1	Tsumagari (2009:17)			"kino: isi-mi güŋken ʤo:nʤi-mi
-movie see-PRS.PTCP.1S saying think-PRS.PTCP.1S
-‘I think that I will watch a movie.’"
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Tsumagari (2009:13)			"sire-ni: oro:n-du-ni bitig bi-si-n
-desk-GEN surface-DAT-3SG book be-PRS.PTCP-3SG
-‘There is a book on the desk.’"
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	Tsumagari (2009:9)		-xa	
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Tsumagari (2009:11, 15)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Tsumagari (2009:1-18)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Tsumagari (2009:13)			"sire-ni: oro:n-du-ni bitig bi-si-n
-desk-GEN surface-DAT-3SG book be-PRS.PTCP-3SG
-‘There is a book on the desk.’"
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Tsumagari (2009:3)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Tsumagari (2009:11)			
 TS002	Can numeral follow the noun?	1: present, 0: absent	0	Tsumagari (2009:11)			
@@ -474,12 +404,6 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
 TS079	Is there height vowel harmony?	1: present, 0: absent	?	Tsumagari (2009:3)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	?	Tsumagari (2009:3)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Tsumagari (2009:1-18)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Tsumagari (2009:1-18)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Tsumagari (2009:12-14)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Tsumagari (2009:12-14)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Tsumagari (2009:3-4)			

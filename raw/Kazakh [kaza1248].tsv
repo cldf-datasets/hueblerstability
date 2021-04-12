@@ -3,10 +3,10 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Kara (200
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Kara (2002:1-56)			
 GB022	Are there prenominal articles?	1: present, 0: absent	?	Kara (2002:1-56)	Not mentioned.		
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Kara (2002:1-56)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Kara (2002:29)			"bir küni
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Kara (2002:29)			"bir küni
 one day
 ‘one day’"
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Kara (2002:24)			"bul žer-de
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Kara (2002:24)			"bul žer-de
 this place-LOC
 ‘at this place’"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Kara (2002:1-56)	Not mentioned.		
@@ -37,11 +37,11 @@ GB054	Is there a noun class/gender system where plant status is a factor in clas
 GB057	Are there numeral classifiers?	1: present, 0: absent	0	Kara (2002:1-56)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Kara (2002:1-56)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Kara (2002:20)			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	3	Kara (2002:23)			"men-iŋ üj-im
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Kara (2002:23)			"men-iŋ üj-im
 1SG-GEN house-1SG.POSS
 ‘my house’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	?	Kara (2002:1-56)	Not mentioned.		
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	?	Kara (2002:1-56)	Not mentioned.		
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	?	Kara (2002:1-56)	Not mentioned.		
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Kara (2002:19)			
 GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Kara (2002:23)			
 GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Kara (2002:19)			
@@ -104,7 +104,7 @@ money-1SG.POSS exist
 ‘I have money.’"
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	?	Kara (2002:1-56)	Not mentioned.		
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Kara (2002:1-56)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Peacecorps (1995:15)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Peacecorps (1995:15)			
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Peacecorps (1995:15)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Peacecorps (1995:15)			
 GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Peacecorps (1995:15)			"men kitap okudï ünata-mїn
@@ -120,7 +120,7 @@ GB138	Can standard negation be marked clause-initially?	1: present, 0: absent	0	
 GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	?	Kara (2002:41)	Not mentioned.		
 GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	0	Kara (2002:41)	the marker of existential negation can also be used to negate at least some intransitive verbs, but the marker of verbal negation does not seem to be used with nominal predicates		
 GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	0	Kara (2002:1-56)			
-GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	1	"Kara (2002:42); Peacecorps (1995:13)"		-(I)l	"basta-l-
+GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	1	Kara (2002:42); Peacecorps (1995:13)		-(I)l	"basta-l-
 start-PASS
 ‘to be started’
 bas-ïl
@@ -155,7 +155,7 @@ book-DIM
 ‘a small book, a booklet’"
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Kara (2002:1-56)			
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Kara (2002:18)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Kara (2002:28)			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Kara (2002:28)			
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Kara (2002:23)			
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Kara (2002:23)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Kara (2002:18)			
@@ -272,76 +272,27 @@ GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1:
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Kara (2002:1-56)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Kara (2002:1-56)	not mentioned		
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Kara (2002:1-56)			
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Kara (2002:10)			
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Kara (2002:10)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Kara (2002:12)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Kara (2002:12)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Kara (2002:10)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Kara (2002:14)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Kara (2002:10)	examples provide no evidence		
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Kara (2002:10)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	1	Kara (2002:33)	adjectives (partial reduplication)		"kap~kara
-INT~black
-‘very black, pitch dark’"
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Kara (2002:18-19)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Kara (2002:1-56)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Kara (2002:23)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Kara (2002:23)			
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Kara (2002:41)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Kara (2002:23)	probably not, not mentioned		
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent					
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent					
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Kara (2002:10)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	1	Kara (2002:25)		"reflexive: öz
-reciprocal: bir-birin"	
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Kara (2002:1-56)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Kara (2002:10)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Kara (2002:10)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	0	Kara (2002:9)			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Kara (2002:18)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	?	Kara (2002:1-56)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Kara (2002:55)			"segiz aga-ŋ-ŋїn
 eight brother-2SG-GEN
 ‘eight brothers’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Kara (2002:19)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Kara (2002:19)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Kara (2002:19)			
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Kara (2002:19)			
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?	Kara (2002:1-56)	probably not, not mentioned		
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	0	Kara (2002:1-56)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	?	Kara (2002:19)	probably yes		
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Kara (2002:22-23)			
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	Kara (2002:1-56)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Kara (2002:38)			
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	Kara (2002:1-56)	almost		
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Kara (2002:20)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Kara (2002:1-56)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Kara (2002:1-56)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Kara (2002:34-35)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Kara (2002:10)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Kara (2002:29)			"bir küni
 one day
@@ -365,13 +316,7 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	0	Kara (2002:27)			
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Kara (2002:12)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Kara (2002:12)			
-TS081	Is there an initial l-?	1: present, 0: absent	0	Kara (2002:14)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Kara (2002:1-56)	no examples in predicative use available		
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	1	Kara (2002:34)		postposition ben/pen	
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Kara (2002:1-56)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Kara (2002:1-56)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	1	Kara (2002:18)			
-TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	"Peacecorps (1995:15); Kara (2002:23)"			"men bara-mїn
+TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Peacecorps (1995:15); Kara (2002:23)			"men bara-mїn
 1SG go-1SG
 ‘I go.’"
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Peacecorps (1995:15)			

@@ -5,10 +5,10 @@ GB022	Are there prenominal articles?	1: present, 0: absent	1	Baskakov (1975:116)
 one person
 ‘A person came.’/‘A certain person came.’"
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Baskakov (1975:116)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Baskakov (1975:115)			"altï at
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Baskakov (1975:115)			"altï at
 six horse
 ‘six horses’"
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Baskakov (1975:149)			"pu čïl-lar-da
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Baskakov (1975:149)			"pu čïl-lar-da
 this year-PL-LOC
 ‘in these years’"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Baskakov (1975:331)	Not mentioned.		
@@ -65,13 +65,13 @@ GB054	Is there a noun class/gender system where plant status is a factor in clas
 GB057	Are there numeral classifiers?	1: present, 0: absent	0	Baskakov (1975:1-413)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Baskakov (1975:1-413)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Baskakov (1975:62-65, 281)			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Baskakov (1975:62-65, 281)			"min-iŋ kniga-lar-ïm
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Baskakov (1975:62-65, 281)			"min-iŋ kniga-lar-ïm
 1SG-GEN book-PL-1PL
 ‘my books’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Baskakov (1975:331)			"tigir kök
 sky blue
 ‘The sky is blue.’"
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Baskakov (1975:331)			"čilïƔ suƔ
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Baskakov (1975:331)			"čilïƔ suƔ
 warm water
 ‘warm water’"
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Baskakov (1975:66-67)			
@@ -156,7 +156,7 @@ GB124	Is incorporation of nouns into verbs a productive intransitivizing process
 GB126	Is there an existential verb?	1: present, 0: absent	?	Baskakov (1975:1-413)	Not mentioned.		
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	?	Baskakov (1975:1-413)	Not mentioned.		
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Baskakov (1975:1-413)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Baskakov (1975:207)			"annaŋ Xosti panük-tïŋ goša-zï odïr
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Baskakov (1975:207)			"annaŋ Xosti panük-tïŋ goša-zï odïr
 3SG beside Panjuk-? Gosha-? sit
 ‘Beside her Gosha, Panjuk’s son, is sitting.’"
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Baskakov (1975:1-413)			
@@ -232,7 +232,7 @@ dog-DIM
 ‘a small dog’"
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Baskakov (1975:1-413)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Baskakov (1975:1-413)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Baskakov (1975:84)			"čaj-Ɣï kün
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Baskakov (1975:84)			"čaj-Ɣï kün
 summer-ADJ day
 ‘a summer day’"
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Baskakov (1975:146)			
@@ -357,50 +357,22 @@ GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Baskakov (1975:207-227)			"par-Ɣan pol-Ɣam
 go-PST.INDF be-PST.INDF.1SG
 ‘I went once upon a time.’"
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Baskakov (1975:1-413)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Baskakov (1975:23)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Baskakov (1975:23)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Baskakov (1975:37)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Baskakov (1975:36)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Baskakov (1975:1-413)	Not mentioned explicitly, but examples provide no evidence for consonant clusters		
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Baskakov (1975:27)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0	Baskakov (1975:331)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Baskakov (1975:1-413)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Baskakov (1975:207-211)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Baskakov (1975:146)		min-sin	
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Baskakov (1975:146)	both nominative and oblique forms		
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Baskakov (1975:76)			"pis olar-naŋ pir čir-de tastïXti čurtapča-bïs
-1PL 3PL-INS one village-LOC place live-1PL
-‘We live in the same village as they do (with them).’"
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Baskakov (1975:1-413)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Baskakov (1975:146-147)			
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent					
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent					
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Baskakov (1975:27)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Baskakov (1975:1-413)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Baskakov (1975:27)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Baskakov (1975:27)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Baskakov (1975:13, 25-26)			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Baskakov (1975:61)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Baskakov (1975:149)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Baskakov (1975:115)			"altï at
 six horse
 ‘six horses’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Baskakov (1975:67)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	?	Baskakov (1975:66-71)	Not mentioned.		
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Baskakov (1975:69-72)			
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Baskakov (1975:286-287)	content interrogation not marked		"ol no: nime-dir
@@ -409,39 +381,11 @@ TE054	Is there a distinction between marking of interrogation in polar and conte
 am pil-di-ŋ me kem-min min
 now know-R.PST-2SG Q who-1SG 1SG
 ‘Do you know now, who I am?’"
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Baskakov (1975:70)			"aƔas-tar čil-ge čajXalïs tur-Ɣan-nar
-tree-PL wind-DAT sway stand-INDEF.PST-PL
-‘The trees were being swayed by the wind.’"
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	0	Baskakov (1975:149)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Baskakov (1975:178-181)		"passive: -ïl/-il/-l
 causative: -tïr and allomorphs"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	1	Baskakov (1975:412)		"ti-p
-say-PTPC"	"min aƔa-m-naŋ ninǮe častïƔ pol-ar-zïŋ ti-p sur-ïbïs-Xa-m
-1SG grandfather-1SG.POSS how.much aged be-FUT-2G say-PTCP ask-PRF-PST-1SG
-‘I asked my grandfather how old he is.’"
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Baskakov (1975:262-267)			"ist-in-de
-inside-POSS-LOC
-‘inside’"
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	Baskakov (1975:1-413)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Baskakov (1975:164, 187, 189)			"kil
 come
 ‘Come!’"
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Baskakov (1975:94)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	1	Baskakov (1975:254-256)			"azïr-a exceed-?
-indir-e go.down-?"
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Baskakov (1975:253)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Baskakov (1975:253)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Baskakov (1975:27)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Baskakov (1975:115, 331)			"altï at
 six horse
@@ -478,12 +422,6 @@ kime-ler
 boat-PL
 ‘boats'"
 TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Baskakov (1975:23)	restricted to roots, does not appear in affixes		
-TS081	Is there an initial l-?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Baskakov (1975:1-413)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Baskakov (1975:1-413)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Baskakov (1975:207)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Baskakov (1975:207)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Baskakov (1975:27)			

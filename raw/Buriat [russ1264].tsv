@@ -3,8 +3,8 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Poppe (19
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Sanzeev (1962:136)	not commonly, but possibly		
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Poppe (1960:110)			gurban morin [three horse] ‘three horses’
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Poppe (1960:110)			ede nyxed [these comrade.??]
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Poppe (1960:110)			gurban morin [three horse] ‘three horses’
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Poppe (1960:110)			ede nyxed [these comrade.??]
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	0	Poppe (1960:1-129)	Probably not, not mentioned.		
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	1	Poppe (1960:33, 38)		"-aar/-tai COM suffix
 ali ‘and’
@@ -13,10 +13,10 @@ morin-toi [horse-COM]
 Saazgai ba xireenyyd ‘the crow and the magpies’
 alirhan-Sje nerhen-Sje yxer nyden-Sje [red.bilberry-CONJ bluberry-CONJ ?? black.currant-CONJ] ‘(There is) red bilberry as well as blueberry and black currant.’
 "
-GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	"Poppe (1960:50); Sanzeev (1962:138)"	only diachronically: man EXCL, biden INCL, now both stems are used indiscriminately		
+GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Poppe (1960:50); Sanzeev (1962:138)	only diachronically: man EXCL, biden INCL, now both stems are used indiscriminately		
 GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Poppe (1960:53-)			
 GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	0	Poppe (1960:50-53)			
-GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	0	"Sanzeev (1962:141-144); Poppe (1960:53-55)"			"ene ‘this’
+GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	0	Sanzeev (1962:141-144); Poppe (1960:53-55)			"ene ‘this’
 tere ‘that’"
 GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	Poppe (1960:53-55)			
 GB037	Do demonstratives show a visible-nonvisible distinction?	1: present, 0: absent	0	Poppe (1960:53-55)			
@@ -27,11 +27,11 @@ GB042	Is there productive overt morphological singular marking on nouns?	1: pres
 GB043	Is there productive morphological dual marking on nouns?	1: present, 0: absent	0	Poppe (1960:32)			
 GB044	Is there productive morphological plural marking on nouns?	1: present, 0: absent	1	Poppe (1960:32)	there are multiple plural suffixes, and each noun can take one of these		xada [mountain] - xada-nuud [mountain-PL]
 GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	0	Poppe (1960:87-88)	There are collective markers, but they are not inline with the definition of the feature.		
-GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	1	"Sanzeev (1962:51); Poppe (1960:61-63, 89)"		"-xa, -aa
+GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	1	Sanzeev (1962:51); Poppe (1960:61-63, 89)		"-xa, -aa
 -aal, -aan, -dal, -dan, -l and other"	"jaba-xa [go-ACTION] ‘going’
 yxe-l [die-ACTION] ‘death’
 enee-den [laugh-ACTION] ‘laughter’"
-GB048	Is there a productive morphological pattern for deriving an agent noun from a verb?	1: present, 0: absent	1	"Sanzeev (1962:51); Poppe (1960:33, 66-67, 89)"		"-gSa
+GB048	Is there a productive morphological pattern for deriving an agent noun from a verb?	1: present, 0: absent	1	Sanzeev (1962:51); Poppe (1960:33, 66-67, 89)		"-gSa
 -ran
 -San"	"jaba-gSa [go-AGENT]
 oro-gSo [enter-AGENT]
@@ -44,12 +44,12 @@ GB053	Is there a noun class/gender system where animacy is a factor in class ass
 GB054	Is there a noun class/gender system where plant status is a factor in class assignment?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB057	Are there numeral classifiers?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	"Sanzeev (1962:92-94); Poppe (1960:42-47)"			"axa-mni [elder.brother-1SG]
+GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Sanzeev (1962:92-94); Poppe (1960:42-47)			"axa-mni [elder.brother-1SG]
 mori-mni [horse-1SG] ‘my horse’"
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	3	Poppe (1960:42-47, 110-111)			"tere xybyyn-ei eZii-aba-tai-n [that boy-GEN mother-father-COM-3SG] ‘with the parents of that boy’
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Poppe (1960:42-47, 110-111)			"tere xybyyn-ei eZii-aba-tai-n [that boy-GEN mother-father-COM-3SG] ‘with the parents of that boy’
 morin-Sni [horse-2SG] ‘your horse’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	?	Poppe (1960:1-129)	Not clear		
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Poppe (1960:61)	verbal nouns take verbal morphology and agree with the subject	verbal nouns take verbal morphology and agree with the subject	
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Poppe (1960:61)	verbal nouns take verbal morphology and agree with the subject	verbal nouns take verbal morphology and agree with the subject	
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Poppe (1960:33)		"ACC: -iiji
 NOM: unmarked"	"mor-i:ji [horse-ACC]
 bi bagS-i:ji asaraa-b
@@ -69,8 +69,8 @@ Sere:n deere [table on] ‘on the table’"
 GB079	Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	0	Poppe (1960:56)			
 GB080	Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	1	Poppe (1960:56)			
 GB081	Is there productive infixation in verbs?	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB082	Is there overt morphological marking of present tense on verbs?	1: present, 0: absent	1	"Sanzeev (1962:263); Poppe (1960:57)"		-na	jaba-na-b [go-PRS-1SG] ‘I go.’
-GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	"Sanzeev (1962:264-265); Poppe (1960:58)"		-ba	jaba-ba-b [go-PST-1SG] ‘I went.’
+GB082	Is there overt morphological marking of present tense on verbs?	1: present, 0: absent	1	Sanzeev (1962:263); Poppe (1960:57)		-na	jaba-na-b [go-PRS-1SG] ‘I go.’
+GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	Sanzeev (1962:264-265); Poppe (1960:58)		-ba	jaba-ba-b [go-PST-1SG] ‘I went.’
 GB084	Is there overt morphological marking on the verb dedicated to future tense?	1: present, 0: absent	0	Poppe (1960:58)		"-uuZa
 this form is not mentioned in Sanzeev (1962)
 in Sanzeev (1964) this form is called a future participle"	jab-u:Za-b [go-FUT-1SG] ‘I will go.’
@@ -80,29 +80,29 @@ GB086	Is a morphological distinction between perfective and imperfective aspect 
 unSa-Za hu:-na 
 [read-IPFV.PTCP sit-PRS] 
 ‘He sits reading.’"
-GB089	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	"Sanzeev (1964:10, 82-86); Sanzeev (1962:157); Poppe (1960:57-58, 123)"	it is not obligatory		"jaba-na-b [go-PRS-1SG] ‘I go.’
+GB089	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	Sanzeev (1964:10, 82-86); Sanzeev (1962:157); Poppe (1960:57-58, 123)	it is not obligatory		"jaba-na-b [go-PRS-1SG] ‘I go.’
 jaba-ba-b
 [go-PST-1SG]
 ‘I went.’
 jaba-ba-S
 [go-PST-2SG]
 ‘You went.’"
-GB090	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Sanzeev (1964:10, 82-86); Sanzeev (1962:157); Poppe (1960:57-58, 123)"			
-GB091	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	"Sanzeev (1964:10, 82-86); Sanzeev (1962:157); Poppe (1960:114, 123)"	it is not obligatory		"bi bagS-i:ji asaraa-b
+GB090	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Sanzeev (1964:10, 82-86); Sanzeev (1962:157); Poppe (1960:57-58, 123)			
+GB091	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	Sanzeev (1964:10, 82-86); Sanzeev (1962:157); Poppe (1960:114, 123)	it is not obligatory		"bi bagS-i:ji asaraa-b
 [1SG teacher-ACC bring-1SG]
 ‘I have brought the teacher.’"
-GB092	Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Sanzeev (1964:10, 82-86); Sanzeev (1962:157); Poppe (1960:114, 123)"			
-GB093	Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Sanzeev (1964:10); Sanzeev (1962:157); Poppe (1960:114)"			"bi bagS-i:ji asaraa-b
+GB092	Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Sanzeev (1964:10, 82-86); Sanzeev (1962:157); Poppe (1960:114, 123)			
+GB093	Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	Sanzeev (1964:10); Sanzeev (1962:157); Poppe (1960:114)			"bi bagS-i:ji asaraa-b
 [1SG teacher-ACC bring-1SG]
 ‘I have brought the teacher.’"
-GB094	Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Sanzeev (1964:10); Sanzeev (1962:157); Poppe (1960:114)"			
+GB094	Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Sanzeev (1964:10); Sanzeev (1962:157); Poppe (1960:114)			
 GB095	Are variations in marking strategies of core participants based on TAM distinctions?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB096	Are variations in marking strategies of core participants based on verb classes?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB098	Are variations in marking strategies of core participants based on person distinctions?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB099	Can verb stems alter according to the person of a core participant?	1: present, 0: absent	?	Poppe (1960:1-129)	Not mentioned.		
 GB103	Is there a benefactive applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	?	"Sanzeev (1962:79); Poppe (1960:33)"	Not mentioned.		
+GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	?	Sanzeev (1962:79); Poppe (1960:33)	Not mentioned.		
 GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	Poppe (1960:57)			jaba-na-güi-b [go-PRS-NEG-1SG] ‘I don’t go.’
 GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB109	Is there verb suppletion for participant number?	1: present, 0: absent	0	Poppe (1960:1-129)			
@@ -112,7 +112,7 @@ GB113	Are there verbal affixes or clitics that turn intransitive verbs into tran
 jaba- ‘to walk’ - jabu:l- ‘to make go, to send’
 jeXede- ‘to become big’ - jeXedXe- ‘to increase’"
 GB114	Is there a phonologically bound reflexive marker on the verb?	1: present, 0: absent	0	Sanzeev (1962:238-244)			
-GB115	Is there a phonologically bound reciprocal marker on the verb?	1: present, 0: absent	1	"Sanzeev (1962:238); Poppe (1960:100)"		-lda	ala- ‘to kill’ - alalda- ‘to kill each other’
+GB115	Is there a phonologically bound reciprocal marker on the verb?	1: present, 0: absent	1	Sanzeev (1962:238); Poppe (1960:100)		-lda	ala- ‘to kill’ - alalda- ‘to kill each other’
 GB116	Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	Poppe (1960:48-49, 119)	there are personal predicative suffixes as well as verbs meaning ‘to be’ and ‘to become’ used in equational phrases	bai- ‘to be’	"bi xyby:-nSni-b 
 [1SG son-2SG-1SG.PRED] 
@@ -122,7 +122,7 @@ emSe bai-na
 ‘He is a physician.’"
 GB118	Are there serial verb constructions?	1: present, 0: absent	?	Poppe (1960:1-129)	Not mentioned.		
 GB119	"Can mood be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Poppe (1960:103)		with bol- ‘to become’	ediZe bolno [eat become] ‘it is possible to eat it’
-GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	"Sanzeev (1962:191); Poppe (1960:72, 102)"		bai ‘to be’ for durative, orXi ‘to throw’ for completive	"jaba-Za bai-haar
+GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Sanzeev (1962:191); Poppe (1960:72, 102)		bai ‘to be’ for durative, orXi ‘to throw’ for completive	"jaba-Za bai-haar
 [go-IPFV.PTCP be-CONT.PTCP]
 ‘while he was walking…’"
 GB121	"Can tense be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Poppe (1960:1-129)		Not mentioned.	
@@ -137,7 +137,7 @@ emSe bai-na
 ‘He is a physician.’"
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	?	Poppe (1960:1-129)	Not mentioned.		
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Poppe (1960:119)			"tere xyn jeree
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Poppe (1960:119)			"tere xyn jeree
 [that person come]
 ‘That person has come.’"
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Poppe (1960:115)			
@@ -150,7 +150,7 @@ GB135	Do clausal objects usually occur in the same position as nominal objects?	
 GB136	Is the order of core argument (i.e. S/A/P) constituents fixed?	1: present, 0: absent	?	Poppe (1960:1-129)	Not clear		
 GB137	Can standard negation be marked clause-finally?	1: present, 0: absent	1	Poppe (1960:57)	Negation is marked on the verb, which appears to be clause-final. It is followed by personal suffixes		jaba-na-güi-b [go-PRS-NEG-1SG] ‘I don’t go.’
 GB138	Can standard negation be marked clause-initially?	1: present, 0: absent	0	Poppe (1960:60)	in prohibitive, negative optative		bü jaba [NEG go] ‘Do not go!’
-GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	1	"Sanzeev (1962:320); Poppe (1960:58-59)"	"declarative: bound morphology; imperative: free-standing particle"		"jaba-na-güi-b [go-PRS-NEG-1SG] ‘I don’t go.’
+GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	1	Sanzeev (1962:320); Poppe (1960:58-59)	declarative: bound morphology; imperative: free-standing particle		"jaba-na-güi-b [go-PRS-NEG-1SG] ‘I don’t go.’
 bü jaba [NEG go] ‘Do not go!’"
 GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	?	Sanzeev (1962:320)	Not mentioned.	"the particle üle is used only with participles, no clausal examples available
 the particle -güi can be used as a verbal and as a nominal negator"	
@@ -163,7 +163,7 @@ GB148	Is there a morphological antipassive marked on the lexical verb?	1: presen
 GB149	Is there a morphologically marked inverse on verbs?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB150	Is there clause chaining?	1: present, 0: absent	?	Poppe (1960:1-129)	Not mentioned.		
 GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	"Sanzeev (1962:279-286, 289); Poppe (1960:71-72)"	There is a precedent, a successive and a continuous gerund.		
+GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	Sanzeev (1962:279-286, 289); Poppe (1960:71-72)	There is a precedent, a successive and a continuous gerund.		
 GB155	Are causatives formed by affixes or clitics on verbs?	1: present, 0: absent	1	Poppe (1960:99-100)		-ga, -gaa, -uul, -lga	u:- ‘to drink’ - u:lga- ‘to make drink’
 GB156	Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?	1: present, 0: absent	0	Poppe (1960:99-100)			
 GB158	Are verbs reduplicated?	1: present, 0: absent	0	Poppe (1960:1-129)	Probably not, not mentioned.		
@@ -180,25 +180,25 @@ GB171	Can an adnominal demonstrative agree with the noun in gender/noun class?	1
 tere ‘that’ - tede ‘those’"	
 GB172	Can an article agree with the noun in gender/noun class?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB177	Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument visible in the NP domain?	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB184	Can an adnominal property word agree with the noun in number?	1: present, 0: absent	1	"Sanzeev (1953:136-137); Sanzeev (1962:96-99); Poppe (1960:100)"	"Sanzeev (1962): adj normally do not agree with the noun in number, but some adjectives and adjectives in some contexts do agree with nouns in number; Sanzeev (1953): it is typical for Buriat, but not for other Mongolic languages"		"hain-ü:d mori-d
+GB184	Can an adnominal property word agree with the noun in number?	1: present, 0: absent	1	Sanzeev (1953:136-137); Sanzeev (1962:96-99); Poppe (1960:100)	Sanzeev (1962): adj normally do not agree with the noun in number, but some adjectives and adjectives in some contexts do agree with nouns in number; Sanzeev (1953): it is typical for Buriat, but not for other Mongolic languages		"hain-ü:d mori-d
 [good-PL horse-PL]
 ‘good horses’"
-GB185	Can an adnominal demonstrative agree with the noun in number?	1: present, 0: absent	1	"Sanzeev (1962:141-144); Poppe (1960:53-55)"			"te-de gern-ü:d
+GB185	Can an adnominal demonstrative agree with the noun in number?	1: present, 0: absent	1	Sanzeev (1962:141-144); Poppe (1960:53-55)			"te-de gern-ü:d
 [that-PL house-PL]
 ‘those houses’"
 GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	"Sanzeev (1962:69-70); Poppe (1960:86-87)"		-dai, -mag and other	"abaga-dai [uncle-DIM] ‘little uncle’
+GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	Sanzeev (1962:69-70); Poppe (1960:86-87)		-dai, -mag and other	"abaga-dai [uncle-DIM] ‘little uncle’
 dyy-dei [younger.brother-DIM] ‘little younger brother’
 nuur-mag [pond-DIM] ‘little lake, pond’"
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Poppe (1960:1-129)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Poppe (1960:109)			"hain xyn [good person] ‘a good person’
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Poppe (1960:109)			"hain xyn [good person] ‘a good person’
 zeerde morin [creem.colored horse] ‘a cream-colored horse’"
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Poppe (1960:50-53)			
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Poppe (1960:50-53)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Poppe (1960:1-129)			
 GB203	What is the order of the adnominal collective universal quantifier ('all') and the noun?	0: no UQ, 1: UQ-N, 2: N-UQ, 3: both	2	Poppe (1960:109)			xyn bygede [person all]
-GB204	Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?	1: present, 0: absent	1	"Sanzeev (1962:148-150); Poppe (1960:109)"		bügede can also be used in distributive function	"xün bügede [person all]
+GB204	Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?	1: present, 0: absent	1	Sanzeev (1962:148-150); Poppe (1960:109)		bügede can also be used in distributive function	"xün bügede [person all]
 xün büri [person every]"
 GB250	Can predicative possession be expressed with a transitive 'habeo' verb?	1: present, 0: absent	0	Poppe (1960:1-129)	Not mentioned.		
 GB252	Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?	1: present, 0: absent	?	Sanzeev (1962:75-90)	Not mentioned.		
@@ -206,7 +206,7 @@ GB253	Can predicative possession be expressed with an S-like possessum and a dat
 GB254	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	1: present, 0: absent	1	Poppe (1960:119)	Not mentioned.		"mini: morin xojor bai-na
 [1SG horse two be-PRS]
 ‘I have two horses.’"
-GB256	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	1: present, 0: absent	1	"Sanzeev (1962:87); Poppe (1960:37, 96-97, 122)"	probably yes	-tai	"morin-tai [horse-COM] ‘having a horse’
+GB256	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	1: present, 0: absent	1	Sanzeev (1962:87); Poppe (1960:37, 96-97, 122)	probably yes	-tai	"morin-tai [horse-COM] ‘having a horse’
 Xojor-iin daXa-tai
 [two-GEN coat-COM]
 ‘two of them have coats’
@@ -225,13 +225,13 @@ gü"	"teden jere: bi:
 ‘Did Esha have money?’"
 GB264	Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?	1: present, 0: absent	0	Poppe (1960:125)			
 GB265	Is there a comparative construction that includes a form that elsewhere means 'surpass, exceed'?	1: present, 0: absent	0	Poppe (1960:76)			
-GB266	Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?	1: present, 0: absent	1	"Sanzeev (1962:89); Poppe (1960:76)"			
+GB266	Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?	1: present, 0: absent	1	Sanzeev (1962:89); Poppe (1960:76)			
 GB270	Can comparatives be expressed using two conjoined clauses?	1: present, 0: absent	0	Poppe (1960:76)			
 GB273	Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?	1: present, 0: absent	0	Poppe (1960:76)			
 GB275	Is there a bound comparative degree marker on the property word in a comparative construction?	1: present, 0: absent	0	Poppe (1960:76)			
 GB276	Is there a non-bound comparative degree marker modifying the property word in a comparative construction?	1: present, 0: absent	0	Poppe (1960:76)			
 GB285	Can polar interrogation be marked by a question particle and verbal morphology?	1: present, 0: absent	0	Poppe (1960:125)			
-GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: present, 0: absent	0	"Sanzeev (1962:317); Poppe (1960:125)"	it can be attached to a verb or be free-standing (in examples in Sanzeev (1962) it is free-standing)	-gü	"dorʤo hurgu:liha:n jere:-gü
+GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: present, 0: absent	0	Sanzeev (1962:317); Poppe (1960:125)	it can be attached to a verb or be free-standing (in examples in Sanzeev (1962) it is free-standing)	-gü	"dorʤo hurgu:liha:n jere:-gü
 [Dorzo school come-Q]
 ‘Did Dorzo come from school?’
 äSä müngätäi hän gü
@@ -241,7 +241,7 @@ GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Poppe (
 GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	0	Sanzeev (1962:334-335)	Probably not, not mentioned.	they are non-inflectioning and appear as adverbs. They take the verb geXe, which has lost its semantics, to enter syntactic various relationships	
 GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	0	Poppe (1960:125)			
 GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Poppe (1960:57-60)			
-GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	"Sanzeev (1962:320); Poppe (1960:60)"	only in prohibitive		
+GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Sanzeev (1962:320); Poppe (1960:60)	only in prohibitive		
 GB300	Does the verb for 'give' have suppletive verb forms?	1: present, 0: absent	0	Poppe (1960:1-129)	Probably not, not mentioned.		
 GB301	Is there an inclusory construction?	1: present, 0: absent	?	Poppe (1960:123)	“The presence of a first person pronoun makes the subject phrase a plural first-person phrase”, the example does not support this statement.		"volooda kaata siima gurbantai sugta (jereebdi)
 ‘(we have come) together with Volodia, Katia (and) Seema, the three (of them).’
@@ -256,7 +256,7 @@ GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: ab
 ‘to restrain oneself’"
 GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	0	Sanzeev (1962:)	Not mentioned.		
 GB309	Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?	1: present, 0: absent	0	Poppe (1960:1-129)			
-GB312	Is there overt morphological marking on the verb dedicated to mood?	1: present, 0: absent	1	"Poppe (1960:59); Sanzeev (1962:247-266)"		"optative: -hai
+GB312	Is there overt morphological marking on the verb dedicated to mood?	1: present, 0: absent	1	Poppe (1960:59); Sanzeev (1962:247-266)		"optative: -hai
 impertaive: -huu, -jaa, etc."	
 GB313	Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?	1: present, 0: absent	1	Sanzeev (1962:139)	Not mentioned.	"GEN of personal pronouns is formed from the stem, deviating from that used in other cases: bi 1SG.NOM
 minii 1SG.GEN
@@ -275,7 +275,7 @@ GB324	Is there an interrogative verb for content interrogatives (who?, what?, et
 xerge- ‘to act how’"	jaa-na [do.what-PRS] ‘What is he doing?’
 GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	0	Poppe (1960:78)		xedii ‘how many’, ‘how much’	"xedii xyn [how.many person] ‘How many people?’
 xedii-de jerexebta [how.much-LOC come.2SG] ‘When will you come?’"
-GB326	Do (nominal) content interrogatives normally or frequently occur in situ?	1: present, 0: absent	1	"Sanzeev (1962:144-146); Poppe (1960:125)"			"tändä Xän bä
+GB326	Do (nominal) content interrogatives normally or frequently occur in situ?	1: present, 0: absent	1	Sanzeev (1962:144-146); Poppe (1960:125)			"tändä Xän bä
 [there who be]
 ‘Who is there?’
 kostüm jügäär aba:bSї
@@ -291,9 +291,9 @@ jamar Syleg unSaabSi terenee unSiiS
 GB329	Are there internally-headed relative clauses?	1: present, 0: absent	0	Poppe (1960:109)	Not mentioned.		
 GB330	Are there correlative relative clauses?	1: present, 0: absent	?	Poppe (1960:109)	Not mentioned.		
 GB331	Are there adjoined relative clauses?	1: present, 0: absent	?	Poppe (1960:109)	Not mentioned.		
-GB333	Is there a decimal numeral system?	1: present, 0: absent	1	"Sanzeev (1962:127); Poppe (1960:77)"			
-GB334	Is there synchronic evidence for any element of a quinary numeral system?	1: present, 0: absent	0	"Sanzeev (1962:127); Poppe (1960:77)"			
-GB335	Is there synchronic evidence for any element of a vigesimal numeral system?	1: present, 0: absent	0	"Sanzeev (1962:127); Poppe (1960:77)"			
+GB333	Is there a decimal numeral system?	1: present, 0: absent	1	Sanzeev (1962:127); Poppe (1960:77)			
+GB334	Is there synchronic evidence for any element of a quinary numeral system?	1: present, 0: absent	0	Sanzeev (1962:127); Poppe (1960:77)			
+GB335	Is there synchronic evidence for any element of a vigesimal numeral system?	1: present, 0: absent	0	Sanzeev (1962:127); Poppe (1960:77)			
 GB336	Is there a body-part tallying system?	1: present, 0: absent	0	Poppe (1960:77)			
 GB400	Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?	1: present, 0: absent	0	Poppe (1960:1-129)	Probably not, not mentioned.		
 GB401	Is there a class of patient-labile verbs?	1: present, 0: absent	?	Poppe (1960:1-129)	Not mentioned.		
@@ -311,12 +311,12 @@ modo sabSaa
 GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	1	Poppe (1960:53)		ta	
 GB421	Is there a preposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	?	Poppe (1960:109)	Not mentioned.		
 GB422	Is there a postposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	?	Poppe (1960:109)	Not mentioned.		
-GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	"Sanzeev (1962:92-94); Poppe (1960:42-47)"			
-GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	"Sanzeev (1962:92-94); Poppe (1960:42-47)"			
+GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	Sanzeev (1962:92-94); Poppe (1960:42-47)			
+GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	Sanzeev (1962:92-94); Poppe (1960:42-47)			
 GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	Poppe (1960:36, 110)	genitive suffix		"mal-ai [cattle-GEN]
 zygi:-n [bee-GEN]
 tere xübü:n-ei eZii-aba-tai-n [that boy-GEN mother-father-COM-3SG] ‘with the parents of that boy’"
-GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	"Sanzeev (1962:92-94); Poppe (1960:33, 42-47)"	possessor is marked on the possessee		"morin-Sni [horse-2SG]
+GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	Sanzeev (1962:92-94); Poppe (1960:33, 42-47)	possessor is marked on the possessee		"morin-Sni [horse-2SG]
 morin-i:n [horse-3SG]
 morin-tnai [horse-2PL]"
 GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Sanzeev (1962:321-322)			
@@ -328,59 +328,23 @@ GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause w
 bi ende-b
 [1SG here-1SG]
 ‘I am here.’"
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Poppe (1960:1-129)		Not mentioned.	
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Poppe (1960:5-7)		There is vowel length distinction.	
-TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	"Sanzeev (1962:38); Poppe (1960:21)"		front/back vowel harmony	
+TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Sanzeev (1962:38); Poppe (1960:21)		front/back vowel harmony	
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Poppe (1960:21)			
-TE005	Is there an initial velar nasal?	1: present, 0: absent	0	"Sanzeev (1962:33); Poppe (1960:12)"		"velar nasal is not phonemic; it appears as an allophone of /n/ before a velar consonant and in word-final position"	
-TE006	Is there an initial r-?	1: present, 0: absent	0	"Sanzeev (1962:29); Poppe (1960:15)"			
+TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Sanzeev (1962:33); Poppe (1960:12)		velar nasal is not phonemic; it appears as an allophone of /n/ before a velar consonant and in word-final position	
+TE006	Is there an initial r-?	1: present, 0: absent	0	Sanzeev (1962:29); Poppe (1960:15)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Poppe (1960:13-14)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Poppe (1960:9-11)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Poppe (1960:1-129)		Not mentioned.	
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	Poppe (1960:1-129)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	1	Poppe (1960:76)			"xab xara ‘absolutely black’
-Sab Sara ‘absolutely yellow’"
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Poppe (1960:109)			"hain xün [good person] ‘a good person’
-ze:rde morin [cream.colored horse] ‘a cream-colored horse’"
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Poppe (1960:1-129)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Poppe (1960:50-53)		bi/minii/nam - Si/Sinii/Sam	
-TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	"Sanzeev (1962:139); Poppe (1960:50)"			"bi 1SG.NOM
+TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Sanzeev (1962:139); Poppe (1960:50)			"bi 1SG.NOM
 mini: 1SG.GEN
 namda 1SG.DAT/LOC"
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Poppe (1960:69-73)		-n and other	xyyged gol deere oSo-Zo zagaha xaxuulida-ba [?? ?? ?? go.away-GERUND ?? catch-PST] ‘The children, going to the river, caught fish.’
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Poppe (1960:1-129)		Not mentioned.	
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Poppe (1960:1-129)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	1	Poppe (1960:50)			bidä-ner [1PL-PL]
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	?	Poppe (1960:1-129)		Not clear	
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	1	Poppe (1960:12)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Poppe (1960:12)		Not mentioned.	
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Poppe (1960:1-129)			
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Poppe (1960:1-129)		Not mentioned.	
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Poppe (1960:1-129)		Not mentioned.	
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Poppe (1960:12)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Poppe (1960:13)			
-TE039	Is there vowel length distinction?	1: present, 0: absent	1	"Rybatzki (2003:371-372); Poppe (1960:5-7); Sanzeev (1962:10-11)"			"tohon ‘fat, butter’ - to:hon ‘dust’
+TE039	Is there vowel length distinction?	1: present, 0: absent	1	Rybatzki (2003:371-372); Poppe (1960:5-7); Sanzeev (1962:10-11)			"tohon ‘fat, butter’ - to:hon ‘dust’
 dara ‘press (imperative)’ - da:ra ‘freeze (imperative)’"
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?				
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?				
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?				
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?				
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	0	Anonymous 1954			"ARM: gar
-""arm""
-HAND: habar
-""hand""
-baglaa
-""hand""
-zalaa
-""hand""
-halaa
-""hand"""
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?				
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	1	"Sanzeev (1962:73-74); Poppe (1960:35)"		-nar, other suffixes are distributed according to phonological characteristics of the noun	
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?				
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?				
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	?				
-TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	"Poppe (1960:77, 110); Sanzeev (1962:130)"			"mangan xün
+TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Poppe (1960:77, 110); Sanzeev (1962:130)			"mangan xün
 [thousand person]
 ‘one thousand people’
 nege xün
@@ -389,43 +353,19 @@ nege xün
 gurban morin
 [three horse]
 ‘three horses’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Poppe (1960:33)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Sanzeev (1962:82-83)		indefiniteness is Not mentioned. as a motivation for the distribution of accusative and nominative marked objects, but it is mentioned that objects forming a semantically coherent unit with a verb (‘write a letter’, ‘hunt animals’) take accusative marking	
-TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	"Sanzeev (1962:79); Poppe (1960:33)"		-da/-ta ‘on, at, into, to’	
+TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Sanzeev (1962:79); Poppe (1960:33)		-da/-ta ‘on, at, into, to’	
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Poppe (1960:125)		no suffixes for content interrogation	
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Sanzeev (1962:80, 85, 226)		"Poppe (1960:112): relational suffix (appr. GEN) -iin/-ai/-n
-Sanzeev (1962): dative or instrumental, but dative is more common"	"mündär-tä darag-da-han modon
-[hail-DAT crush-PASS-? tree]
-‘trees, beaten by the hail’"
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Poppe (1960:1-129)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?				
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?				
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Poppe (1960:99)		"causative: -ga/-gaa/-uul/-lga/-aa
 passive: -gda/-da/-ta"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?				
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?				
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Sanzeev (1962:301-304)			bäe-hä:n [back-ABL] ‘from the side’
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?				
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?				
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	1	Sanzeev (1964:85)		there are personal-predicative particles, which are similar in their form to the personal pronouns	
-TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	"Sanzeev (1962:253); Poppe (1960:59)"			
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?				
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	?				
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?				
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?				
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?				
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?				
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?				
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	1	Sanzeev (1962:191)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	?	Poppe (1960:1-129)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	?	Poppe (1960:1-129)			
+TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Sanzeev (1962:253); Poppe (1960:59)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Poppe (1960:11-13)			
-TS001	Can numeral precede the noun?	1: present, 0: absent	1	"Sanzeev (1962:130); Poppe (1960:110)"			
-TS002	Can numeral follow the noun?	1: present, 0: absent	?	"Sanzeev (1962:130); Poppe (1960:110)"			Not mentioned.
-TS003	Can demonstrative precede the noun?	1: present, 0: absent	1	"Sanzeev (1962:141-144); Poppe (1960:110)"			"te-de gern-ü:d
+TS001	Can numeral precede the noun?	1: present, 0: absent	1	Sanzeev (1962:130); Poppe (1960:110)			
+TS002	Can numeral follow the noun?	1: present, 0: absent	?	Sanzeev (1962:130); Poppe (1960:110)			Not mentioned.
+TS003	Can demonstrative precede the noun?	1: present, 0: absent	1	Sanzeev (1962:141-144); Poppe (1960:110)			"te-de gern-ü:d
 [that-PL house-PL]
 ‘those houses’"
-TS004	Can demonstrative follow the noun?	1: present, 0: absent	0	"Sanzeev (1962:141-144); Poppe (1960:110)"			
+TS004	Can demonstrative follow the noun?	1: present, 0: absent	0	Sanzeev (1962:141-144); Poppe (1960:110)			
 TS005	Can adnominal possessor precede the possessed noun?	1: present, 0: absent	1	Poppe (1960:42-47, 110-111)			"tere xübü:n-ei eZii-aba-tai-n
 [that boy-GEN mother-father-COM-3SG]
 ‘with the parents of that boy’"
@@ -433,16 +373,10 @@ TS006	Can adnominal possessor follow the possessed noun?	1: present, 0: absent	1
 TS007	Can adnominal property word precede the noun?	1: present, 0: absent	1	Poppe (1960:109)			"hain xün [good person] ‘a good person’
 ze:rde morin [cream.colored horse] ‘a cream-colored horse’"
 TS008	Can adnominal property word follow the noun?	1: present, 0: absent	0	Poppe (1960:109)			
-TS009	Can adnominal collective universal quantifier (‘all’) precede the noun?	1: present, 0: absent	0	"Sanzeev (1962:148-150); Poppe (1960:109)"			
-TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	1	"Sanzeev (1962:148-150); Poppe (1960:109)"			xün bügede [person all]
+TS009	Can adnominal collective universal quantifier (‘all’) precede the noun?	1: present, 0: absent	0	Sanzeev (1962:148-150); Poppe (1960:109)			
+TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	1	Sanzeev (1962:148-150); Poppe (1960:109)			xün bügede [person all]
 TS079	Is there height vowel harmony?	1: present, 0: absent	?	Poppe (1960:1-129)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	?	Poppe (1960:1-129)			
-TS081	Is there an initial l-?	1: present, 0: absent	?				
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?				
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?				
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?				
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?				
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?				
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1				
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0				
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Skribnik (2003:105)	“In difference from Mongol proper, the phonetic distinction between the strong and weak stops often involves, even in initial position, the feature of voicing (unvoiced vs. voiced), rather than aspiration (aspirated vs. unaspirated).”		

@@ -3,8 +3,8 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Kornfilt 
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Kornfilt (1997:106, 275)	not commonly		
 GB022	Are there prenominal articles?	1: present, 0: absent	1	Kornfilt (1997:106, 273)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Kornfilt (1997:106)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Kornfilt (1997:106, 429)			
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Kornfilt (1997:311-315)			
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Kornfilt (1997:106, 429)			
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Kornfilt (1997:311-315)			
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Fanselow (p.c. 2017)			"kitep-ti        Peter   köp      okudu.
 book-ACC  Peter   many  read.
 kitep-ten          Peter   köp-tü      okudu.
@@ -50,13 +50,13 @@ GB059	Is the adnominal possessive construction different for alienable and inali
 hasan-ïn ev-in
 [Hasan-GEN house-3SG]
 ‘Hasan’s house’"
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Kornfilt (1997:185)			"hasan-ïn kitab-ïn
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Kornfilt (1997:185)			"hasan-ïn kitab-ïn
 Hasan-GEN book-3SG
 ‘Hasan’s book’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Kornfilt (1997:83)	If the copula is omitted (due to phonological reduction), the past tense marker can be attached directly to the adjective.		"termiz-di-m
 [clean-PST-1SG]
 ‘I was clean.’"
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Kornfilt (1997:414)			
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Kornfilt (1997:414)			
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Kornfilt (1997:217-220)			
 GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Kornfilt (1997:217-219, 281)			"sen biz-e yarïn seyahat-e čïk-acaɣ-iz diye söz ver-di-n
 [2SG 1PL-DAT tomorrow trip-DAT go-FUT-1PL saying promise give-PST-2SG]
@@ -120,7 +120,7 @@ GB127	Are different posture verbs used obligatorily depending on an inanimate lo
 [book table-LOC]
 ‘The book is on the table.’"
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Kornfilt (1997:1-553)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Kornfilt (1997:46, 82)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Kornfilt (1997:46, 82)			
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Kornfilt (1997:91)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Kornfilt (1997:91)			
 GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Kornfilt (1997:91)			"ben kitab-ï oku-du-m
@@ -190,7 +190,7 @@ GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Korn
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	Kornfilt (1997:445)			
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Kornfilt (1997:445-447)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Kornfilt (1997:270)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Kornfilt (1997:105, 108-109)			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Kornfilt (1997:105, 108-109)			
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Kornfilt (1997:281, 291)			
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Kornfilt (1997:281, 291)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Kornfilt (1997:1-553)			
@@ -294,74 +294,23 @@ GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Kornfilt (1997:129, 281-283)			"(ben) ev-de yok-tu-m
 [(1SG) home-LOC NEG.EXIST-PST-1SG]
 ‘I was not at home.’"
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	1	Kornfilt (1997:1-553)			
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Kornfilt (1997:505)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Kornfilt (1997:498-500)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Kornfilt (1997:498-500)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Kornfilt (1997:486)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Kornfilt (1997:492)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Kornfilt (1997:492, 498)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Kornfilt (1997:484)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	1	Kornfilt (1997:1-553)		Not mentioned.	
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0	Kornfilt (1997:83, 414)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	1	Kornfilt (1997:419)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Kornfilt (1997:212)			"oku-du-m
-[read-PST-1SG]
-kitab-ïn
-[book-3SG]"
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Kornfilt (1997:212)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Kornfilt (1997:281)			ben sen
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Kornfilt (1997:281)			"o [3SG.NOM]
 on-a [3SG-DAT]"
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Kornfilt (1997:67-76)			"müdür tatil-e čik-tiɣ-ïn-dan ofis kapalï
-[director vacation-DAT go-NMLZ-3SG office closed]
-‘Because the director went on vacation, the office is closed.’"
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	1				
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	0	Kornfilt (1997:123-125)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	1	Kornfilt (1997:281, 287)			biz-ler [1PL-PL] ‘we’
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	0	Kornfilt (1997:83)			
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	0	Kornfilt (1997:414)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Kornfilt (1997:486)		not distinctive	
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	1	Kornfilt (1997:139, 158)		"reflexive: kendi-m [self-1SG], kendi-n [self-2SG] etc. 
-reciprocal: birbir-imiz [each.other-1PL], birbir-iniz [each.other-2PL] etc."	"kendi-m [self-1SG]
-birbir-imiz [each.other-1PL]"
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	1	Kornfilt (1997:73)			"hasan kitab-ï san-a ver-mek ičin al-dï
-[Hasan book-ACC you-DAT give-INF for buy-PST]
-‘Hasan bought the book in order to give it to you.’"
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	1	Kornfilt (1997:46)		The notional subject is marked on the verb, but not expressed through a free-standing pronoun.	"isti-yor-um ki yarïn ben-im-le sinema-ya gel-esin
-[want-PRS.PROG-1SG COMPL tomorrow 1SG-GEN-with cinema-DAT come-2SG.OPT]
-‘I want you to come to the movies with me tomorrow.’"
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Kornfilt (1997:485)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Kornfilt (1997:486-487)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	0	Kornfilt (1997:501-502)			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	0	Kornfilt (1997:331-333)			"dur ‘stand’, koy ‘put’
-otur ‘sit’, kur ‘set up’"
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	1	Kornfilt (1997:519)			"dayï ‘maternal uncle’
-amǰa ‘paternal uncle’
-teyze ‘maternal aunt’
-hala ‘paternal aunt’"
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	1	Kornfilt (1997:519)			"erkek kardeš ‘brother’
-aɣabey ‘elder brother’
-kïzkardeš ‘sister’
-abla ‘elder sister’"
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	1	Kornfilt (1997:447-450, 453-454)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	0	Kornfilt (1997:524-525)			"kol ‘arm’
-el ‘hand’"
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	1	Kornfilt (1997:534)			"ay ‘moon’
-ay ‘month’"
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Kornfilt (1997:265-266)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	0	Kornfilt (1997:192, 195, 199, 423, 444)		bile ‘even’, de ‘also’	"hasan bile kitab-ï ali-ye okudu
-[Hasan even book-ACC Ali-DAT read-PST]
-‘Even Hasan read the book to Ali.’
-hasan bügün de erken kalk-tï
-[Hasan today too early rise-PST]
-‘Today Hasan got up early too.’"
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	0	Kornfilt (1997:1-553)		Not mentioned.	
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Kornfilt (1997:311-315)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Kornfilt (1997:265, 429)			"beš öɣrenǰi
 [five student]
 ‘five students'"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Kornfilt (1997:217)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Kornfilt (1997:219)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Kornfilt (1997:217-227, 235)		"DAT: -ye, -a
 ABL: -den, -dan, -tan etc."	"hasan kitab-ï ali-ye ver-di
@@ -376,45 +325,10 @@ TE054	Is there a distinction between marking of interrogation in polar and conte
 kitab-ï hasan mï Ali-ye ver-di
 [book-ACC Hasan Q Ali-DAT give-PST]
 ‘Did Hasan give the book to Ali?’"
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	0	Kornfilt (1997:323)			"Amerika Kristof Kolomb taraf-ïn-dan kešf-ed-il-di
-[America Christopher Columbus side-3SG-ABL discovery-do-PASS-PST]
-‘America was discovered by Christopher Columbus.’"
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	1	Kornfilt (1997:50, 67)			"Ahmed-in sinema-ya yalnïz bašïna git-me-si ben-i čok üz-dü
-[Ahmet-GEN cinema-DAT alone in go-NMLZ-3sg 1SG-ACC very sadden-PST]
-‘That Ahmet went to the movies on himself made me very sad.’
-(ben) Ahmed-in öl-düɣ-ün-ü duy-du-m
-[(1SG) Ahmet-GEN die-NMLZ-3sg-ACC hear-PST-1sg]
-‘I heard that Ahmet died.’"
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	0	Kornfilt (1997:323)		Not mentioned.	
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	0	Kornfilt (1997:311-315)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Kornfilt (1997:323, 331)		"causative: -tur, -tïr, -ït, -t and allomorphs
 passive: -il, -l, -n and allomorphs"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Kornfilt (1997:1-553)		Not mentioned.	
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	1	Kornfilt (1997:1-2)			"sen biz-e (biz) yarïn seyahat-e čïk-acaɣ-iz diye söz ver-di-n
-[2SG 1PL-DAT (1PL) tomorrow trip-DAT go-FUT-1PL saying promise give-PST-2SG]
-‘You promised us: we are going on a trip tomorrow.’"
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Kornfilt (1997:101, 470-471)		only with nouns borrowed from Arabic	"taraf-ïmïz-dan
-[side-1PL-ABL]
-‘by us’"
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	0	Kornfilt (1997:369-378)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Kornfilt (1997:1-553)		Not mentioned.	
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	0	Kornfilt (1997:369-378)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Kornfilt (1997:40-41, 383)			"git-mek [go-INF] ‘to go’
 git [go] ‘Go (2SG)!’"
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	0	Kornfilt (1997:281, 382)		similar, but not identical	
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Kornfilt (1997:178-179)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	0	Kornfilt (1997:78-82)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	0	Kornfilt (1997:388, 407-408, 549)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	0	Kornfilt (1997:524-525)			"baǰak ‘leg’
-et ‘foot’"
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?				
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?	Kornfilt (1997:100-101)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	0	Kornfilt (1997:349-350)			"-miš
-at ‘throw’"
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Kornfilt (1997:100-101, 219-220)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Kornfilt (1997:100-101)			"hasan ban-a inat iš-e git-ti
-[Hasan 1SG-DAT spite work-DAT go-PST]
-‘Hasan went to work despite my wishes to the contrary.'"
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Kornfilt (1997:484)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Kornfilt (1997:106, 429)			
 TS002	Can numeral follow the noun?	1: present, 0: absent	0	Kornfilt (1997:106, 429)			
@@ -433,12 +347,6 @@ TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Kornfilt (1997:498-500)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Kornfilt (1997:498-500)			"göl-ü [lake-ACC]
 čoǰuɣ-u [child-ACC]"
-TS081	Is there an initial l-?	1: present, 0: absent	?	Kornfilt (1997:1-553)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Kornfilt (1997:1-553)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Kornfilt (1997:1-553)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Kornfilt (1997:1-553)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Kornfilt (1997:1-553)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Kornfilt (1997:1-553)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Kornfilt (1997:46, 82)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Kornfilt (1997:46, 82)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Kornfilt (1997:484)			

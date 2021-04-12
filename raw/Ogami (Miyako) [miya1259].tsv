@@ -3,10 +3,10 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Pellard (
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Pellard (2010:113-166)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Pellard (2010:113-166)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Pellard (2010:113-166)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	3	Pellard (2010:130, 134)			
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Pellard (2010:113, 123, 133)			
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	3	Pellard (2010:130, 134)			
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Pellard (2010:113, 123, 133)			
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	0	Pellard (2010:123)	numeral and noun can occur discontinuously, but it is probably not possible for adnominal property words		
-GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	0	"Pellard (2010:125, 143); Pellard (2009:169, 187-188)"			
+GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	0	Pellard (2010:125, 143); Pellard (2009:169, 187-188)			
 GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Pellard (2010:129)			
 GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Pellard (2010:129)			
 GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	0	Pellard (2010:129)			
@@ -19,10 +19,10 @@ GB041	Are there several nouns (more than three) which are suppletive for number?
 GB042	Is there productive overt morphological singular marking on nouns?	1: present, 0: absent	0	Pellard (2010:131)			
 GB043	Is there productive morphological dual marking on nouns?	1: present, 0: absent	0	Pellard (2010:131)			
 GB044	Is there productive morphological plural marking on nouns?	1: present, 0: absent	0	Pellard (2009:138)	it is optional and restricted to animate nouns		
-GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	1	"Pellard (2009:138); Pellard (2010:131)"			"taro:-ta
+GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	1	Pellard (2009:138); Pellard (2010:131)			"taro:-ta
 [Taroo-PL]
 ‘Taroo and others’"
-GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	0	"Pellard (2009:118); Pellard (2010:142)"	not productive		
+GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	0	Pellard (2009:118); Pellard (2010:142)	not productive		
 GB048	Is there a productive morphological pattern for deriving an agent noun from a verb?	1: present, 0: absent	1	Pellard (2010:142)			
 GB049	Is there a productive morphological pattern for deriving an object noun from a verb?	1: present, 0: absent	0	Pellard (2010:142)			
 GB051	Is there a noun class/gender system where sex is a factor in class assignment?	1: present, 0: absent	0	Pellard (2010:113-166)			
@@ -32,9 +32,9 @@ GB054	Is there a noun class/gender system where plant status is a factor in clas
 GB057	Are there numeral classifiers?	1: present, 0: absent	1	Pellard (2010:130)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Pellard (2010:113-166)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Pellard (2010:113-166)			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Pellard (2010:123)			
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Pellard (2010:123)			
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Pellard (2010:126, 140)			
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Pellard (2010:126, 140)			
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Pellard (2010:126, 140)			
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Pellard (2010:143)	these are clitics, but they aren't defined in phonological terms		
 GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Pellard (2010:143)	these are clitics, but they aren't defined in phonological terms		
 GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Pellard (2010:143)	these are clitics, but they aren't defined in phonological terms		
@@ -60,7 +60,7 @@ GB098	Are variations in marking strategies of core participants based on person 
 GB099	Can verb stems alter according to the person of a core participant?	1: present, 0: absent	0	Pellard (2009:152-153)			
 GB103	Is there a benefactive applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Pellard (2010:139, 148-150)			
 GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Pellard (2010:139, 148-150)			
-GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	"Pellard (2009:236, 244); Pellard (2010:148)"			
+GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	Pellard (2009:236, 244); Pellard (2010:148)			
 GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	Pellard (2010:137, 147-148)			
 GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	1	Pellard (2010:138)	there is a marker of the “goal of motion”		
 GB109	Is there verb suppletion for participant number?	1: present, 0: absent	0	Pellard (2009:152-153)			
@@ -77,36 +77,36 @@ GB118	Are there serial verb constructions?	1: present, 0: absent	1	Pellard (2010
 GB119	"Can mood be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Pellard (2010:137, 151-154)			
 GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Pellard (2010:155-157)			
 GB121	"Can tense be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Pellard (2010:137, 150)			
-GB122	Is verb compounding a regular process?	1: present, 0: absent	0	"Pellard (2009:154); Pellard (2010:139-140)"			
+GB122	Is verb compounding a regular process?	1: present, 0: absent	0	Pellard (2009:154); Pellard (2010:139-140)			
 GB123	Are there verb-adjunct (aka light-verb) constructions?	1: present, 0: absent	?	Pellard (2010:113-166)	Not mentioned.		
 GB124	Is incorporation of nouns into verbs a productive intransitivizing process?	1: present, 0: absent	0	Pellard (2010:139, 148-150)			
 GB126	Is there an existential verb?	1: present, 0: absent	1	Pellard (2010:132, 146)			
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	0	Pellard (2010:113-166)			
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Pellard (2010:113-166)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Pellard (2010:113, 123)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Pellard (2010:113, 123)			
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Pellard (2010:113, 123)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Pellard (2010:113, 123)			
 GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Pellard (2010:113, 123)			
 GB134	Is the order of constituents the same in main and subordinate clauses?	1: present, 0: absent	1	Pellard (2010:159-160)			
-GB135	Do clausal objects usually occur in the same position as nominal objects?	1: present, 0: absent	1	"Pellard (2009:194); Pellard (2010:161)"			
+GB135	Do clausal objects usually occur in the same position as nominal objects?	1: present, 0: absent	1	Pellard (2009:194); Pellard (2010:161)			
 GB136	Is the order of core argument (i.e. S/A/P) constituents fixed?	1: present, 0: absent	0	Pellard (2010:123)	“This basic order is rather rigid, but can be modified according to the information structure of the sentence. In such a case, a special marking is required on the topicalized or focalized elements.”		
 GB137	Can standard negation be marked clause-finally?	1: present, 0: absent	1	Pellard (2010:147-148)			
 GB138	Can standard negation be marked clause-initially?	1: present, 0: absent	0	Pellard (2010:147-148)			
 GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	1	Pellard (2010:137)		"declarative: -(a)n
 prohibitive: -(n)na"	
-GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	0	"Pellard (2010:147-148); Pellard (2009:155)"	existential verbs and copula have suppletive negative forms		
+GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	0	Pellard (2010:147-148); Pellard (2009:155)	existential verbs and copula have suppletive negative forms		
 GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	?	Pellard (2010:113-166)	Not mentioned.		
 GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	1	Pellard (2010:139, 148-150)			
 GB148	Is there a morphological antipassive marked on the lexical verb?	1: present, 0: absent	0	Pellard (2010:139, 148-150)			
 GB149	Is there a morphologically marked inverse on verbs?	1: present, 0: absent	0	Pellard (2010:113-166)			
 GB150	Is there clause chaining?	1: present, 0: absent	1	Pellard (2010:114, 159)			
 GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	0	Pellard (2010:113-166)			
-GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	"Pellard (2010:138); Pellard (2009:160)"			
+GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	Pellard (2010:138); Pellard (2009:160)			
 GB155	Are causatives formed by affixes or clitics on verbs?	1: present, 0: absent	1	Pellard (2010:139, 148-150)			
 GB156	Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?	1: present, 0: absent	0	Pellard (2010:139, 148-150)			
 GB158	Are verbs reduplicated?	1: present, 0: absent	0	Pellard (2010:113-166)	Not mentioned.		
 GB159	Are nouns reduplicated?	1: present, 0: absent	0	Pellard (2010:113-166)	Not mentioned.		
-GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	1	"Pellard (2009:135); Pellard (2010:124, 128, 141)"	adjectives and ideophones		
+GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	1	Pellard (2009:135); Pellard (2010:124, 128, 141)	adjectives and ideophones		
 GB165	Is there productive morphological trial marking on nouns?	1: present, 0: absent	0	Pellard (2010:131)			
 GB166	Is there productive morphological paucal marking on nouns?	1: present, 0: absent	0	Pellard (2010:131)			
 GB167	Is there a logophoric pronoun?	1: present, 0: absent	1	Pellard (2010:129)			
@@ -120,7 +120,7 @@ GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Pell
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	Pellard (2010:131-132)			
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Pellard (2010:113-166)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Pellard (2010:113-166)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Pellard (2010:113, 123)			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Pellard (2010:113, 123)			
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Pellard (2010:129)			
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Pellard (2010:129)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Pellard (2010:113-166)			
@@ -143,13 +143,13 @@ GB264	Is there a polar interrogative particle that most commonly occurs neither 
 GB265	Is there a comparative construction that includes a form that elsewhere means 'surpass, exceed'?	1: present, 0: absent	0	Pellard (2009:188-189)			
 GB266	Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?	1: present, 0: absent	0	Pellard (2009:188-189)			
 GB270	Can comparatives be expressed using two conjoined clauses?	1: present, 0: absent	0	Pellard (2009:188-189)			
-GB273	Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?	1: present, 0: absent	1	"Pellard (2010:143); Pellard (2009:188-189)"			
+GB273	Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?	1: present, 0: absent	1	Pellard (2010:143); Pellard (2009:188-189)			
 GB275	Is there a bound comparative degree marker on the property word in a comparative construction?	1: present, 0: absent	0	Pellard (2009:188-189)			
 GB276	Is there a non-bound comparative degree marker modifying the property word in a comparative construction?	1: present, 0: absent	0	Pellard (2009:188-189)			
 GB285	Can polar interrogation be marked by a question particle and verbal morphology?	1: present, 0: absent	0	Pellard (2010:151)			
 GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: present, 0: absent	1	Pellard (2010:151)	“Interrogative mood is often unmarked, but can be marked by the particle ka. A special verb form with a suffix -ɛɛ also exists but is limited to past tense forms, the copula and stative verbs.”	-ee	
 GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Pellard (2009:221)			
-GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	1	"Pellard (2009:172); Pellard (2010:128)"			
+GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	1	Pellard (2009:172); Pellard (2010:128)			
 GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	0	Pellard (2009:221)			
 GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Pellard (2010:147-148)			
 GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Pellard (2010:147-148)			
@@ -158,7 +158,7 @@ GB301	Is there an inclusory construction?	1: present, 0: absent	0	Pellard (2010:
 GB302	Is there a phonologically free passive marker ('particle' or 'auxiliary')?	1: present, 0: absent	0	Pellard (2010:139, 148-150)			
 GB303	Is there a phonologically free antipassive marker ('particle' or 'auxiliary')?	1: present, 0: absent	0	Pellard (2010:139, 148-150)			
 GB304	Can the agent be expressed overtly in a passive clause?	1: present, 0: absent	1	Pellard (2010:139, 143, 148-150)			
-GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	1	"Pellard (2009:121); Pellard (2010:129)"			
+GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	1	Pellard (2009:121); Pellard (2010:129)			
 GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	?	Pellard (2010:113-166)	Not mentioned.		
 GB309	Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?	1: present, 0: absent	0	Pellard (2010:137, 150)			
 GB312	Is there overt morphological marking on the verb dedicated to mood?	1: present, 0: absent	1	Pellard (2010:137, 151-154)			
@@ -175,16 +175,16 @@ GB322	Is there grammatical marking of direct evidence (perceived with the senses
 GB323	Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?	1: present, 0: absent	1	Pellard (2010:154-155)			
 GB324	Is there an interrogative verb for content interrogatives (who?, what?, etc.)?	1: present, 0: absent	0	Pellard (2009:221)			
 GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	0	Pellard (2009:132)			
-GB326	Do (nominal) content interrogatives normally or frequently occur in situ?	1: present, 0: absent	1	"Pellard (2010:163); Pellard (2009:221)"			
+GB326	Do (nominal) content interrogatives normally or frequently occur in situ?	1: present, 0: absent	1	Pellard (2010:163); Pellard (2009:221)			
 GB327	Can the relative clause follow the noun?	1: present, 0: absent	0	Pellard (2010:123, 134)			
 GB328	Can the relative clause precede the noun?	1: present, 0: absent	1	Pellard (2010:123, 134)			
 GB329	Are there internally-headed relative clauses?	1: present, 0: absent	0	Pellard (2010:134, 160-161)			
 GB330	Are there correlative relative clauses?	1: present, 0: absent	0	Pellard (2010:134, 160-161)			
 GB331	Are there adjoined relative clauses?	1: present, 0: absent	0	Pellard (2010:134, 160-161)			
-GB333	Is there a decimal numeral system?	1: present, 0: absent	1	"Pellard (2009:127-128); Pellard (2010:130)"			
-GB334	Is there synchronic evidence for any element of a quinary numeral system?	1: present, 0: absent	0	"Pellard (2009:127-128); Pellard (2010:130)"			
-GB335	Is there synchronic evidence for any element of a vigesimal numeral system?	1: present, 0: absent	0	"Pellard (2009:127-128); Pellard (2010:130)"			
-GB336	Is there a body-part tallying system?	1: present, 0: absent	0	"Pellard (2009:127-128); Pellard (2010:130)"			
+GB333	Is there a decimal numeral system?	1: present, 0: absent	1	Pellard (2009:127-128); Pellard (2010:130)			
+GB334	Is there synchronic evidence for any element of a quinary numeral system?	1: present, 0: absent	0	Pellard (2009:127-128); Pellard (2010:130)			
+GB335	Is there synchronic evidence for any element of a vigesimal numeral system?	1: present, 0: absent	0	Pellard (2009:127-128); Pellard (2010:130)			
+GB336	Is there a body-part tallying system?	1: present, 0: absent	0	Pellard (2009:127-128); Pellard (2010:130)			
 GB400	Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?	1: present, 0: absent	0	Pellard (2010:113-166)			
 GB401	Is there a class of patient-labile verbs?	1: present, 0: absent	?	Pellard (2010:113-166)	Not mentioned.		
 GB402	Does the verb for 'see' have suppletive verb forms?	1: present, 0: absent	0	Pellard (2009:152-153)			
@@ -192,12 +192,12 @@ GB403	Does the verb for 'come' have suppletive verb forms?	1: present, 0: absent
 GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	Pellard (2010:113, 143)			
 GB409	Is there any ergative alignment of flagging?	1: present, 0: absent	0	Pellard (2010:113)			
 GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	0	Pellard (2010:113)			
-GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	0	"Pellard (2009:121); Pellard (2010:129)"			
+GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	0	Pellard (2009:121); Pellard (2010:129)			
 GB421	Is there a preposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	0	Pellard (2010:161)			
 GB422	Is there a postposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	1	Pellard (2010:161)			
 GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	Pellard (2009:195)			
 GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	Pellard (2009:195)			
-GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	"Pellard (2010:146); Pellard (2009:195)"	clitics		"ɑ=kɑ sutɑ 
+GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	Pellard (2010:146); Pellard (2009:195)	clitics		"ɑ=kɑ sutɑ 
 1SG=nom big.brother ‘my big brother’
 ɑ=kɑ ɑstɑ=ɑ ntɑ=n=tu ɑɯ
 1SG=nom clog=top where=dat=foc be 
@@ -207,73 +207,25 @@ GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1:
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	Pellard (2010:155-157)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Pellard (2010:137, 150)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Pellard (2010:123)			
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	1	Pellard (2010:120)			
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Pellard (2010:118)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Pellard (2010:115-123)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Pellard (2010:115-123)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Pellard (2010:116)			
 TE006	Is there an initial r-?	1: present, 0: absent	1	Pellard (2010:120)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	1	Pellard (2010:116, 119)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	0	Pellard (2010:116)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0	Pellard (2010:126)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	1	Pellard (2010:141)			"ikimɑ=ɑ iɾɑʋ=nsɛ=ɛ upu-upɑ=ɑ uɾ-ɑ-n sɯmɑ
-Ikema=top Irabu=simil=top big-big=top ipf-irr-neg island 
-‘Ikema is an island not as big as Irabu.’ "
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Pellard (2010:125)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Pellard (2010:125)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Pellard (2010:129)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	0	Pellard (2010:129)			
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Pellard (2010:137, 159-160)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Pellard (2010:147-148)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Pellard (2010:129)			
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	0	Pellard (2010:126)			
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	0	Pellard (2010:126)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Pellard (2010:116)		it is not phonological	
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Pellard (2010:129)			
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	1	Pellard (2010:159)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Pellard (2010:113-166)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Pellard (2010:116)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	0	Pellard (2010:116)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Pellard (2010:118)			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Pellard (2010:139, 148-150)	Not mentioned.		
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	1	Pellard (2009:195)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	0	Pellard (2010:142)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	1	Pellard (2010:131)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Pellard (2010:127)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Pellard (2010:130)			
-TE051	Is nominative case unmarked?	1: present, 0: absent	0	Pellard (2010:113)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Pellard (2010:113)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Pellard (2010:146)			
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	?	Pellard (2009:221)			
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Pellard (2010:139, 143, 148-150)			
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	1	Pellard (2010:149)	Not mentioned.		
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	0	Pellard (2010:127)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Pellard (2010:139, 148-150)			
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Pellard (2010:161)		-ti(i)	
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	0	Pellard (2010:137, 151-154)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	Pellard (2010:137, 151-154)		Not mentioned.	
-TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	"Pellard (2009:146); Pellard (2010:137, 151-154)"			
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	0	Pellard (2010:113-166)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	?	Pellard (2009:188-189)		iuuɯ	
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	?	Pellard (2010:113-166)			
+TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	Pellard (2009:146); Pellard (2010:137, 151-154)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Pellard (2010:116)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Pellard (2010:130, 134)			
 TS002	Can numeral follow the noun?	1: present, 0: absent	1	Pellard (2010:130, 134)			
@@ -292,12 +244,6 @@ s’en allaient.’"
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	0	Pellard (2009:388)			
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Pellard (2010:113-166)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	0	Pellard (2010:113-166)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Pellard (2010:113-166)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Pellard (2010:113-166)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Pellard (2010:113, 123)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Pellard (2010:113, 123)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Pellard (2010:113-166)			

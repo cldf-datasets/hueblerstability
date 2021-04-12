@@ -3,8 +3,8 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Yamada (2
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Yamada (2015:449-476)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Yamada (2015:449-476)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Yamada (2015:449-476)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	?	Yamada (2015:449-476)	Not mentioned.		
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Yamada (2015:454, 465)			
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	?	Yamada (2015:449-476)	Not mentioned.		
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Yamada (2015:454, 465)			
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Yamada (2015:457)	not clear, how coordination is expressed	comitative: -tu	
 GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Yamada (2015:456)			
@@ -34,11 +34,11 @@ GB054	Is there a noun class/gender system where plant status is a factor in clas
 GB057	Are there numeral classifiers?	1: present, 0: absent	1	Yamada (2015:456)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Yamada (2015:449-476)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Yamada (2015:449-476)			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Yamada (2015:457, 469)			"baga nnani=ja
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Yamada (2015:457, 469)			"baga nnani=ja
 1SG.POSS clothes=TOP
 'my clothes'"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	1	Yamada (2015:454, 463)			
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	1	Yamada (2015:465)	"""Property-concept modification (e.g. ‘beautiful person’) is encoded by the adnominal clause construction with a stative verb predicate (e.g. ‘a person (who) is beautiful’). The stative verb must in this case be a participial form, like ordinary verbs in adnominal clauses."""		"khanu ttu=ka mabin abja-ta-ru ttu
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	1	Yamada (2015:465)	"""Property-concept modification (e.g. ‘beautiful person’) is encoded by the adnominal clause construction with a stative verb predicate (e.g. ‘a person (who) is beautiful’). The stative verb must in this case be a participial form, like ordinary verbs in adnominal clauses."""		"khanu ttu=ka mabin abja-ta-ru ttu
 DIST person=CMP more beautiful-PST-PTCP person
 ‘the person who was more beautiful than that person’"
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Yamada (2015:454, 456-457)			
@@ -122,7 +122,7 @@ child=NOM lot exist-IND
 "
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	0	Yamada (2015:455, 464, 467)			
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Yamada (2015:449-476)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Yamada (2015:464)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Yamada (2015:464)			
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Yamada (2015:449-476)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Yamada (2015:449-476)			
 GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Yamada (2015:467, 472-473)			"tharu=ŋa i maga-ta-n. Tharu=NOM rice cook-PST-IND 
@@ -191,7 +191,7 @@ GB188	Is there any productive augmentative marking on the noun (exclude marking 
 AUG-stone
 ‘big stone'"
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Yamada (2015:449-476)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Yamada (2015:464)			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Yamada (2015:464)			
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Yamada (2015:456)			
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Yamada (2015:456)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Yamada (2015:449-476)			
@@ -252,7 +252,7 @@ GB318	Is plural number regularly marked in the noun phrase by a dedicated phonol
 GB319	Is trial number regularly marked in the noun phrase by a dedicated phonologically free element?	1: present, 0: absent	0	Yamada (2015:455-456)			
 GB320	Is paucal number regularly marked in the noun phrase by a dedicated phonologically free element?	1: present, 0: absent	0	Yamada (2015:455-456)			
 GB321	Is there a large class of nouns whose gender/noun class is not phonologically or semantically predictable?	1: present, 0: absent	0	Yamada (2015:449-476)			
-GB322	Is there grammatical marking of direct evidence (perceived with the senses)?	1: present, 0: absent	1	Yamada (2015:472)			"khanu khi dagati thur-indangi=du ar-u. DIST tree eventually fall-INFER=FOC COP-PTCP (Looking at the root coming out of the ground) ‘That tree will fall(, I infer).’ "
+GB322	Is there grammatical marking of direct evidence (perceived with the senses)?	1: present, 0: absent	1	Yamada (2015:472)			khanu khi dagati thur-indangi=du ar-u. DIST tree eventually fall-INFER=FOC COP-PTCP (Looking at the root coming out of the ground) ‘That tree will fall(, I infer).’ 
 GB323	Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?	1: present, 0: absent	0	Yamada (2015:449-476)			
 GB324	Is there an interrogative verb for content interrogatives (who?, what?, etc.)?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
 GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
@@ -295,87 +295,31 @@ GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1:
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Yamada (2015:470-471)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Yamada (2015:458, 470)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Yamada (2015:464)			
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	0	Yamada (2015:453)			"haci LH low ‘bridge’
-haci LH falling ‘chopsticks’"
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Yamada (2015:449-476)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Yamada (2015:449-476)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
 TE006	Is there an initial r-?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Yamada (2015:451)		apart from glides /j/ and /w/	
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Yamada (2015:451)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0	Yamada (2015:449-476)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Yamada (2015:455)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	0	Yamada (2015:455)	both prefixing and suffing		
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Yamada (2015:456)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	0	Yamada (2015:456)			
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	Yamada (2015:449-476)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	0	Yamada (2015:449-476)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	1	Yamada (2015:456)			"bânu-nta
 "
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent					
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent					
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Yamada (2015:451)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Yamada (2015:449-476)	Not mentioned.		
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Yamada (2015:451)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	0	Yamada (2015:451)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	0	Yamada (2015:451)	not distinctive		
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Yamada (2015:455-456)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	0	Yamada (2015:449-476)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Yamada (2015:454)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE051	Is nominative case unmarked?	1: present, 0: absent	0	Yamada (2015:456-457, 473)	ACC is unmarked instead	"-ŋa 
-"	"tharu=ŋa i maga-ta-n
-Tharu=NOM rice cook-PST-IND 
-‘Tharu cooked rice.’ "
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Yamada (2015:473)			"tharu=ŋa i maga-ta-n
 Tharu=NOM rice cook-PST-IND 
 ‘Tharu cooked rice.’ "
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Yamada (2015:456-457)			
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Yamada (2015:468)			
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	0	Yamada (2015:457, 474)	directive or locative	-nki, -ni	"khunu ujantu=ŋa maju=ni h-ari-ta-n. PROX mouse=NOM cat=LOC eat-PASS-PST-IND
-‘This mouse was eaten by the cat.’ "
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	1	Yamada (2015:475)	passive with intransitive verbs		"anu=ja agami=ni nag-ar-iti, sikama khir-aninu-ta-n
-1SG=TOP child=LOC cry-MAL-SEQ work do-POT.NEG-PST-IND
-‘A child cried on me and I could not work.’"
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	0	Yamada (2015:449-476)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Yamada (2015:458)		"PASS: -arir-
 CAUS: -amir-"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	0	Yamada (2015:449-476)			
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	1	Yamada (2015:473)			"gaku ma simar-ja da=nki khais-i 
-school already finish=COND house=DIR return-MED 
-hi-ta-n=tin nsa-n. 
-go-PST-IND-even_if good-IND ‘Since the school is already finished, (you) may go home.’ "
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	Yamada (2015:469)			"da=nki hir-i 
 house=DIR go-IMP
 ‘Go home.’ "
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	0	Yamada (2015:449-476)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Yamada (2015:449-476)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	0	Yamada (2015:449-476)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	0	Yamada (2015:470-471)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	1	Yamada (2015:465)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Yamada (2015:465)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	1	Yamada (2015:451)		fortis, lenis, voiced	
 TS001	Can numeral precede the noun?	1: present, 0: absent	?	Yamada (2015:449-476)			
 TS002	Can numeral follow the noun?	1: present, 0: absent	?	Yamada (2015:449-476)			
@@ -394,12 +338,6 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Yamada (2015:449-476)			
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Yamada (2015:449-476)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	0	Yamada (2015:449-476)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Yamada (2015:449-476)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Yamada (2015:449-476)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Yamada (2015:464)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Yamada (2015:464)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Yamada (2015:451)			

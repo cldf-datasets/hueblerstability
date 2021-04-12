@@ -7,14 +7,14 @@ GB022	Are there prenominal articles?	1: present, 0: absent	0	Slater (2003:99)
 GB023	Are there postnominal articles?	1: present, 0: absent	1	Slater (2003:99)	not grammatically required		"shuguo beghe ge
 [big tree SG:INDEF]
 ‘a big tree’"
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	3	Slater (2003:94, 104-107)			"ni bayang kong=ni diamang=du san-ge shuguo biesi tuoluo bang
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	3	Slater (2003:94, 104-107)			"ni bayang kong=ni diamang=du san-ge shuguo biesi tuoluo bang
 [this rich person=GEN door=DAT three-CL big straw stack OBJ:COP]
 ‘At this rich man’s gate are three big stacks of straw.’"
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Slater (2003:88)			"ni bayang kong=ni diamang=du san-ge shuguo biesi tuoluo bang
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Slater (2003:88)			"ni bayang kong=ni diamang=du san-ge shuguo biesi tuoluo bang
 [this rich person=GEN door=DAT three-CL big straw stack OBJ:COP]
 ‘At this rich man’s gate are three big stacks of straw.’"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	0	Slater (2003:1-382)	Probably not, not mentioned.		
-GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Slater (2003:110)	"coordination: dai; comitative: there are two markers that could count: =tai or =la, but it is not clear whether there is a comitative meaning apart from the collective and the instrumental"		
+GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Slater (2003:110)	coordination: dai; comitative: there are two markers that could count: =tai or =la, but it is not clear whether there is a comitative meaning apart from the collective and the instrumental		
 GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Slater (2003:84)			"da 1PL
 dasi 1PL-PL"
 GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Slater (2003:83)			
@@ -47,13 +47,13 @@ GB059	Is the adnominal possessive construction different for alienable and inali
 gan=ni xianliang bieri
 [3SG-GEN kind wife]
 ‘his kind wife’"
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	1	Slater (2003:175)			"ana=ni ger=du=nang
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Slater (2003:175)			"ana=ni ger=du=nang
 [mother=GEN house=DAT=REFLPOSS]
 ‘her mother’s own house’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Slater (2003:96-97, 126-127)			"gan saihang bang
 [3SG beautiful OBJ:COP]
 ‘She’s beautiful.’"
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Slater (2003:96-97, 126-127)			"khara quequer erjige ge
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Slater (2003:96-97, 126-127)			"khara quequer erjige ge
 [black lame donkey SG:INDEF]
 ‘a black lame donkey’"
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Slater (2003:162-164)	clitics		"ni muni aguer=ni ala ge-jiang
@@ -120,7 +120,7 @@ GB124	Is incorporation of nouns into verbs a productive intransitivizing process
 GB126	Is there an existential verb?	1: present, 0: absent	0	Slater (2003:126-128)	it is the same as the attributive and the equative copula		
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	0	Slater (2003:127-128)			
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Slater (2003:1-382)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Slater (2003:112, 122-123)			"taolai xi-jiang
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Slater (2003:112, 122-123)			"taolai xi-jiang
 [rabbit go-OBJ:PFV]
 ‘Rabbit went (home).’"
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Slater (2003:112, 123-124)			
@@ -151,7 +151,7 @@ negation of an adjective copular clause: guang"	"qi wuge lai maidie-lang,
 “Dangda niangjia gui!”
 [1SG:DAT parental:home SUBJ:NEG:COP]
 ‘“I have no parents’ home!”(she said).’"
-GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	1	Slater (2003:196)	"“When a first person subject occurs with a verb over which the subject is not seen to have control, as a result of the semantic character of the verb, subjective marking does not occur”; “verbs of perception or emotion, and verbs expressing actions not voluntarily undertaken by the subject, do not receive subjective marking, even when the grammatical subject is first person”; “Only first person shows this systematic alternation. Second or third person subjects, whether they occur with control or non-control verbs, normally trigger the objective perspective marking.”"		
+GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	1	Slater (2003:196)	“When a first person subject occurs with a verb over which the subject is not seen to have control, as a result of the semantic character of the verb, subjective marking does not occur”; “verbs of perception or emotion, and verbs expressing actions not voluntarily undertaken by the subject, do not receive subjective marking, even when the grammatical subject is first person”; “Only first person shows this systematic alternation. Second or third person subjects, whether they occur with control or non-control verbs, normally trigger the objective perspective marking.”		
 GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	0	Slater (2003:128-131, 354)			
 GB148	Is there a morphological antipassive marked on the lexical verb?	1: present, 0: absent	0	Slater (2003:128-131)			
 GB149	Is there a morphologically marked inverse on verbs?	1: present, 0: absent	0	Slater (2003:1-382)			
@@ -181,7 +181,7 @@ GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Slat
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Slater (2003:1-382)	Not mentioned.		
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Slater (2003:1-382)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Slater (2003:1-382)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Slater (2003:96)			"gan=ni xianliang bieri
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Slater (2003:96)			"gan=ni xianliang bieri
 [3SG=GEN kind wife]
 ‘his kind wife’"
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Slater (2003:83-84)			
@@ -285,7 +285,7 @@ GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	Sla
 GB409	Is there any ergative alignment of flagging?	1: present, 0: absent	0	Slater (2003:162-164)			"ni=ni berdu-gha bura-ku
 [this=ACC burn-CAUSE finish-IPFV]
 ‘after these things (the straw stacks) are caused to burn’"
-GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	1	Slater (2003:123, 162, 164)	"“Subjects usually appear in nominative case, which is morphologically unmarked. Direct objects may also be unmarked, or may appear in accusative case”; “Subjects and direct objects can appear as unmarked NPs which are distinguished by word order, with subjects preceding direct objects, while all other NPs must obligatorily appear in postpositional phrases.”"		"bi mamei di-ni
+GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	1	Slater (2003:123, 162, 164)	“Subjects usually appear in nominative case, which is morphologically unmarked. Direct objects may also be unmarked, or may appear in accusative case”; “Subjects and direct objects can appear as unmarked NPs which are distinguished by word order, with subjects preceding direct objects, while all other NPs must obligatorily appear in postpositional phrases.”		"bi mamei di-ni
 [1SG wheat eat-SUBJ:FUT]
 ‘I will/want to eat wheat.’"
 GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	0	Slater (2003:83-84)			
@@ -308,92 +308,33 @@ GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause w
 mamei = ni chaoke-jiang ma, wheat=ACC
 [fry-OBJ:PERF PRT]
 ‘(She) roasted wheat.’"
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?				
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Slater (2003:2)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Slater (2003:71)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Slater (2003:71)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Slater (2003:30)			
 TE006	Is there an initial r-?	1: present, 0: absent	1	Slater (2003:30-31)			ruo 'to enter'
-TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	1	"Rybatzki (2003:371-372); Slater (2003:56)"		consisting of only two consonants	"que [tɕʰwɛ] ‘to lack’ 
+TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	1	Rybatzki (2003:371-372); Slater (2003:56)		consisting of only two consonants	"que [tɕʰwɛ] ‘to lack’ 
 zhuergai [tɕwɚˈkaj] ‘heart’"
-TE008	Is there a voicing distinction in stops?	1: present, 0: absent	0	"Slater (2003:26); Slater (in Janhunen 2003:309)"			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?				
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0	Slater (2003:96-97, 126-127)		nominally encoded	
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	?	Slater (2003:1-382)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1				
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Slater (2003:120)			
+TE008	Is there a voicing distinction in stops?	1: present, 0: absent	0	Slater (2003:26); Slater (in Janhunen 2003:309)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Slater (2003:83)			bi qi
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Slater (2003:83)			"bi 1SG.NOM
 namei=du [1SG=DAT]"
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	?				
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?				
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	0	Slater (2003:145-149)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Slater (2003:83-84)		da-si [1SG-PL] ‘we’	
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	1	Slater (2003:96-97, 126-127)			"khara quequer erjige ge
-[black lame donkey SG:INDEF]
-‘a black lame donkey’"
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	1	Slater (2003:96-97, 126-127)			"khara quequer erjige ge
-[black lame donkey SG:INDEF]
-‘a black lame donkey’"
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Slater (2003:30)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?		it is not clear how reciprocal meaning is conveyed	it is not clear how reciprocal meaning is conveyed	
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?				
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?				
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Slater (2003:26, 28-29)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Slater (2003:30-31)			
-TE039	Is there vowel length distinction?	1: present, 0: absent	0	"Slater (2003:67); Slater (in Janhunen 2003:309); Rybatzki (2003:371-372)"			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	1	Slater (2003:128-131)		-gha	
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?				
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?				
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	0	Slater (2003:113)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	1	De Smedt and Mostaert 1964			"ARM: gar ""main, bras"" [the g has a subscripted <]
-HAND: gar	""main, bras"" [the g has a subscripted <]"
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?				
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Slater (2003:107-110)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	1	Slater (2003:93, 188, 318)			"gan=ni yaodong ye yi-ge baowo yaodong bang
-[3SG=GEN cave also one-CL sacred cave OBJ:COP]
-‘This cave was even a sacred cave.’
-gan mori laosa-si = ni mula kao = du yi-ge a lai hu-lang
-[3SG horse mule-PL=ACC small son=DAT one-CL also NEG give-OBJ:IPFV]
-‘He didn’t give even one of (his) horses and mules to the Youngest Son.’
-yima a bi
-[goat also SUBJ:COP]
-‘There are also goats,"
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	0	Slater (2003:174)		there is a reflexive possessive clitic =nang	
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	?				
+TE039	Is there vowel length distinction?	1: present, 0: absent	0	Slater (2003:67); Slater (in Janhunen 2003:309); Rybatzki (2003:371-372)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Slater (2003:95)			"mer liang-tiao
 [road two-CL]
 ‘two roads’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Slater (2003:123)		“Subjects usually appear in nominative case, which is morphologically unmarked. Direct objects may also be unmarked, or may appear in accusative case”	
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Slater (2003:164)		“if the identity of the particular entity affected by an action is not important, a speaker does not need to use the accusative casemarker, even with a highly transitive verb. Indefinite or generic NPs therefore are often morphologically unmarked when appearing as direct objects’	"bi mamei di-ni
 [1SG wheat eat-SUBJ:FUT]
 ‘I will/want to eat wheat.’"
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Slater (2003:124-125)		it is marked by the dative/locative case clitic	
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Slater (2003:117)			
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	0	Slater (2003:128-131)			
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?				
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	0	Slater (2003:128-131)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?				
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Slater (2003:129)		no passive	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?				
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?				
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	?	Slater (2003:162-188)			
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Slater (2003:116-119)		Not mentioned.	
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?				
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?				
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Slater (2003:117-118)			"tasi ri ma
 [2PL come.IMP PRT]
 ‘you come and’"
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	0			there is no person marking on the verb	
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Slater (2003:169)	no other means than the ablative case marker are mentioned		
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?				
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?				
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?				
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?				
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?				
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?				
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	?	Slater (2003:162-188)	clitics		
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	?	Slater (2003:162-188)	clitics		
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Slater (2003:26)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Slater (2003:94, 104-107)			"ni bayang kong=ni diamang=du san-ge shuguo biesi tuoluo bang
 [this rich person=GEN door=DAT three-CL big straw stack OBJ:COP]
@@ -411,12 +352,6 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Slater (2003:1-382)		Not mentioned.	
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Slater (2003:71)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	0	Slater (2003:71)			
-TS081	Is there an initial l-?	1: present, 0: absent	?				
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?				
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?				
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?				
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?				
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?				
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Slater (2003:112, 122-123)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Slater (2003:112, 122-123)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	1	Slater (in Janhunen 2003:309)			

@@ -5,10 +5,10 @@ GB022	Are there prenominal articles?	1: present, 0: absent	1	Pokrovskaja (1964:1
 1SG-GEN face-LOC sit-PST year-LOC one man
 ‘In front of me an elderly man was sitting.’"
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Pokrovskaja (1964)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Pokrovskaja (1964:109)			"üč gün
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Pokrovskaja (1964:109)			"üč gün
 three day
 ‘three days’"
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Pokrovskaja (1964:131-132)			"bu insan
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Pokrovskaja (1964:131-132)			"bu insan
 this human
 ‘this man’"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Pokrovskaja (1964)	Not mentioned.		
@@ -56,7 +56,7 @@ GB054	Is there a noun class/gender system where plant status is a factor in clas
 GB057	Are there numeral classifiers?	1: present, 0: absent	0	Pokrovskaja (1964)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Pokrovskaja (1964)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Pokrovskaja (1964:109-113)			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	3	Pokrovskaja (1964:110, 112)			"boba-m
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Pokrovskaja (1964:110, 112)			"boba-m
 father-1SG
 ‘my father’
 ben-im ev-lär
@@ -65,7 +65,7 @@ ben-im ev-lär
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	1	Pokrovskaja (1964:156)			"šen-di-m
 merry-PST-1SG
 ‘I was merry.’"
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Pokrovskaja (1964:203)			"ben-im zavalï boba-m kendi-nin genčili:n-dä ü:ren-miš-ti kemenče-dä čal-ma:
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Pokrovskaja (1964:203)			"ben-im zavalï boba-m kendi-nin genčili:n-dä ü:ren-miš-ti kemenče-dä čal-ma:
 1SG-GEN.1SG poor father-1SG.POSS REFL-GEN youth-LOC learn-PST-3SG violin-LOC play-INF
 ‘My poor father learnt to play the violin in his youth.’"
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Pokrovskaja (1964:114, 116)			
@@ -104,7 +104,7 @@ GB098	Are variations in marking strategies of core participants based on person 
 GB099	Can verb stems alter according to the person of a core participant?	1: present, 0: absent	0	Pokrovskaja (1964)			
 GB103	Is there a benefactive applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Pokrovskaja (1964)			
 GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Pokrovskaja (1964)			
-GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	"Ulutas (2000:49-50); Pokrovskaja (1964:114-116)"			"ver-miš o onu bir usta-ja jabančï kü:-dä
+GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	Ulutas (2000:49-50); Pokrovskaja (1964:114-116)			"ver-miš o onu bir usta-ja jabančï kü:-dä
 give-PST 3SG 3SG.ACC one master-DAT different village-LOC
 ‘He gave him to a master in a different village.’"
 GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	Pokrovskaja (1964:162)		-ma/-me/-mä/-me	
@@ -122,7 +122,7 @@ GB115	Is there a phonologically bound reciprocal marker on the verb?	1: present,
 find-RECIP-INF
 ‘to meet each other’"
 GB116	Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?	1: present, 0: absent	0	Pokrovskaja (1964)			
-GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	"Ulutas (2000:40); Pokrovskaja (1964:154)"		var- and ol- can both be used as a copula	"sän var-sïn en i: eki-ži
+GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	Ulutas (2000:40); Pokrovskaja (1964:154)		var- and ol- can both be used as a copula	"sän var-sïn en i: eki-ži
 2SG be-2SG most good sow-NMLZ
 ‘You are the best sower.’"
 GB118	Are there serial verb constructions?	1: present, 0: absent	0	Pokrovskaja (1964)			
@@ -146,12 +146,12 @@ akl-ïn-а gel-mä:
 memory-POSS.3-DAT come-INF
 ‘to recollect’"
 GB124	Is incorporation of nouns into verbs a productive intransitivizing process?	1: present, 0: absent	0	Pokrovskaja (1964:170)			
-GB126	Is there an existential verb?	1: present, 0: absent	0	"Ulutas (2000:42); Pokrovskaja (1964:154)"	it can also be used as a copula		"hem var bir drug-um ilya radjonovič
+GB126	Is there an existential verb?	1: present, 0: absent	0	Ulutas (2000:42); Pokrovskaja (1964:154)	it can also be used as a copula		"hem var bir drug-um ilya radjonovič
 and exist one friend-1SG.POSS Ilya Radyonovich
 ‘And there is a friend of mine, Ilya Radyonovich.’"
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	0	Pokrovskaja (1964:154)	var ‘exist’ is used instead		
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Pokrovskaja (1964)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	3	Pokrovskaja (1964:115, 195, 279)			"bän kolhoz-da išle-di-m buhgalter beš jïl
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	3	Pokrovskaja (1964:115, 195, 279)			"bän kolhoz-da išle-di-m buhgalter beš jïl
 1SG kolhoz-LOC work-PST-1SG accountant five year
 ‘I worked as an accountant in a kolhoz for five years.’
 adam-ïn var-mïš üč kïzï
@@ -161,7 +161,7 @@ o adam-ïn var-mïš bir čožu: hem bir da kïzï
 that man-GEN be-PST one child and one and girl
 ‘That man had one son and also one daughter.’"
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Pokrovskaja (1964)			
-GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	1	"Pokrovskaja (1964:197, 203); Ulutas (2000:57)"	the word order is free		"ben-im zavalï boba-m kendi-nin genčili:n-dä ü:ren-miš-ti kemenče-dä čal-ma:
+GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	1	Pokrovskaja (1964:197, 203); Ulutas (2000:57)	the word order is free		"ben-im zavalï boba-m kendi-nin genčili:n-dä ü:ren-miš-ti kemenče-dä čal-ma:
 1SG-GEN.1SG poor father-1SG.POSS REFL-GEN youth-LOC learn-PST-3SG violin-LOC play-INF
 ‘My poor father learnt to play the violin in his youth.’
 koli unut-muš torba-jï jev-dä
@@ -233,7 +233,7 @@ apple-DIM
 ‘a small apple’"
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Pokrovskaja (1964)			
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Pokrovskaja (1964)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Pokrovskaja (1964:203)			"ben-im zavalï boba-m kendi-nin genčili:n-dä ü:ren-miš-ti kemenče-dä čal-ma:
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Pokrovskaja (1964:203)			"ben-im zavalï boba-m kendi-nin genčili:n-dä ü:ren-miš-ti kemenče-dä čal-ma:
 1SG-GEN.1SG poor father-1SG.POSS REFL-GEN youth-LOC learn-PST-3SG violin-LOC play-INF
 ‘My poor father learnt to play the violin in his youth.’"
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Pokrovskaja (1964:127-128)			
@@ -258,7 +258,7 @@ GB256	Can predicative possession be expressed with an S-like possessor and a pos
 GB257	Can polar interrogation be marked by intonation only?	1: present, 0: absent	1	Ulutas (2000:27-28)			
 GB260	Can polar interrogation be indicated by a special word order?	1: present, 0: absent	0	Ulutas (2000:27-28)			
 GB262	Is there a clause-initial polar interrogative particle?	1: present, 0: absent	0	Ulutas (2000:27-28)			
-GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	"Pokrovskaja (1964:283); Ulutas (2000:27-28)"	it undergoes vowel harmony	-mï/-mi/-mu/-mü	"git-ti mi
+GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	Pokrovskaja (1964:283); Ulutas (2000:27-28)	it undergoes vowel harmony	-mï/-mi/-mu/-mü	"git-ti mi
 go-EVID Q
 ‘Is he gone?’
 bu eše-čik biz-im eše:-miz-in küčük ušacu mï
@@ -370,7 +370,7 @@ GB432	Can adnominal possession be marked by a suffix on the possessor?	1: presen
 GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	Pokrovskaja (1964:110)			"boba-m
 father-1SG
 ‘my father’"
-GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	"Ulutas (2000:43); Pokrovskaja (1964:163)"		var nižä	"var nižä alsïn
+GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	Ulutas (2000:43); Pokrovskaja (1964:163)		var nižä	"var nižä alsïn
 be allowed take
 ‘He can take.’"
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Pokrovskaja (1964:168-169)			
@@ -378,55 +378,27 @@ GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Pokrovskaja (1964:179)			"gid-er-lar
 go-PRS-PL
 ‘They are going.’"
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Pokrovskaja (1964:23-80)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Pokrovskaja (1964:76)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Pokrovskaja (1964:76)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Pokrovskaja (1964:62)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Pokrovskaja (1964:63)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Pokrovskaja (1964:63-64)	examples provide no evidence		
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Pokrovskaja (1964:51)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	1	Pokrovskaja (1964:166-168)			"laf etmä:
-speech do
-‘to speak’"
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	?	Pokrovskaja (1964)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Pokrovskaja (1964:3-295)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Pokrovskaja (1964:178, 194-198)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Pokrovskaja (1964:127-128)		ben-sen opposition	
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Pokrovskaja (1964:127-128)		both NOM and OBL contain a dental nasal	
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	0	Pokrovskaja (1964:3-295)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Pokrovskaja (1964:127-128)			
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent					
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent					
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Pokrovskaja (1964:62)	only phonetically		
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Pokrovskaja (1964:51)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Pokrovskaja (1964:51)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Pokrovskaja (1964:25)			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Pokrovskaja (1964:108-109)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	0	Pokrovskaja (1964:3-295)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Pokrovskaja (1964:131-138)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Pokrovskaja (1964:109)			"üč gün
 three day
 ‘three days’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Pokrovskaja (1964:114)			
-TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	"Ulutas (2000:48-49); Pokrovskaja (1964:114)"			"ivani-žik görer bir šavk
+TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Ulutas (2000:48-49); Pokrovskaja (1964:114)			"ivani-žik görer bir šavk
 Ivan-DIM see one twinkle
 ‘Ivan sees a twinkle.’"
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Pokrovskaja (1964:115-116)			
-TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	"Pokrovskaja (1964:138); Baskakov (1973:214)"	content interrogation is not marked		"kim-in bi ušak
+TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Pokrovskaja (1964:138); Baskakov (1973:214)	content interrogation is not marked		"kim-in bi ušak
 who-GEN this child
 ‘Whose child is this?’
 ne güna-a jap-tï-n
@@ -435,34 +407,10 @@ what sin-ACC do-PST-2SG
 näb-er-sïn
 do.what-PRS-2SG
 ‘What are you doing? / How are you doing?’"
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	0	Pokrovskaja (1964:131-138)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Pokrovskaja (1964:173-174)			
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Pokrovskaja (1964:125)			"ben-im karšïm-da oturar-dï jaš-ta bir adam
-1SG-GEN face-LOC sit-PST year-LOC one man
-‘In front of me an elderly man was sitting.’"
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Pokrovskaja (1964:162, 204)			"al
 take
 ‘Take!’"
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	0	Pokrovskaja (1964:3-295)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Pokrovskaja (1964:107-108)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Pokrovskaja (1964:151)		3SG predicative suffix -dïr/-dir/-dur/-dür/-tïr/-tir/-tur/-tür is derived from dur-/tur- ‘to stand’	"o usta-dïr
-3SG foreman-PRS
-‘He is a foreman.’"
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	0	Pokrovskaja (1964:3-295)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	0	Pokrovskaja (1964:3-295)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Pokrovskaja (1964:3-295)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Pokrovskaja (1964:3-295)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Pokrovskaja (1964:51)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Pokrovskaja (1964:109)			"üč gün
 three day
@@ -486,12 +434,6 @@ all-ABL neighbour-PL-ABL
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	0	Pokrovskaja (1964:142-143)			
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Pokrovskaja (1964:76)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Pokrovskaja (1964:76)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Pokrovskaja (1964:3-295)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Pokrovskaja (1964:3-295)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Pokrovskaja (1964:115, 195, 279)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Pokrovskaja (1964:115, 195, 279)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Pokrovskaja (1964:51)			

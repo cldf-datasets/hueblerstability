@@ -3,10 +3,10 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Juwon (20
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Juwon (2011:1-115)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Juwon (2011:1-115)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Juwon (2011:1-115)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Juwon (2011:52)			"ʤor mʊra-r
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Juwon (2011:52)			"ʤor mʊra-r
 two horse-PL
 ‘two horses’"
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Juwon (2011:64)			"erek kuŋa jasa-l-a-n
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Juwon (2011:64)			"erek kuŋa jasa-l-a-n
 this child eye-PL-?-3SG.POSS
 ‘this child’s eyes’"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Juwon (2011:114)	there is only an example with a demonstrative and noun available though		
@@ -41,11 +41,11 @@ GB058	Are there possessive classifiers?	1: present, 0: absent	0	Juwon (2011:1-11
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	1	Juwon (2011:65)		-ŋ	"bi: ası-ŋ-ı gelel-re-m
 1SG wife-ALIEN miss-NONFUT-1SG
 ‘I miss my wife.’"
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	3	Juwon (2011:62-63)			"min mʊran-dʊ-w
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Juwon (2011:62-63)			"min mʊran-dʊ-w
 1SG.OBL horse-LOC-1SG.POSS
 ‘on my horse’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Juwon (2011:68-69)			
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Juwon (2011:68-69)			
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Juwon (2011:68-69)			
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Juwon (2011:53)			
 GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Juwon (2011:60-61)			
 GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Juwon (2011:53-59)			"bi: berjozovka-dʊk em-ri-w
@@ -128,7 +128,7 @@ basin-DIR.LOC water be-NONFUT-3SG
 ‘Is there water in the washbasin?’"
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Juwon (2011:1-115)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Juwon (2011:53)			"ʤor bej em-re
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Juwon (2011:53)			"ʤor bej em-re
 two man come-NONFUT
 ‘Two people come.’"
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Juwon (2011:1-115)			
@@ -198,7 +198,7 @@ schoolboy-DIM
 ‘a young pupil’"
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Juwon (2011:70-71)	Probably not, not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Juwon (2011:1-115)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Juwon (2011:253)			"ogʤem ɔŋka-w
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Juwon (2011:253)			"ogʤem ɔŋka-w
 great.ACC farm-ACC
 ‘big pasture"
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Juwon (2011:60-61)			
@@ -314,8 +314,6 @@ GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1:
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Juwon (2011:1-115)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Juwon (2011:1-115)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Juwon (2011:115)			
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Juwon (2011:1-115)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Juwon (2011:39-41)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	1	Juwon (2011:39-41)			"nɔŋan-dʊ 3SG-DAT
 min-du 1SG-DAT"
@@ -325,78 +323,30 @@ TE005	Is there an initial velar nasal?	1: present, 0: absent	1	Juwon (2011:31)		
 TE006	Is there an initial r-?	1: present, 0: absent	0	Juwon (2011:32)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Juwon (2011:34)		only C + glide	
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Juwon (2011:24-27)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0	Juwon (2011:1-115)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	0	Juwon (2011:1-115)	Not mentioned.		
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Juwon (2011:1-115)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Juwon (2011:59)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Juwon (2011:60-61)		b/m-h	
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Juwon (2011:60-61)		bi: vs. min-	
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	0	Juwon (2011:99, 102-105)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Juwon (2011:60-61)			
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent					
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent					
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Juwon (2011:31)			ileŋ ‘dry’, ho:ntekiteŋ ‘different’
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	1	Juwon (2011:60-61)	at least verbal reciprocal and reflexive suffixes differ		
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Juwon (2011:23)		only in Russian loanwords	
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Juwon (2011:31-32)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Juwon (2011:11-22)			
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Juwon (2011:75)	Not mentioned.		
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Juwon (2011:52)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Juwon (2011:64)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Juwon (2011:52)		they do not require agreement, but it is possible	"ʤor bej
 two man
 ‘two men’
 ʤor mʊra-r
 two horse-PL
 ‘two horses’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Juwon (2011:53)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Juwon (2011:53)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Juwon (2011:53-54)		"LOC: -la, -dʊla
 DAT: -dʊ, -dı"	
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Juwon (2011:76, 88)	content interrogation not marked		"mʊran ɔŋka-rı-n-a hajta-w
 horse feed-PST-3SG-Q grass-ACC
 ‘Did the horses eat grass?’"
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Juwon (2011:53-54)			"mʊnrʊ-kan hepkem-ri-n bujusemŋe-du
-hare-DIM catch-PASS-PST-3SG hunter-DAT
-‘A hare was caught by a hunter.’"
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	0	Juwon (2011:75-77)	there is a dedicated marker for adversative passive, different from a standard passive marker		
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	0	Juwon (2011:64)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Juwon (2011:75)		"PASS -b-/-p-
 CAUS -wkan"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	1	Juwon (2011:100)			"erew ineŋu bi: hor-rek-u aj
-this day 1SG go-COND-1SG good
-‘I have to leave today.’/‘It is good for me to leave today.’"
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	0	Juwon (2011:89)		-lı/-ńi	"min amarda-dʊ-w ŋen-ńi
 1SG.OBL back-DAT-1SG.POSS come-IMP.2SG
 ‘Follow me!’"
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Juwon (2011:68-69)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	0	Juwon (2011:109-110)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	0	Juwon (2011:1-115)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Juwon (2011:109-110)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Juwon (2011:109-110)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Juwon (2011:24-27)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Juwon (2011:52)			"ʤor mʊra-r
 two horse-PL
@@ -420,12 +370,6 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Juwon (2011:1-115)	Not mentioned.		
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Juwon (2011:39-41)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	0	Juwon (2011:39-41)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Juwon (2011:1-115)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Juwon (2011:1-115)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Juwon (2011:1-115)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Juwon (2011:1-115)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Juwon (2011:1-115)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Juwon (2011:1-115)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Juwon (2011:53)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Juwon (2011:53)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Juwon (2011:24-27)			

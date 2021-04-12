@@ -7,10 +7,10 @@ GB022	Are there prenominal articles?	1: present, 0: absent	1	Doerfer (1988:94-95
 [one woman-INS one man-?]
 ‘there were a wife and a husband’"
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Doerfer (1988:94-95, 239)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Doerfer (1988:237)			"girχ näfär
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Doerfer (1988:237)			"girχ näfär
 [forty man]
 ‘forty men’"
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Doerfer (1988:109)			"bo: häv
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Doerfer (1988:109)			"bo: häv
 [this house]
 ‘this house’"
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Doerfer (1988:240)			"ker-d-üm äkki gunči hirin kepänäk-liɣ
@@ -22,9 +22,9 @@ GB027	Are nominal conjunction and comitative expressed by different elements?	1:
 bi: kiši-lä bi: här-imiš
 [one woman-INS one man-?]
 ‘there were a wife and a husband’"
-GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
-GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
-GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	0	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
+GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Doerfer (1988:103-105); Scerbak (1997: 473)			
+GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Doerfer (1988:103-105); Scerbak (1997: 473)			
+GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	0	Doerfer (1988:103-105); Scerbak (1997: 473)			
 GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	0	Doerfer (1988:103)		"o: ‘this’
 bo: ‘that’"	
 GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	Doerfer (1988:103)			
@@ -38,13 +38,13 @@ GB044	Is there productive morphological plural marking on nouns?	1: present, 0: 
 GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	1	Doerfer (1988:68-69)		-gil	"hasan-äk-gil-čä
 [Hasan-?-ASS-LOC]
 ‘to Hasan and his family’"
-GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	1	"Scerbak (1997: 475); Doerfer (1988:67-68)"	most derivational suffixes are from Iranian, therefore not listed in the grammar by Doerfer		"juor-їš
+GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	1	Scerbak (1997: 475); Doerfer (1988:67-68)	most derivational suffixes are from Iranian, therefore not listed in the grammar by Doerfer		"juor-їš
 [walk-PTCP]
 ‘walking’"
-GB048	Is there a productive morphological pattern for deriving an agent noun from a verb?	1: present, 0: absent	1	"Scerbak (1997: 475); Doerfer (1988:67-68)"	most derivational suffixes are from Iranian, therefore not listed in the grammar by Doerfer		"käl-miš
+GB048	Is there a productive morphological pattern for deriving an agent noun from a verb?	1: present, 0: absent	1	Scerbak (1997: 475); Doerfer (1988:67-68)	most derivational suffixes are from Iranian, therefore not listed in the grammar by Doerfer		"käl-miš
 [come-PTCP]
 ‘the one who has come’"
-GB049	Is there a productive morphological pattern for deriving an object noun from a verb?	1: present, 0: absent	1	"Scerbak (1997: 475); Doerfer (1988:67-68)"	most derivational suffixes are from Iranian, therefore not listed in the grammar by Doerfer		"bїšur-ɣuluq
+GB049	Is there a productive morphological pattern for deriving an object noun from a verb?	1: present, 0: absent	1	Scerbak (1997: 475); Doerfer (1988:67-68)	most derivational suffixes are from Iranian, therefore not listed in the grammar by Doerfer		"bїšur-ɣuluq
 [cook-PTCP]
 ‘the thing to be cooked’"
 GB051	Is there a noun class/gender system where sex is a factor in class assignment?	1: present, 0: absent	0	Doerfer (1988:1-258)			
@@ -54,14 +54,14 @@ GB054	Is there a noun class/gender system where plant status is a factor in clas
 GB057	Are there numeral classifiers?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Doerfer (1988:69)			
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	3	Doerfer (1988:69, 79)			"baS-um
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Doerfer (1988:69, 79)			"baS-um
 [head-1SG]
 ‘my head’
 ba:ba-yi: oɣli
 [father-GEN son]
 ‘your father’s son’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Doerfer (1988:109)			
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Doerfer (1988:109)			
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Doerfer (1988:109)			
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Doerfer (1988:83)			
 GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Doerfer (1988:103)			
 GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Doerfer (1988:80-82)			
@@ -77,7 +77,7 @@ GB082	Is there overt morphological marking of present tense on verbs?	1: present
 GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	Scerbak (1997: 471)		-mїš	"käl-miš-äm
 [come-PST-1SG]
 ‘I have come.’"
-GB084	Is there overt morphological marking on the verb dedicated to future tense?	1: present, 0: absent	0	"Doerfer (1988:203); Scerbak (1997: 474)"	"Conflicting sources: Scerbak (1997: 474): -їɣa;  Doerfer (1988:203): no future, aorist is used instead. Thus this marker is not dedicated to its function of signalling future."		
+GB084	Is there overt morphological marking on the verb dedicated to future tense?	1: present, 0: absent	0	Doerfer (1988:203); Scerbak (1997: 474)	Conflicting sources: Scerbak (1997: 474): -їɣa;  Doerfer (1988:203): no future, aorist is used instead. Thus this marker is not dedicated to its function of signalling future.		
 GB086	Is a morphological distinction between perfective and imperfective aspect available on verbs?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB089	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	1	Scerbak (1997: 473)			
 GB090	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Scerbak (1997: 473)			
@@ -92,7 +92,7 @@ GB099	Can verb stems alter according to the person of a core participant?	1: pre
 GB103	Is there a benefactive applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	Doerfer (1988:80-88)			
-GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	"Doerfer (1988:123-124); Scerbak (1997: 474)"			
+GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	Doerfer (1988:123-124); Scerbak (1997: 474)			
 GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB109	Is there verb suppletion for participant number?	1: present, 0: absent	0	Doerfer (1988:1-258)	Not mentioned.		
 GB110	Is there verb suppletion for tense or aspect?	1: present, 0: absent	0	Doerfer (1988:1-258)	Not mentioned.		
@@ -114,15 +114,15 @@ GB124	Is incorporation of nouns into verbs a productive intransitivizing process
 GB126	Is there an existential verb?	1: present, 0: absent	1	Doerfer (1988:202-204)		va:r ‘exist’	
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	?	Doerfer (1988:1-258)			
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Doerfer (1988:1-258)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	"Doerfer (1988:239); Scerbak (1997: 475)"			"huot kien-di
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Doerfer (1988:239); Scerbak (1997: 475)			"huot kien-di
 [fire burn-PST]
 ‘The fire was burning.’"
-GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	"Doerfer (1988:239); Scerbak (1997: 475)"			
-GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	1	"Doerfer (1988:239); Scerbak (1997: 475)"	SOV and SVO are both possible and neither seems to be marked.		
-GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	"Doerfer (1988:239); Scerbak (1997: 475)"	SOV and SVO are both possible and neither seems to be marked.		"män säjä bi: kita:b al-du-m
+GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Doerfer (1988:239); Scerbak (1997: 475)			
+GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	1	Doerfer (1988:239); Scerbak (1997: 475)	SOV and SVO are both possible and neither seems to be marked.		
+GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Doerfer (1988:239); Scerbak (1997: 475)	SOV and SVO are both possible and neither seems to be marked.		"män säjä bi: kita:b al-du-m
 [1SG 2SG.DAT book buy-PST-1SG]
 ‘I bought you a book.’"
-GB134	Is the order of constituents the same in main and subordinate clauses?	1: present, 0: absent	0	Doerfer (1988:228-231, 239)	"main clauses: SOV; subordinate clauses: not clear, but the verb doesn’t appear to be clause-final"		"vaχšti: ke:zi tiš-ǰi bo ba:zu:bänd-kä hay-di
+GB134	Is the order of constituents the same in main and subordinate clauses?	1: present, 0: absent	0	Doerfer (1988:228-231, 239)	main clauses: SOV; subordinate clauses: not clear, but the verb doesn’t appear to be clause-final		"vaχšti: ke:zi tiš-ǰi bo ba:zu:bänd-kä hay-di
 [when eye fall-PST this bracelet-DAT say-PST]
 ‘When his eye fell onto this bracelet, he said […]’
 ägär ki sičɣa:n ɣadar ki oliɣay sal-ma-z
@@ -135,15 +135,15 @@ GB135	Do clausal objects usually occur in the same position as nominal objects?	
 [1SG know-NEG-PST-1SG INT 1SG-1SG head-1SG-LOC ?-PL hat]
 ‘I didn’t know that they put a hat on my head.’"
 GB136	Is the order of core argument (i.e. S/A/P) constituents fixed?	1: present, 0: absent	1	Doerfer (1988:239)			
-GB137	Can standard negation be marked clause-finally?	1: present, 0: absent	1	"Doerfer (1988:123-124); Scerbak (1997: 474)"			
-GB138	Can standard negation be marked clause-initially?	1: present, 0: absent	0	"Doerfer (1988:123-124); Scerbak (1997: 474)"			
-GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	0	"Doerfer (1988:123-124); Scerbak (1997: 474)"		-ma/mä for both	"var-ma
+GB137	Can standard negation be marked clause-finally?	1: present, 0: absent	1	Doerfer (1988:123-124); Scerbak (1997: 474)			
+GB138	Can standard negation be marked clause-initially?	1: present, 0: absent	0	Doerfer (1988:123-124); Scerbak (1997: 474)			
+GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	0	Doerfer (1988:123-124); Scerbak (1997: 474)		-ma/mä for both	"var-ma
 [go-NEG]
 ‘Don’t go!’
 de-mä-riz
 [talk-NEG-1PL]
 ‘We don’t talk.’"
-GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	0	"Doerfer (1988:123-124, 198, 202); Scerbak (1997: 474)"		"existential: yo:ḳ
+GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	0	Doerfer (1988:123-124, 198, 202); Scerbak (1997: 474)		"existential: yo:ḳ
 verbal: -ma
 nominal: daɣ"	
 GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	0	Doerfer (1988:75-94)	Not mentioned.		
@@ -160,7 +160,7 @@ GB159	Are nouns reduplicated?	1: present, 0: absent	0	Doerfer (1988:1-258)
 GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	1	Doerfer (1988:243)	adjectives		
 GB165	Is there productive morphological trial marking on nouns?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB166	Is there productive morphological paucal marking on nouns?	1: present, 0: absent	0	Doerfer (1988:1-258)			
-GB167	Is there a logophoric pronoun?	1: present, 0: absent	0	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
+GB167	Is there a logophoric pronoun?	1: present, 0: absent	0	Doerfer (1988:103-105); Scerbak (1997: 473)			
 GB170	Can an adnominal property word agree with the noun in gender/noun class?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB171	Can an adnominal demonstrative agree with the noun in gender/noun class?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB172	Can an article agree with the noun in gender/noun class?	1: present, 0: absent	0	Doerfer (1988:1-258)			
@@ -171,11 +171,11 @@ GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Doer
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Doerfer (1988:67-68)	most derivational suffixes are from Iranian, therefore not listed in the grammar by Doerfer		
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Doerfer (1988:67-68)	most derivational suffixes are from Iranian, therefore not listed in the grammar by Doerfer		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Doerfer (1988:1-258)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Doerfer (1988:239)			"bi: ḳara ti:k
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Doerfer (1988:239)			"bi: ḳara ti:k
 [one black hair]
 ‘a black hair’"
-GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
-GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
+GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Doerfer (1988:103-105); Scerbak (1997: 473)			
+GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Doerfer (1988:103-105); Scerbak (1997: 473)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB203	What is the order of the adnominal collective universal quantifier ('all') and the noun?	0: no UQ, 1: UQ-N, 2: N-UQ, 3: both	?	Doerfer (1988:1-258)	Not mentioned.		
 GB204	Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?	1: present, 0: absent	?	Doerfer (1988:1-258)	Not mentioned.		
@@ -200,7 +200,7 @@ GB266	Is there a comparative construction that employs a marker of the standard 
 ‘I am stronger than you.’"
 GB270	Can comparatives be expressed using two conjoined clauses?	1: present, 0: absent	0	Doerfer (1988:91, 109-110)			
 GB273	Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?	1: present, 0: absent	0	Doerfer (1988:91, 109-110)			
-GB275	Is there a bound comparative degree marker on the property word in a comparative construction?	1: present, 0: absent	1	"Scerbak (1997: 473); Doerfer (1988:91, 109-110)"		-tar	"artuq-tar
+GB275	Is there a bound comparative degree marker on the property word in a comparative construction?	1: present, 0: absent	1	Scerbak (1997: 473); Doerfer (1988:91, 109-110)		-tar	"artuq-tar
 [big-COMP]
 ‘bigger’
 män sän-dä ki:čluɣ-tar-am
@@ -212,8 +212,8 @@ GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: p
 GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	?	Doerfer (1988:1-258)	Not mentioned.		
-GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	"Doerfer (1988:123-124); Scerbak (1997: 474)"			
-GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	"Doerfer (1988:123-124); Scerbak (1997: 474)"			
+GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Doerfer (1988:123-124); Scerbak (1997: 474)			
+GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Doerfer (1988:123-124); Scerbak (1997: 474)			
 GB300	Does the verb for 'give' have suppletive verb forms?	1: present, 0: absent	0	Doerfer (1988:1-258)	Not mentioned.		
 GB301	Is there an inclusory construction?	1: present, 0: absent	?	Doerfer (1988:1-258)	Not mentioned.		
 GB302	Is there a phonologically free passive marker ('particle' or 'auxiliary')?	1: present, 0: absent	0	Doerfer (1988:1-258)			
@@ -225,7 +225,7 @@ GB309	Are there multiple past or multiple future tenses, distinguishing distance
 PST resultative: -mїš
 PST.PERF -dї-artї and allomorphs
 PST.PERF resultative -mїš-artї"
-GB312	Is there overt morphological marking on the verb dedicated to mood?	1: present, 0: absent	1	"Doerfer (1988:193-196); Scerbak (1997: 474)"		"conditional: -sa
+GB312	Is there overt morphological marking on the verb dedicated to mood?	1: present, 0: absent	1	Doerfer (1988:193-196); Scerbak (1997: 474)		"conditional: -sa
 potential: PTCP + a phonologically bound auxiliary verb bil-
 intentional: -ga"	"var-ї-bil-di-m
 [go-PTCP-POT-PST-1SG]
@@ -266,7 +266,7 @@ GB409	Is there any ergative alignment of flagging?	1: present, 0: absent	0	Doerf
 GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	1	Doerfer (1988:78, 83)			"bi: hat hingäk
 [one horse mount]
 ‘We will mount a horse.’"
-GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	0	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
+GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	0	Doerfer (1988:103-105); Scerbak (1997: 473)			
 GB421	Is there a preposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	1	Doerfer (1988:233-234, 239)		ki	"män bil-ma-d-im ki män-im baš-im-ča šol-lar birgäk
 [1SG know-NEG-PST-1SG INT 1SG-1SG head-1SG-LOC ?-PL hat]
 ‘I didn’t know that they put a hat on my head.’"
@@ -283,78 +283,31 @@ GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1:
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Doerfer (1988:1-258)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Doerfer (1988:205-210)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Doerfer (1988:1-258)			
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Doerfer (1988:1-258)	Not mentioned.		
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Doerfer (1988:1-258)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Doerfer (1988:12, 32-33, 75)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Doerfer (1988:32-33)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Doerfer (1988:41-47)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Doerfer (1988:41-47)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Doerfer (1988:42-47)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Doerfer (1988:41)			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Doerfer (1988:1-258)	Not mentioned.		
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0	Doerfer (1988:109)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	1	Doerfer (1988:243-244)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1				
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Scerbak (1997: 471)			
-TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
-TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	"Doerfer (1988:103-105); Scerbak (1997: 473)"			
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent					
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent					
+TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Doerfer (1988:103-105); Scerbak (1997: 473)			
+TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Doerfer (1988:103-105); Scerbak (1997: 473)			
+TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Doerfer (1988:103-105); Scerbak (1997: 473)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Doerfer (1988:41-42, 54)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	1	Doerfer (1988:119-120)		"reflexive on the verb: -n/-Un
-reciprocal on the verb: -š/-Uš"	
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Doerfer (1988:1-258)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Doerfer (1988:41)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Doerfer (1988:42)			
-TE039	Is there vowel length distinction?	1: present, 0: absent	1	"Scerbak (1997: 471); Doerfer (1988:11-12)"		"var ‘come’
+TE039	Is there vowel length distinction?	1: present, 0: absent	1	Scerbak (1997: 471); Doerfer (1988:11-12)		"var ‘come’
 va:r ‘be, exist’"	
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	1				
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	0	Doerfer (1988:1-258)			
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Doerfer (1988:111-113, 237)			"bi: äkki sa:t
 [one two hour]
 ‘one-two hours’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Doerfer (1988:76-79)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Doerfer (1988:78)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Doerfer (1988:82)		DAT is used with the verbs of saying and giving	"bu:zäk-kä
 [ice-DAT]
 ‘on the ice’"
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	?	Doerfer (1988:1-258)	Not mentioned.		
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	?	Doerfer (1988:76-94, 118-119)	Not mentioned.		
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	0	Doerfer (1988:1-258)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?	Doerfer (1988:1-258)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Doerfer (1988:1-258)		"passive: -l/-Un/-Ul/-nUl
 causative: -tUr/-t"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Doerfer (1988:96-99)			
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	0	Doerfer (1988:1-258)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	0	Doerfer (1988:1-258)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Scerbak (1997: 474)			
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	0	Doerfer (1988:91, 109-110)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	0	Doerfer (1988:1-258)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	0	Doerfer (1988:1-258)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Doerfer (1988:1-258)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Doerfer (1988:96-99)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Doerfer (1988:41)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Doerfer (1988:111-113)			"bi: äkki sa:t
 [one two hour]
@@ -381,12 +334,6 @@ TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Doerfer (1988:12, 3
 äl-üm
 [hand-1SG]
 ‘my hand’"
-TS081	Is there an initial l-?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Doerfer (1988:1-258)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Doerfer (1988:1-258)			
-TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	"Doerfer (1988:239); Scerbak (1997: 475)"			
-TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	"Doerfer (1988:239); Scerbak (1997: 475)"			
+TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Doerfer (1988:239); Scerbak (1997: 475)			
+TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Doerfer (1988:239); Scerbak (1997: 475)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Doerfer (1988:41)			

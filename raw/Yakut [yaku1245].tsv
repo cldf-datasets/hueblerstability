@@ -3,8 +3,8 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Kharitono
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Kharitonov (1982)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Kharitonov (1982)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Kharitonov (1982)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	"Pakendorf (2020:438); Kharitonov (1982:125, 176)"			
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Kharitonov (1982:193)			
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Pakendorf (2020:438); Kharitonov (1982:125, 176)			
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Kharitonov (1982:193)			
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Fanselow (p.c. 2017)			
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	1	Kharitonov (1982:430, 472)		"coordination: itienne, uonna, da, daɣanï, ikki, buolan
 comitative: kïtarï, kïtta"	"ńukulaj ǰögüörebis itienne ńuukka uybanïap kepset-e olorol-lor
@@ -16,7 +16,7 @@ mi:gin kïtta
 GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Kharitonov (1982:188-189)			bihigi [1PL.INCL/EXCL]
 GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Kharitonov (1982:188-189)			
 GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	1	Pakendorf (in preparation)			bihikki ‘you and me’
-GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:191)"			"bu ‘this’
+GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:191)			"bu ‘this’
 iti ‘that’
 ol ‘that over there’"
 GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	Kharitonov (1982)			
@@ -28,7 +28,7 @@ GB042	Is there productive overt morphological singular marking on nouns?	1: pres
 GB043	Is there productive morphological dual marking on nouns?	1: present, 0: absent	0	Kharitonov (1982)			
 GB044	Is there productive morphological plural marking on nouns?	1: present, 0: absent	1	Kharitonov (1982:125)			"at-tar [horse-PL] ‘horses’
 oonńuu-lar [game-PL] ‘games’"
-GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:127)"			petrov-taaχ [Petrov-ASSOC.PL] ‘Petrov and his family’
+GB046	Is there an associative plural marker for nouns?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:127)			petrov-taaχ [Petrov-ASSOC.PL] ‘Petrov and his family’
 GB047	Is there a productive morphological pattern for deriving an action/state noun from a verb?	1: present, 0: absent	1	Kharitonov (1982:117, 119)		"-її  and allpmorphs (Old Turkic -ig/-їɣ)
 -bїl and allomorphs"	bar-її [depart-NMLZ] ‘departure’
 GB048	Is there a productive morphological pattern for deriving an agent noun from a verb?	1: present, 0: absent	1	Kharitonov (1982:118-119)		-aaččї and allomorphs	"aaɣ-aaččї
@@ -44,11 +44,11 @@ GB057	Are there numeral classifiers?	1: present, 0: absent	0	Kharitonov (1982)
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Kharitonov (1982)			
 GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	0	Kharitonov (1982:128)			"aɣa-bїt [father-1PL] ‘our father’
 orom-mut [bed-1PL] ‘our bed’"
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	3	"Kharitonov (1982:128, 131); Pakendorf (in preparation)"			
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Kharitonov (1982:128, 131); Pakendorf (in preparation)			
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Kharitonov (1982:156)			"üünüü ürdük
 [harvest high]
 ‘The harvest is high.’"
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Kharitonov (1982:156)			"ürdük üünüü
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Kharitonov (1982:156)			"ürdük üünüü
 [high harvest’]
 ‘high harvest’"
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Kharitonov (1982:130-134)		-nї	"bu ǰue-ni bїjїl tupput-tara
@@ -62,7 +62,7 @@ GB075	Are there postpositions?	1: present, 0: absent	1	Kharitonov (1982:415-430)
 GB079	Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	0	Kharitonov (1982)			
 GB080	Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	1	Kharitonov (1982:305-344)			
 GB081	Is there productive infixation in verbs?	1: present, 0: absent	0	Kharitonov (1982)			
-GB082	Is there overt morphological marking of present tense on verbs?	1: present, 0: absent	0	"Pakendorf (in preparation); Kharitonov (1982:305-306)"		"no unified marker: 1st and 2nd person simultaneous converb -A, 3rd person present PTCP -Ar
+GB082	Is there overt morphological marking of present tense on verbs?	1: present, 0: absent	0	Pakendorf (in preparation); Kharitonov (1982:305-306)		"no unified marker: 1st and 2nd person simultaneous converb -A, 3rd person present PTCP -Ar
 NONPST.PTCP: -ar/-їїr"	
 GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	Kharitonov (1982:308-313)		"past categorical tense: -t/-d/-l/-n
 past narrative tense: -bїt/-pїt/-mїt + 1st type of person marking
@@ -89,41 +89,41 @@ GB105	Can the recipient in a ditransitive construction be marked like the monotr
 [bone-ACC dog-DAT throw]
 ‘The bone is thrown to the dog.’
 "
-GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:226, 305-313)"		-ma, -bap and allomorphs	
+GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:226, 305-313)		-ma, -bap and allomorphs	
 GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	0	Kharitonov (1982)			
 GB109	Is there verb suppletion for participant number?	1: present, 0: absent	0	Kharitonov (1982)			
 GB110	Is there verb suppletion for tense or aspect?	1: present, 0: absent	0	Kharitonov (1982)			
 GB111	Are there conjugation classes?	1: present, 0: absent	0	Kharitonov (1982)	Not mentioned.		
 GB113	Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?	1: present, 0: absent	1	Kharitonov (1982:256-257)		-t, -tar	kїlga-t [become.short-CAUS] ‘to shorten’
-GB114	Is there a phonologically bound reflexive marker on the verb?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:259)"		-(I)n	"χolbo-n [connect-REFL] ‘to connect itself’
+GB114	Is there a phonologically bound reflexive marker on the verb?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:259)		-(I)n	"χolbo-n [connect-REFL] ‘to connect itself’
 suu-n [wash-REFL] ‘to wash oneself’"
-GB115	Is there a phonologically bound reciprocal marker on the verb?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:268-274)"		-s/-їs has a meaning of a comitative or a reciprocal action	"bihigi urukkuttan bil-s-e-bit
+GB115	Is there a phonologically bound reciprocal marker on the verb?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:268-274)		-s/-їs has a meaning of a comitative or a reciprocal action	"bihigi urukkuttan bil-s-e-bit
 [1PL long.ago know-RECIP-?-3PL]
 ‘We have known each other since long time.’"
 GB116	Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?	1: present, 0: absent	0	Kharitonov (1982)			
-GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:404-405)"		buol- ‘to be, to become’, ete ‘was/were’	"ol a:ta min emie buruyda:χ buola-bїn duo
+GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:404-405)		buol- ‘to be, to become’, ete ‘was/were’	"ol a:ta min emie buruyda:χ buola-bїn duo
 [that so 1SG also guilty be-1SG Q]
 ‘That is I am also guilty, right?’"
 GB118	Are there serial verb constructions?	1: present, 0: absent	0	Kharitonov (1982)			
-GB119	"Can mood be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:125, 176)"		"subjunctive: -їаχ + e-
+GB119	"Can mood be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:125, 176)		"subjunctive: -їаχ + e-
 unreal conditions: verb in PRS or PST.PTCP + buol- + -TAr"	
-GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:280-285)"		bar- ‘to go’, tur- ‘to stand’, is- ‘to go’ etc.	
+GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:280-285)		bar- ‘to go’, tur- ‘to stand’, is- ‘to go’ etc.	
 GB121	"Can tense be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Kharitonov (1982:312-313)		tur- ‘to be’	
 GB122	Is verb compounding a regular process?	1: present, 0: absent	0	Kharitonov (1982)			
 GB123	Are there verb-adjunct (aka light-verb) constructions?	1: present, 0: absent	1	Kharitonov (1982:402)			"sanaaɣa tüs [thoughts fall] ‘become sad’
 et tut [meat fall] ‘get fat, develop physically’"
 GB124	Is incorporation of nouns into verbs a productive intransitivizing process?	1: present, 0: absent	0	Kharitonov (1982)			
-GB126	Is there an existential verb?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:346)"		ba:r ‘to be, to exist’	"a:ra ikki їal ba:r
+GB126	Is there an existential verb?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:346)		ba:r ‘to be, to exist’	"a:ra ikki їal ba:r
 [on.the.way two dwelling be]
 ‘There are two dwellings on the way.’"
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	1	Kharitonov (1982:135)			"süge munnuk-ka sїta-r
 [ax corner-DAT lie-3SG]
 ‘The ax is in the corner.’"
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Kharitonov (1982)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Pakendorf (in preparation)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Pakendorf (in preparation)			
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Pakendorf (in preparation)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Pakendorf (in preparation)			
-GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	"Kharitonov (1982:131); Pakendorf (in preparation)"			"aɣa-m ot tieye-r
+GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Kharitonov (1982:131); Pakendorf (in preparation)			"aɣa-m ot tieye-r
 father-1SG hay transport-3SG
 ‘My father transports hay.’"
 GB134	Is the order of constituents the same in main and subordinate clauses?	1: present, 0: absent	1	Kharitonov (1982:131, 240-245)			"aɣa-m ot tieye-r
@@ -142,22 +142,22 @@ declarative: -ma/-їm"	"ol kün kiniler ïhïaχ-tar-ïn kïayan ïït-ïm-ïn-a
 ‘That day they couldn’t celebrate their ysyah (national holiday).’"
 GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	0	Kharitonov (1982)		nominal: suoχ	
 GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	0	Kharitonov (1982)	Not mentioned.		
-GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:265)"		-n, -їlїn	"aha-n [eat-PASS] ‘be eaten’
+GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:265)		-n, -їlїn	"aha-n [eat-PASS] ‘be eaten’
 sab-їlїn [sew-PASS] ‘be sewn’"
 GB148	Is there a morphological antipassive marked on the lexical verb?	1: present, 0: absent	0	Kharitonov (1982)			
 GB149	Is there a morphologically marked inverse on verbs?	1: present, 0: absent	0	Kharitonov (1982)			
-GB150	Is there clause chaining?	1: present, 0: absent	1	"Kharitonov (1982:240-245); Pakendorf (in preparation)"	"""In contrast, when the predicate of the main and the temporal clause are coreferential, the subordinate predicate is expressed by sequential or simultaneous converbs. The sequential converb also expresses the predicate of causal clauses.”"		"olia üöreɣin büter-en bar-an bi:r ïy sïnńam-mït-a
+GB150	Is there clause chaining?	1: present, 0: absent	1	Kharitonov (1982:240-245); Pakendorf (in preparation)	"""In contrast, when the predicate of the main and the temporal clause are coreferential, the subordinate predicate is expressed by sequential or simultaneous converbs. The sequential converb also expresses the predicate of causal clauses.”"		"olia üöreɣin büter-en bar-an bi:r ïy sïnńam-mït-a
 olia studies finish-PTCP go-PTCP one month rest-PST.NARR-3SG
 ‘Olia, having finished her studies, took a rest one month long.’
 onton üöreχ-pin bïraɣ-an kel-en bar-am-mïn χattaːn üören-em-min vsjö-taki Medučilise-ni büt-er-bit-im then studies-ACC.1SG throw-SEQ.CV come-SEQ.CV SEQ-SEQ.CV-PRED.1SG repeat.SEQ.CV learn-SEQ.CV-PRED.1SG after.all.R medical.institute.R-ACC end[INTR]-CAUS-PST.PTC-POSS.1SG ‘Then after I gave up studying I came here, but then went back and finished the medical institute after all.’"
 GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	0	Kharitonov (1982)			
 GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	Kharitonov (1982:241, 245)		"converb -an: preceeding action
 converb -a/-її: sequential actions"	
-GB155	Are causatives formed by affixes or clitics on verbs?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:256-257)"		-t, -tar	kїlga-t-tar [become.short-CAUS-CAUS] ‘to make shorten’
+GB155	Are causatives formed by affixes or clitics on verbs?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:256-257)		-t, -tar	kїlga-t-tar [become.short-CAUS-CAUS] ‘to make shorten’
 GB156	Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?	1: present, 0: absent	0	Kharitonov (1982:256-257)			
 GB158	Are verbs reduplicated?	1: present, 0: absent	0	Kharitonov (1982)	Not mentioned.		
 GB159	Are nouns reduplicated?	1: present, 0: absent	0	Kharitonov (1982:111-117)	no examples mentioned		
-GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:156, 374)"	adjectives are partly reduplicated, ideophones are reduplicated		"χap~χara
+GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:156, 374)	adjectives are partly reduplicated, ideophones are reduplicated		"χap~χara
 [black~INT]
 ‘very black’"
 GB165	Is there productive morphological trial marking on nouns?	1: present, 0: absent	0	Kharitonov (1982)			
@@ -167,7 +167,7 @@ GB170	Can an adnominal property word agree with the noun in gender/noun class?	1
 GB171	Can an adnominal demonstrative agree with the noun in gender/noun class?	1: present, 0: absent	0	Kharitonov (1982)			
 GB172	Can an article agree with the noun in gender/noun class?	1: present, 0: absent	0	Kharitonov (1982)			
 GB177	Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument visible in the NP domain?	1: present, 0: absent	0	Kharitonov (1982)			
-GB184	Can an adnominal property word agree with the noun in number?	1: present, 0: absent	0	"Pakendorf (in preparation); Kharitonov (1982:156)"	there is no agreement between the adjective and the noun		
+GB184	Can an adnominal property word agree with the noun in number?	1: present, 0: absent	0	Pakendorf (in preparation); Kharitonov (1982:156)	there is no agreement between the adjective and the noun		
 GB185	Can an adnominal demonstrative agree with the noun in number?	1: present, 0: absent	0	Sakha online dictionary, 2018			
 GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Kharitonov (1982)			
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	Kharitonov (1982:112)	-ka and allomorphs, -čaan and allomorphs, both borrowed from Tungusic languages (Even and Evenki)		"kїїs-ča:n
@@ -175,7 +175,7 @@ girl-DIM
 ‘a little girl’"
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	0	Kharitonov (1982)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Kharitonov (1982)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Kharitonov (1982:156)			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Kharitonov (1982:156)			
 GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Kharitonov (1982:188-189)			
 GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Kharitonov (1982:188-189)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Kharitonov (1982)			
@@ -200,12 +200,12 @@ old.man-PROP-PRED.2SG Q
 GB257	Can polar interrogation be marked by intonation only?	1: present, 0: absent	0	Kharitonov (1982:444-445)			
 GB260	Can polar interrogation be indicated by a special word order?	1: present, 0: absent	0	Kharitonov (1982:444-445)			
 GB262	Is there a clause-initial polar interrogative particle?	1: present, 0: absent	0	Kharitonov (1982:444-445)			
-GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	"Kharitonov (1982:444-445); Pakendorf (in preparation)"		duo	"aramaan eyieχe uon süühü bier-bit-e duo
+GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	Kharitonov (1982:444-445); Pakendorf (in preparation)		duo	"aramaan eyieχe uon süühü bier-bit-e duo
 [Roman 2SG.DAT ten ruble give-PST-3SG Q]
 ‘Did Roman give you ten rubles?’"
 GB264	Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?	1: present, 0: absent	0	Kharitonov (1982:444-445)			
 GB265	Is there a comparative construction that includes a form that elsewhere means 'surpass, exceed'?	1: present, 0: absent	0	Kharitonov (1982:138)			
-GB266	Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?	1: present, 0: absent	?	"Pakendorf (in preparation); Kharitonov (1982:138)"	"Pakendorf: 0, Kharitonov: 1; Kharitonov: ABL case marker can be used instead of the comparative case marker. There are no suitable examples available; Pakendorf denies this"		
+GB266	Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?	1: present, 0: absent	?	Pakendorf (in preparation); Kharitonov (1982:138)	Pakendorf: 0, Kharitonov: 1; Kharitonov: ABL case marker can be used instead of the comparative case marker. There are no suitable examples available; Pakendorf denies this		
 GB270	Can comparatives be expressed using two conjoined clauses?	1: present, 0: absent	0	Kharitonov (1982:138)			
 GB273	Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?	1: present, 0: absent	1	Kharitonov (1982:138)		comparative case marker -taaɣar/-laaɣar/-naaɣar	"masїїna at-taaɣar bїdan türgen
 [car horse-COMP much fast]
@@ -218,7 +218,7 @@ GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Kharito
 GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	1	Kharitonov (1982:289-305, 366-375)	there is a morphosyntactic class of onomatopoetic verbs		
 GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	0	Kharitonov (1982:444-445)			
 GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Kharitonov (1982:305-344)			
-GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:307, 313)"		"suoχ, which is normally used for nominal negation
+GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:307, 313)		"suoχ, which is normally used for nominal negation
 in the future tense?"	"sïldïïbït-ïm suoχ
 [go-1SG NEG]
 ‘It never happened that he went.’"
@@ -227,7 +227,7 @@ GB301	Is there an inclusory construction?	1: present, 0: absent	?	Kharitonov (19
 GB302	Is there a phonologically free passive marker ('particle' or 'auxiliary')?	1: present, 0: absent	0	Kharitonov (1982)			
 GB303	Is there a phonologically free antipassive marker ('particle' or 'auxiliary')?	1: present, 0: absent	0	Kharitonov (1982)			
 GB304	Can the agent be expressed overtly in a passive clause?	1: present, 0: absent	1	Pakendorf (in preparation)	it is nearly always omitted, but it can be expressed		
-GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:203)"		beye	"beye-ɣin χarïstan
+GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:203)		beye	"beye-ɣin χarïstan
 REFL-2SG protect
 ‘Take care of yourself!’"
 GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	0	Yakut online dictionary		beye beye ‘each other’	
@@ -240,7 +240,7 @@ conditional: -tar
 affirmative: -їїχї
 debitive: -laaχ
 probable: -aaya
-subjunctive: -їаχ + e-"	"arïːj čepčeki-tik ep-pit-iŋ buol-lar baɣar ïl-ïam e-te die-bita.bit light-ADV say-PST.PTC-POSS.2SG AUX-COND perhaps take-FUT.1SG be-PST.3SG say-PST.PTC ‘If you'd said a bit less, I might have taken it, he said.’"
+subjunctive: -їаχ + e-"	arïːj čepčeki-tik ep-pit-iŋ buol-lar baɣar ïl-ïam e-te die-bita.bit light-ADV say-PST.PTC-POSS.2SG AUX-COND perhaps take-FUT.1SG be-PST.3SG say-PST.PTC ‘If you'd said a bit less, I might have taken it, he said.’
 GB313	Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?	1: present, 0: absent	1	Kharitonov (1982:210-211)		"miene [1SG.POSS] min+kiene [1SG+POSS]
 it seems that the process applies only to pronouns"	
 GB314	Can augmentative meaning be expressed productively by a shift of gender/noun class?	1: present, 0: absent	0	Kharitonov (1982)			
@@ -257,7 +257,7 @@ GB323	Is there grammatical marking of indirect evidence (hearsay, inference, etc
 GB324	Is there an interrogative verb for content interrogatives (who?, what?, etc.)?	1: present, 0: absent	1	Kharitonov (1982:198)			"onu min χayїї-bїn
 [this 1SG do.what-1SG]
 ‘What do I have to do with it?’"
-GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	1	"Kharitonov (1982:176, 199); Yakut online dictionary (SakhaTyla.ru); Pakendorf (in preparation)"		"töhö ‘how much?’
+GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	1	Kharitonov (1982:176, 199); Yakut online dictionary (SakhaTyla.ru); Pakendorf (in preparation)		"töhö ‘how much?’
 χas ‘how many?’"	"χas kihi kelle
 [how.many person come]
 ‘How many people came?’
@@ -266,7 +266,7 @@ bu sїanat-a töhönüy
 ‘How much does it cost?’"
 GB326	Do (nominal) content interrogatives normally or frequently occur in situ?	1: present, 0: absent	1	Kharitonov (1982:197-199)			
 GB327	Can the relative clause follow the noun?	1: present, 0: absent	0	Kharitonov (1982)	no examples available		
-GB328	Can the relative clause precede the noun?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:232)"			"üöreɣin büter-bit oɣo
+GB328	Can the relative clause precede the noun?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:232)			"üöreɣin büter-bit oɣo
 studies finish-PTCP child
 ‘the child, who finished the studies’"
 GB329	Are there internally-headed relative clauses?	1: present, 0: absent	1	Malchukov (p.c. 2018)			
@@ -302,8 +302,6 @@ GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	?	Pakendorf (in preparation)			"sïldïïbït-ïm suoχ
 [go-1SG NEG]
 ‘It never happened that he went.’"
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Krueger (1962:1-389)			
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Kharitonov (1982:49-50)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Kharitonov (1982:49-50)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Kharitonov (1982:55)			
@@ -313,80 +311,26 @@ TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Kharitono
 paar ‘steam’ (borrowing from Russian)
 duk ‘give’
 tuk ‘lack’"
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	0	Kharitonov (1982:49-472)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	0	Kharitonov (1982)			
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Kharitonov (1982:49-472)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Kharitonov (1982:305-313)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Kharitonov (1982:188-189)			min vs. en
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	0	Kharitonov (1982:188-189)		the nasal is lost in declination	min [1SG.NOM] - mieχe [1SG.DAT]
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Kharitonov (1982:188-189)			
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	1	Kharitonov (1982:156)			"üünüü ürdük
-[harvest high]
-‘The harvest is high.’"
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	1	Kharitonov (1982:156)			"ürdük üünüü
-[high harvest’]
-‘high harvest’"
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Kharitonov (1982:55)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	1	Yakut online dictionary	the reciprocal marker is a reduplicated version of the reflexive marker		
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Kharitonov (1982:55)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Kharitonov (1982:55)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Kharitonov (1982:39, 50-53)			kir ‘to gnaw’ - ki:r ‘to enter’
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	1	"Kharitonov (1982:125); Pakendorf (in preparation)"		"-t-lar -> -ttar
-a Mongolic suffix precedes the Turkic plural suffix"	"uola-t-tar
-[boy-PL-PL]
-‘boys’"
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?	Kharitonov (1982:49-472)	Not mentioned.		
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	0	Kharitonov (1982:49-472)			
-TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	"Pakendorf (in preparation); Kharitonov (1982:125, 176)"			"ikki at [two horse] ‘two horses’
+TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Pakendorf (in preparation); Kharitonov (1982:125, 176)			"ikki at [two horse] ‘two horses’
 ikki kihi [two person] ‘two people’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	0	Kharitonov (1982:130-134)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Kharitonov (1982:131)			"aɣa-m ot tieye-r
 [father-1SG hay transport-3SG]
 ‘My father transports hay.’"
-TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:135)"		-ka/-ga/-ɣa/-xa/-na	"süge munnuk-ka sїta-r
+TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Pakendorf (in preparation); Kharitonov (1982:135)		-ka/-ga/-ɣa/-xa/-na	"süge munnuk-ka sїta-r
 [ax corner-DAT lie-3SG]
 ‘The ax is in the corner.’"
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	1	Kharitonov (1982:197-199)		"polar: duo
 content: no marking"	
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	"Pakendorf (in preparation); Kharitonov (1982:266)"		"Kharitonov (1982:266): only in untypical contexts, acting agent is normally not expressed in a passive clause
-Pakendorf: “The agent of passive constructions is nearly always omitted, but where present it carries dative case marking”"	"kogda min oččuguj er-dek-pine kihi-ler-ge iːt-illi-bit-im
-when.R 1SG tiny be-TEMP-COND.1SG human-PL-DAT raise-PASS-PST.PTC-POSS.1SG
-‘When I was small I was raised by (other) people.’"
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	0	Kharitonov (1982:49-472)			
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Kharitonov (1982:256-257, 265)			
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Kharitonov (1982:416)		alїn ‘bottom’	annї-ttan [bottom-?]
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	0	Kharitonov (1982:49-472)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Kharitonov (1982:214, 320)			"bar- ‘to go’
 bar ‘go!’"
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	0	Kharitonov (1982:49-472)			
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	1	Kharitonov (1982:49-472)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Kharitonov (1982:55)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Kharitonov (1982:125, 176)			"ikki at [two horse] ‘two horses’
 ikki kihi [two person] ‘two people’"
@@ -398,7 +342,7 @@ TS004	Can demonstrative follow the noun?	1: present, 0: absent	0	Kharitonov (198
 TS005	Can adnominal possessor precede the possessed noun?	1: present, 0: absent	1	Kharitonov (1982:131)			"їnaχ ü:t-e
 cow milk-3SG
 ‘cow’s milk’"
-TS006	Can adnominal possessor follow the possessed noun?	1: present, 0: absent	1	"Kharitonov (1982:128); Pakendorf (in preparation)"			"їnaχ ü:t-e
+TS006	Can adnominal possessor follow the possessed noun?	1: present, 0: absent	1	Kharitonov (1982:128); Pakendorf (in preparation)			"їnaχ ü:t-e
 cow milk-3SG
 ‘cow’s milk’
 munńaχ-pït bihiene
@@ -416,12 +360,6 @@ TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?
 ‘all children’"
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Kharitonov (1982:49-50)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Pakendorf (in preparation)			
-TS081	Is there an initial l-?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?	Kharitonov (1982:49-472)			
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?	Kharitonov (1982:49-472)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Pakendorf (in preparation)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Pakendorf (in preparation)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Kharitonov (1982:55)			

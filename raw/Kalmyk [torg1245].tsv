@@ -3,8 +3,8 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Bläsing 
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Bläsing (2003:229-246)			
-GB024	What is the order of numeral and noun in the NP?	"multistate 1: Num-N; 2: N-Num; 3: both."	1	Piurbeev (1997:85)			xojr 9dr [two day] ‘two days’
-GB025	What is the order of adnominal demonstrative and noun?	"multistate 1: Dem-N; 2: N-Dem; 3: both."	1	Benzing (1985:133)			
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Piurbeev (1997:85)			xojr 9dr [two day] ‘two days’
+GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Benzing (1985:133)			
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Piurbeev (1997:79)	comitative case -ta and conjunction boln ‘and’, but there are no examples available		noxa-la (noxa-ta) — noxa-la (noxa-ta) xamdan ‘together with the dog’
 GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Bläsing (2003:238-239)	only diachronically	b1dn [1PL.INCL], madn [1PL.EXCL]	
@@ -14,7 +14,7 @@ GB035	Are there three or more distance contrasts in demonstratives?	1: present, 
 GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	Piurbeev (1997:80)			
 GB037	Do demonstratives show a visible-nonvisible distinction?	1: present, 0: absent	0	Piurbeev (1997:80)			
 GB038	Are there demonstrative classifiers?	1: present, 0: absent	0	Bläsing (2003:229-246)			
-GB039	Is there nonphonological allomorphy of noun number markers?	1: present, 0: absent	1	"Benzing (1985: 118); Piurbeev (1997:78)"	Piurbeev (1997:78): There is only phonological allomorphy of noun number markers. Benzing (1985: 118): the plural suffix is not predictable		
+GB039	Is there nonphonological allomorphy of noun number markers?	1: present, 0: absent	1	Benzing (1985: 118); Piurbeev (1997:78)	Piurbeev (1997:78): There is only phonological allomorphy of noun number markers. Benzing (1985: 118): the plural suffix is not predictable		
 GB041	Are there several nouns (more than three) which are suppletive for number?	1: present, 0: absent	0	Piurbeev (1997:78)			
 GB042	Is there productive overt morphological singular marking on nouns?	1: present, 0: absent	0	Piurbeev (1997:78)			
 GB043	Is there productive morphological dual marking on nouns?	1: present, 0: absent	0	Piurbeev (1997:78)			
@@ -37,19 +37,19 @@ GB053	Is there a noun class/gender system where animacy is a factor in class ass
 GB054	Is there a noun class/gender system where plant status is a factor in class assignment?	1: present, 0: absent	0	Piurbeev (1997:78)			
 GB057	Are there numeral classifiers?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB058	Are there possessive classifiers?	1: present, 0: absent	0	Bläsing (2003:229-246)			
-GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	?	"Piurbeev (1997:79); Bläsing (2003:240)"	Controversial sources: according to Piurbeev (1997), there are two different constructions for alienable and inalienable possession. Bläsing (2003) does not make such a distinction: possessor is marked by suffixes on the possessed or a possessive pronoun is used in both cases.		"avh [uncle] ‘uncle’ - avh-m [uncle-1SG] ‘my uncle’ - avh-tSn [uncle-2SG] ‘your uncle’
+GB059	Is the adnominal possessive construction different for alienable and inalienable nouns?	1: present, 0: absent	?	Piurbeev (1997:79); Bläsing (2003:240)	Controversial sources: according to Piurbeev (1997), there are two different constructions for alienable and inalienable possession. Bläsing (2003) does not make such a distinction: possessor is marked by suffixes on the possessed or a possessive pronoun is used in both cases.		"avh [uncle] ‘uncle’ - avh-m [uncle-1SG] ‘my uncle’ - avh-tSn [uncle-2SG] ‘your uncle’
 m1n1 degtr [1SG book] ‘my book’ - ts1n1 degtr [2SG book] ‘your book’"
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	"multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both"	3	Bläsing (2003:240)	"Piurbeev (1997): possessed-possessor for inalienable possession, possessor-possessed for alienable possession; Bläsing (2003): possessed-possessor or possessor-possessed for both"		"avh [uncle] ‘uncle’ - avh-m [uncle-1SG] ‘my uncle’ - avh-tSn [uncle-2SG] ‘your uncle’
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Bläsing (2003:240)	Piurbeev (1997): possessed-possessor for inalienable possession, possessor-possessed for alienable possession; Bläsing (2003): possessed-possessor or possessor-possessed for both		"avh [uncle] ‘uncle’ - avh-m [uncle-1SG] ‘my uncle’ - avh-tSn [uncle-2SG] ‘your uncle’
 m1n1 degtr [1SG book] ‘my book’ - ts1n1 degtr [2SG book] ‘your book’"
 GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Benzing (1985:4)			"usn ki:tn
 [water cold]
 ‘The water is cold.’"
-GB069	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?"	1: present, 0: absent	0	Benzing (1985:4)			"ki:tn usn
+GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Benzing (1985:4)			"ki:tn usn
 [cold water]
 ‘cold water’"
 GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Piurbeev (1997:83)			"NOM hol ‘river’
 ACC hol-@g"
-GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	"Piurbeev (1997:83); Bläsing (2003:238-239)"			"1SG
+GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Piurbeev (1997:83); Bläsing (2003:238-239)			"1SG
 NOM bi
 ACC nam-ag"
 GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Piurbeev (1997:83)			"DAT hol-d ‘river’
@@ -58,14 +58,14 @@ ABL hol-as
 CONN hol-la
 COM hol-ta
 DIR hol-ur"
-GB073	Are there morphological cases for oblique independent personal pronouns (i.e. not S/A/P)?	1: present, 0: absent	1	"Piurbeev (1997:83); Bläsing (2003:238-239)"			"1SG
+GB073	Are there morphological cases for oblique independent personal pronouns (i.e. not S/A/P)?	1: present, 0: absent	1	Piurbeev (1997:83); Bläsing (2003:238-239)			"1SG
 DAT/LOC nan-d
 ABL nan-as
 CONN nan-la
 COM nan-ta
 DIR nan-ur"
 GB074	Are there prepositions?	1: present, 0: absent	0	Piurbeev (1997:82)			
-GB075	Are there postpositions?	1: present, 0: absent	1	"Piurbeev (1997:82); Bläsing (2003:245-246)"			"ard ‘behind’, dund ‘in the middle of’, ömn ‘in front of; before’, öör ‘near by, at’, ghaza ‘outside of’, tölä ‘for the benefit of; because of; instead of’, tursh ~ (instr.) tursh- ar ‘during, throughout’, tusk ~ (instr.) tusk-ar ‘about; regarding’
+GB075	Are there postpositions?	1: present, 0: absent	1	Piurbeev (1997:82); Bläsing (2003:245-246)			"ard ‘behind’, dund ‘in the middle of’, ömn ‘in front of; before’, öör ‘near by, at’, ghaza ‘outside of’, tölä ‘for the benefit of; because of; instead of’, tursh ~ (instr.) tursh- ar ‘during, throughout’, tusk ~ (instr.) tusk-ar ‘about; regarding’
 deer ‘on; above’, dor ‘under’, dotr ‘in; inside of’, ghatts ‘on the other side of’, ööd ‘upwards along’, shidr ‘near to’, (instr.) ucr-ar ‘because of’, xöön ‘after’, (dat.) zaag-t ‘between’"
 GB079	Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB080	Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	1	Bläsing (2003:244)			
@@ -76,24 +76,24 @@ GB083	Is there overt morphological marking on the verb dedicated to past tense?	
 GB084	Is there overt morphological marking on the verb dedicated to future tense?	1: present, 0: absent	0	Bläsing (2003:244)	Durative aspect marker implies present or future action.		Durative aspect marker implies present or future action.
 GB086	Is a morphological distinction between perfective and imperfective aspect available on verbs?	1: present, 0: absent	1	Bläsing (2003:244)		"durative suffix -nA (< *-nA- i)
 progressive durative suffix -j-A-nA"	
-GB089	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Piurbeev (1997:80); Bläsing (2003:245)"	there are some personal endings, which attach to verbal and nominal predicates, but there are no clausal examples available	"in imperative, desirative and some other moods
+GB089	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	Piurbeev (1997:80); Bläsing (2003:245)	there are some personal endings, which attach to verbal and nominal predicates, but there are no clausal examples available	"in imperative, desirative and some other moods
 there are some personal endings, which attach to verbal and nominal predicates, but there are no clausal examples available"	"1r [come.2SG] ‘come (1SG)!’
 1r-1tS [come-2PL] ‘come (2PL)!’"
-GB090	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Piurbeev (1997:80); Bläsing (2003:245)"			
-GB091	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Piurbeev (1997:80); Bläsing (2003:245)"	there are some personal endings, which attach to verbal and nominal predicates, but there are no clausal examples available	"in imperative, desirative and some other moods:
+GB090	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Piurbeev (1997:80); Bläsing (2003:245)			
+GB091	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	Piurbeev (1997:80); Bläsing (2003:245)	there are some personal endings, which attach to verbal and nominal predicates, but there are no clausal examples available	"in imperative, desirative and some other moods:
 there are some personal endings, which attach to verbal and nominal predicates, but there are no clausal examples available"	"b1tS [write.2SG] ‘write (2SG)!’
 b1tS-1tS [write-2SG] ‘write (2PL)!’"
-GB092	Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Piurbeev (1997:80); Bläsing (2003:245)"			
-GB093	Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Piurbeev (1997:80); Bläsing (2003:245)"			
-GB094	Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	"Piurbeev (1997:80); Bläsing (2003:245)"			
-GB095	Are variations in marking strategies of core participants based on TAM distinctions?	1: present, 0: absent	0	"Piurbeev (1997:80); Bläsing (2003:245)"			
-GB096	Are variations in marking strategies of core participants based on verb classes?	1: present, 0: absent	0	"Piurbeev (1997:80); Bläsing (2003:245)"			
-GB098	Are variations in marking strategies of core participants based on person distinctions?	1: present, 0: absent	0	"Piurbeev (1997:80); Bläsing (2003:245)"			
+GB092	Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Piurbeev (1997:80); Bläsing (2003:245)			
+GB093	Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	Piurbeev (1997:80); Bläsing (2003:245)			
+GB094	Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Piurbeev (1997:80); Bläsing (2003:245)			
+GB095	Are variations in marking strategies of core participants based on TAM distinctions?	1: present, 0: absent	0	Piurbeev (1997:80); Bläsing (2003:245)			
+GB096	Are variations in marking strategies of core participants based on verb classes?	1: present, 0: absent	0	Piurbeev (1997:80); Bläsing (2003:245)			
+GB098	Are variations in marking strategies of core participants based on person distinctions?	1: present, 0: absent	0	Piurbeev (1997:80); Bläsing (2003:245)			
 GB099	Can verb stems alter according to the person of a core participant?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB103	Is there a benefactive applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	Benzing (1985:8-9, 29-30)			
-GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	0	"Piurbeev (1997:80); Benzing (1985:90)"			
+GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	0	Piurbeev (1997:80); Benzing (1985:90)			
 GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB109	Is there verb suppletion for participant number?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB110	Is there verb suppletion for tense or aspect?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
@@ -115,7 +115,7 @@ GB124	Is incorporation of nouns into verbs a productive intransitivizing process
 GB126	Is there an existential verb?	1: present, 0: absent	?	Benzing (1985:57)	Not mentioned.		
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Bläsing (2003:229-246)			
-GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	"multistate 1: SV; 2: VS; 3: both"	1	Piurbeev (1997:85)			
+GB130	What is the pragmatically unmarked order of S and V in intransitive clauses?	multistate 1: SV; 2: VS; 3: both	1	Piurbeev (1997:85)			
 GB131	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?	1: present, 0: absent	0	Piurbeev (1997:85)			
 GB132	Is a pragmatically unmarked constituent order verb-medial for transitive clauses?	1: present, 0: absent	0	Piurbeev (1997:85)			
 GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Piurbeev (1997:85)			
@@ -126,11 +126,11 @@ GB135	Do clausal objects usually occur in the same position as nominal objects?	
 GB136	Is the order of core argument (i.e. S/A/P) constituents fixed?	1: present, 0: absent	0	Piurbeev (1997:85)	There are variations due to logical accentuation possible.		
 GB137	Can standard negation be marked clause-finally?	1: present, 0: absent	1	Bläsing (2003:246)		“Predicative participles are, however, negated by the postpositional particle (privative noun) +uga > -go (or =go), e.g. pred. part. fut. neg. ir-x-go : perf. ir-sn+uga : imperf. ir-ä-go : hab. ir- dg +uga > ir-d-go. The particle -go is also used to negate the dubitative, e.g. dub. ir-wzA : neg. ir-wz-go.”	"ir-wzA: neg. ir-wz-go
 ter ik nasta kyn b1S [??? NEG] ‘He is not an old man.’"
-GB138	Can standard negation be marked clause-initially?	1: present, 0: absent	0	"Piurbeev (1997:80); Benzing (1985:90)"			
-GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	1	"Piurbeev (1997:80); Benzing (1985:90)"		"declarative: es
+GB138	Can standard negation be marked clause-initially?	1: present, 0: absent	0	Piurbeev (1997:80); Benzing (1985:90)			
+GB139	Is there a difference between imperative (prohibitive) and declarative negation constructions?	1: present, 0: absent	1	Piurbeev (1997:80); Benzing (1985:90)		"declarative: es
 prohibitive: b1tSE, b1tSkE"	"es bosna: [NEG stand.up.PRS] ‘he doesn’t stand up’
 b1tSE jovtn [NEG go.2PL ‘Don’t go (2PL)!’"
-GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	0	"Piurbeev (1997:80); Benzing (1985:90)"			"verbal: es, b1tSE, b1tSkE
+GB140	Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?	1: present, 0: absent	0	Piurbeev (1997:80); Benzing (1985:90)			"verbal: es, b1tSE, b1tSkE
 nominal: uga, -go, b1S"
 GB146	Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB147	Is there a morphological passive marked on the lexical verb?	1: present, 0: absent	1	Benzing (1985:114-115)		-gda-, -da, -d-, -t-, -gd-	"id-gd
@@ -151,15 +151,15 @@ GB159	Are nouns reduplicated?	1: present, 0: absent	1	Benzing (1985:143)			"ükr
 šikr-mikr
 [sugar~COLL]
 ‘confectionaries’"
-GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	1	"Benzing (1985:143); Piurbeev (1997:83)"	ideophones are reduplicated		tSavas-tSavas ‘sorrow’, jax-jax ‘pain’, dZ1n-dZ1n g1x ‘to clang’, sar-sar g1x ‘to rustle’, tS1b-tS1b g1x ‘to dribble’
+GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	1	Benzing (1985:143); Piurbeev (1997:83)	ideophones are reduplicated		tSavas-tSavas ‘sorrow’, jax-jax ‘pain’, dZ1n-dZ1n g1x ‘to clang’, sar-sar g1x ‘to rustle’, tS1b-tS1b g1x ‘to dribble’
 GB165	Is there productive morphological trial marking on nouns?	1: present, 0: absent	0	Piurbeev (1997:78)			
 GB166	Is there productive morphological paucal marking on nouns?	1: present, 0: absent	0	Piurbeev (1997:78)			
-GB167	Is there a logophoric pronoun?	1: present, 0: absent	0	"Piurbeev (1997:82); Bläsing (2003:238-239)"			
+GB167	Is there a logophoric pronoun?	1: present, 0: absent	0	Piurbeev (1997:82); Bläsing (2003:238-239)			
 GB170	Can an adnominal property word agree with the noun in gender/noun class?	1: present, 0: absent	0	Piurbeev (1997:81)			
 GB171	Can an adnominal demonstrative agree with the noun in gender/noun class?	1: present, 0: absent	0	Piurbeev (1997:80)			
 GB172	Can an article agree with the noun in gender/noun class?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB177	Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument visible in the NP domain?	1: present, 0: absent	0	Bläsing (2003:229-246)			
-GB184	Can an adnominal property word agree with the noun in number?	1: present, 0: absent	0	"Piurbeev (1997:81); Benzing (1985:4)"			
+GB184	Can an adnominal property word agree with the noun in number?	1: present, 0: absent	0	Piurbeev (1997:81); Benzing (1985:4)			
 GB185	Can an adnominal demonstrative agree with the noun in number?	1: present, 0: absent	0	Benzing (1985:133)			"ter ger-müd
 [this house-PL]
 ‘these houses’"
@@ -169,9 +169,9 @@ GB187	Is there any productive diminutive marking on the noun (exclude marking by
 ‘a small bag’"
 GB188	Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB192	Is there a gender system where a noun's phonological properties are a factor in class assignment?	1: present, 0: absent	0	Piurbeev (1997:78)			
-GB193	What is the order of adnominal property word and noun?	"multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively"	1	Piurbeev (1997:85)			
-GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	"Piurbeev (1997:82); Bläsing (2003:238-239)"		tS1 2SG	
-GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	"Piurbeev (1997:82); Bläsing (2003:238-239)"			
+GB193	What is the order of adnominal property word and noun?	multistate 1: ANM - N; 2: N - ANM; 3: both; 0: they cannot be used attributively	1	Piurbeev (1997:85)			
+GB196	Is there a male/female distinction in 2nd person independent pronouns?	1: present, 0: absent	0	Piurbeev (1997:82); Bläsing (2003:238-239)		tS1 2SG	
+GB197	Is there a male/female distinction in 1st person independent pronouns?	1: present, 0: absent	0	Piurbeev (1997:82); Bläsing (2003:238-239)			
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Piurbeev (1997:78)			
 GB203	What is the order of the adnominal collective universal quantifier ('all') and the noun?	0: no UQ, 1: UQ-N, 2: N-UQ, 3: both	?	Bläsing (2003:229-246)	Not mentioned.		
 GB204	Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
@@ -187,7 +187,7 @@ GB256	Can predicative possession be expressed with an S-like possessor and a pos
 GB257	Can polar interrogation be marked by intonation only?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB260	Can polar interrogation be indicated by a special word order?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB262	Is there a clause-initial polar interrogative particle?	1: present, 0: absent	0	Piurbeev (1997:82, 85)			
-GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	"Benzing (1985:42-43); Piurbeev (1997:82, 85)"	interrogative particles are attached to the verb	"iü
+GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	Benzing (1985:42-43); Piurbeev (1997:82, 85)	interrogative particles are attached to the verb	"iü
 it can be attached to any part of speech"	"xar-iü
 [black-Q]
 ‘A black one?’
@@ -201,8 +201,8 @@ GB270	Can comparatives be expressed using two conjoined clauses?	1: present, 0: 
 GB273	Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?	1: present, 0: absent	0	Piurbeev (1997:81)			
 GB275	Is there a bound comparative degree marker on the property word in a comparative construction?	1: present, 0: absent	0	Piurbeev (1997:81)			
 GB276	Is there a non-bound comparative degree marker modifying the property word in a comparative construction?	1: present, 0: absent	0	Piurbeev (1997:81)			
-GB285	Can polar interrogation be marked by a question particle and verbal morphology?	1: present, 0: absent	0	"Benzing (1985:42-43); Piurbeev (1997:82, 85)"			
-GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: present, 0: absent	1	"Benzing (1985:42-43); Piurbeev (1997:82, 85)"		"-u
+GB285	Can polar interrogation be marked by a question particle and verbal morphology?	1: present, 0: absent	0	Benzing (1985:42-43); Piurbeev (1997:82, 85)			
+GB286	Can polar interrogation be indicated by overt verbal morphology only?	1: present, 0: absent	1	Benzing (1985:42-43); Piurbeev (1997:82, 85)		"-u
 interrogative particle is attached to the verb"	"bič-l-ü
 [write-PST-Q]
 ‘Has he written?’
@@ -210,8 +210,8 @@ interrogative particle is attached to the verb"	"bič-l-ü
 GB291	Can polar interrogation be marked by tone?	1: present, 0: absent	0	Piurbeev (1997:82, 85)			
 GB296	Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?	1: present, 0: absent	1	Piurbeev (1997:83)			
 GB297	Can polar interrogation be indicated by a V-not-V construction?	1: present, 0: absent	0	Piurbeev (1997:82, 85)			
-GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	"Piurbeev (1997:80); Benzing (1985:90)"			
-GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	"Piurbeev (1997:80); Benzing (1985:90)"		"verbal: es, b1tSE, b1tSkE
+GB298	"Can standard negation be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Piurbeev (1997:80); Benzing (1985:90)			
+GB299	"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	1	Piurbeev (1997:80); Benzing (1985:90)		"verbal: es, b1tSE, b1tSkE
 nominal: uga, -go, b1S"	es bosna: [NEG stand.up.PRS] ‘he doesn’t stand up’
 GB300	Does the verb for 'give' have suppletive verb forms?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB301	Is there an inclusory construction?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
@@ -225,13 +225,13 @@ GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1:
 GB309	Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?	1: present, 0: absent	0	Bläsing (2003:244)	It is not clear whether the markers denote tense or aspect.		"terminative / narrative past -w
 confirmative / pluperfect -lA
 resultative / evidential past -j -c"
-GB312	Is there overt morphological marking on the verb dedicated to mood?	1: present, 0: absent	1	"Benzing (1985:31); Bläsing (2003:241)"			"a paradigm of personal endings for imperative
+GB312	Is there overt morphological marking on the verb dedicated to mood?	1: present, 0: absent	1	Benzing (1985:31); Bläsing (2003:241)			"a paradigm of personal endings for imperative
 voluntative: (-i)y (< *-yA)
 optative in -s (<*-sU): personal endings sg. -s-w : pl. -s-wdn ~ -s-widn ~ -sU-widn
 ir-tn ‘(you many) come!’
 tsE: u:-y ‘let us drink tea!’, yow-iy ‘let us go!’
 bi gazetd zurgud zurj beld-s-w ‘I would like to draw (and prepare) pictures for the newspaper’"
-GB313	Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?	1: present, 0: absent	0	"Benzing (1985:137-139); Piurbeev (1997:79); Bläsing (2003:238-239)"	"Piurbeev (1997): these are described as genitive forms, but the process is not otherwise regular: all other case forms have another stem; Bläsing (2003): no possessive pronouns are mentioned, possession formed by suffixes denoting the possessor on the possessed"	"Piurbeev (1997): these are described as genitive forms, but the process is not otherwise regular: all other case forms have another stem
+GB313	Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?	1: present, 0: absent	0	Benzing (1985:137-139); Piurbeev (1997:79); Bläsing (2003:238-239)	Piurbeev (1997): these are described as genitive forms, but the process is not otherwise regular: all other case forms have another stem; Bläsing (2003): no possessive pronouns are mentioned, possession formed by suffixes denoting the possessor on the possessed	"Piurbeev (1997): these are described as genitive forms, but the process is not otherwise regular: all other case forms have another stem
 Bläsing (2003): no possessive pronouns are mentioned, possession formed by suffixes denoting the possessor on the possessed
 Benzing (1985): the genitive form of the personal pronouns is used, the stem does not appear in any other case form, that is the process is not otherwise regular: NOM bi, GEN mini, DAT nand, ACC namag, INST nanar etc."	"1SG m1n1, 2SG tS1n1, 1PL mana, 2PL tana
 mini degtr
@@ -248,10 +248,10 @@ GB321	Is there a large class of nouns whose gender/noun class is not phonologica
 GB322	Is there grammatical marking of direct evidence (perceived with the senses)?	1: present, 0: absent	1	Goto (2009:129)	there is evidentiality marking, but it does not distinguish between direct and indirect evidence	Bläsing (2003:244): There is a resultative tense/aspect marker on the verb: “The resultative has a dimension of evidentiality and is particularly common in fairytales.”	
 GB323	Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?	1: present, 0: absent	1	Goto (2009:129)	there is evidentiality marking, but it does not distinguish between direct and indirect evidence	Bläsing (2003:244): There is a resultative tense/aspect marker on the verb: “The resultative has a dimension of evidentiality and is particularly common in fairytales.”	
 GB324	Is there an interrogative verb for content interrogatives (who?, what?, etc.)?	1: present, 0: absent	1	Bläsing (2003:239)		agh- (< *yaxa+ki-) ‘to do what’ : conv. perf. yagh-ad ‘why’.	yaghad es irwc ‘why didn’t you come?’
-GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	0	"Piurbeev (1997:82); Bläsing (2003:239)"			kedy ‘how many/how much’
+GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	0	Piurbeev (1997:82); Bläsing (2003:239)			kedy ‘how many/how much’
 GB326	Do (nominal) content interrogatives normally or frequently occur in situ?	1: present, 0: absent	1	Benzing (1985:136-137)			
-GB327	Can the relative clause follow the noun?	1: present, 0: absent	0	"Piurbeev (1997:86); Bläsing (2003:241-242)"			
-GB328	Can the relative clause precede the noun?	1: present, 0: absent	1	"Piurbeev (1997:86); Bläsing (2003:241-242)"			ir-sn ky:n [come-PFV.PTCP man] ‘the man who has come’
+GB327	Can the relative clause follow the noun?	1: present, 0: absent	0	Piurbeev (1997:86); Bläsing (2003:241-242)			
+GB328	Can the relative clause precede the noun?	1: present, 0: absent	1	Piurbeev (1997:86); Bläsing (2003:241-242)			ir-sn ky:n [come-PFV.PTCP man] ‘the man who has come’
 GB329	Are there internally-headed relative clauses?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB330	Are there correlative relative clauses?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB331	Are there adjoined relative clauses?	1: present, 0: absent	0	Bläsing (2003:229-246)			
@@ -259,40 +259,33 @@ GB333	Is there a decimal numeral system?	1: present, 0: absent	1	Bläsing (2003:
 GB334	Is there synchronic evidence for any element of a quinary numeral system?	1: present, 0: absent	0	Bläsing (2003:237)			
 GB335	Is there synchronic evidence for any element of a vigesimal numeral system?	1: present, 0: absent	0	Bläsing (2003:237)			
 GB336	Is there a body-part tallying system?	1: present, 0: absent	0	Bläsing (2003:237)			
-GB400	Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?	1: present, 0: absent	?	"Piurbeev (1997:80); Bläsing (2003:245)"	there are some personal endings, which attach to verbal and nominal predicates, but there are no clausal examples available. According to Piurbeev (1997), only in the imperative mood there are person markers on verbs.		
+GB400	Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?	1: present, 0: absent	?	Piurbeev (1997:80); Bläsing (2003:245)	there are some personal endings, which attach to verbal and nominal predicates, but there are no clausal examples available. According to Piurbeev (1997), only in the imperative mood there are person markers on verbs.		
 GB401	Is there a class of patient-labile verbs?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB402	Does the verb for 'see' have suppletive verb forms?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB403	Does the verb for 'come' have suppletive verb forms?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB408	Is there any accusative alignment of flagging?	1: present, 0: absent	1	Piurbeev (1997:83)			
 GB409	Is there any ergative alignment of flagging?	1: present, 0: absent	0	Bläsing (2003:229-246)			
 GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	1	Benzing (1985:23)			
-GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	1	"Piurbeev (1997:78); Bläsing (2003:238-239)"		ta [2SG.POL] - tadn [2PL]	
+GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	1	Piurbeev (1997:78); Bläsing (2003:238-239)		ta [2SG.POL] - tadn [2PL]	
 GB421	Is there a preposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
 GB422	Is there a postposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
-GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	"Piurbeev (1997:79); Bläsing (2003:240)"			
-GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	"Piurbeev (1997:79); Bläsing (2003:240)"			
-GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	0	"Piurbeev (1997:79); Bläsing (2003:240)"		no part of the genitive form, e.g. mini, occurs in other oblique forms, i.e. it is unique, no suffixation	
-GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	"Piurbeev (1997:79); Bläsing (2003:240)"	"Piurbeev (1997): in inalienable possession; Bläsing (2003): in both alienable and inalienable possession"		"avh [uncle] ‘uncle’ - avh-m [uncle-1SG] ‘my uncle’ - avh-tSn [uncle-2SG] ‘your uncle’
+GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	Piurbeev (1997:79); Bläsing (2003:240)			
+GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	Piurbeev (1997:79); Bläsing (2003:240)			
+GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	0	Piurbeev (1997:79); Bläsing (2003:240)		no part of the genitive form, e.g. mini, occurs in other oblique forms, i.e. it is unique, no suffixation	
+GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	Piurbeev (1997:79); Bläsing (2003:240)	Piurbeev (1997): in inalienable possession; Bläsing (2003): in both alienable and inalienable possession		"avh [uncle] ‘uncle’ - avh-m [uncle-1SG] ‘my uncle’ - avh-tSn [uncle-2SG] ‘your uncle’
 m1n1 degtr [1SG book] ‘my book’
 mini ner"
 GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Benzing (1985:57, 90, 122)			
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Benzing (1985:38-39, 57, 116-117)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Benzing (1985:57, 160)			
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
-TE001	Is root structure predominantly polysyllabic?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
-TE002	Are complex tonal distinctions lacking?	1: present, 0: absent	1	Piurbeev (1997:75)			
-TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	"Piurbeev (1997:76-77); Bläsing (2003:232); Benzing (1985:177)"		palatalo-velar vowel harmony	
-TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	"Piurbeev (1997:76-77); Bläsing (2003:232); Benzing (1985:177)"			
+TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Piurbeev (1997:76-77); Bläsing (2003:232); Benzing (1985:177)		palatalo-velar vowel harmony	
+TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Piurbeev (1997:76-77); Bläsing (2003:232); Benzing (1985:177)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Benzing (1985:98)			
 TE006	Is there an initial r-?	1: present, 0: absent	?	Benzing (1985:140)		no restrictions mentioned	
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Bläsing (2003:232)			
-TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	"Piurbeev (1997:76); Bläsing (2003:231)"			
-TE009	Are borrowed verbs accommodated through a light-verb or a verbalizer?	1: present, 0: absent	?	Bläsing (2003:229-246)			
-TE012	Are property words verbally or nominally encoded?	1: present, 0: absent	?	Bläsing (2003:229-246)			
-TE014	Is there partial emphatic reduplication of nominal property words?	1: present, 0: absent	1	Piurbeev (1997:81)			Sab-Sar ‘very yellow’, tsav-tsahan ‘very white’
-TE015	Are morphemes connected linearly in a way that there is a one on one relationship between a morpheme and its meaning?	1: present, 0: absent	1	Piurbeev (1997:78)			
-TE016	Is inflectional morphology predominantly suffixing?	1: present, 0: absent	1	Piurbeev (1997:84)			
-TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	?	"Piurbeev (1997:79); Bläsing (2003:238-239)"		in possessive pronouns: 1SG m1n1, 2SG tS1n1, 1PL mana, 2PL tana	
+TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Piurbeev (1997:76); Bläsing (2003:231)			
+TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	?	Piurbeev (1997:79); Bläsing (2003:238-239)		in possessive pronouns: 1SG m1n1, 2SG tS1n1, 1PL mana, 2PL tana	
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Bläsing (2003:238)		"yes, with a nasal:
 1SG
 NOM bi
@@ -304,67 +297,21 @@ ABL nan-as
 CONN nan-la
 COM nan-ta
 DIR nan-ur"	
-TE022	Are gerunds or adverbial participles used to mark adverbial subordination?	1: present, 0: absent	1	"Piurbeev (1997:86); Bläsing (2003:242-244)"			"ky:kd inEld-j xE:krldw 
-[girls laugh-PTCP shout.PST] 
-‘the girls shouted laughing’"
-TE025	Are specific non-finite and finite suffixes expressed by a formally identical suffix?	1: present, 0: absent	?	Bläsing (2003:229-246)			
-TE026	Are specific negative verbs and negative suffixes/particles expressed by a formally identical suffix?	1: present, 0: absent	?	"Piurbeev (1997:80); Benzing (1985:90)"		Not mentioned.	
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	1	Bläsing (2003:238-239)			ta-dn [1PL-PL]
-TE028	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like nouns in predicative position?	1: present, 0: absent	?	Bläsing (2003:229-246)			
-TE029	"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as nouns?"	1: present, 0: absent	?	Bläsing (2003:229-246)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Piurbeev (1997:76)			
-TE033	Is there a reciprocal marker that is distinct from the reflexive marker?	1: present, 0: absent	1	Benzing (1985:76, 132, 142, 144, 239)		pronouns as well as verbal suffixes are different	
-TE034	Are there deranked purpose clauses?	1: present, 0: absent	?				
-TE036	Can the notional subject of a want complement clause be left implicit when it is coreferential with the wanter?	1: present, 0: absent	?				
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Bläsing (2003:231)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Bläsing (2003:231)			
-TE039	Is there vowel length distinction?	1: present, 0: absent	1	"Rybatzki (2003:371-372); Bläsing (2003:231); Piurbeev (1997:75)"	“All vowel qualities have long (or doubled) counterparts.”		
-TE040	Are causative posture verbs derived and static-dynamic verbs basic?	1: present, 0: absent	?				
-TE041	Is there a male/female distinction in the sibling terms from the perspective of the speaker?	1: present, 0: absent	?				
-TE042	Is there an age distinction in sibling terms?	1: present, 0: absent	?				
-TE043	Are nouns most commonly derived from verbs than the other way around?	1: present, 0: absent	?				
-TE044	Are ‘hand’ and ‘arm’ expressed by the same term?	1: present, 0: absent	1	Ramstedt 1935			"ARM: gar ""hand, arm""
-HAND: gar	""hand, arm"""
-TE045	Are ‘moon’ and ‘month’ expressed by the same term?	1: present, 0: absent	?				
-TE046	Is there a plural/collective suffix that is restricted to animates?	1: present, 0: absent	?	Benzing (1985:119)		there are no restrictions mentioned despite the variety on suffixes	
-TE047	Can scalar additive operators (‘even’) also be used in non-scalar contexts (also)?	1: present, 0: absent	?				
-TE048	Is there a reflexive-possessive affix?	1: present, 0: absent	?				
-TE049	Are demonstratives verbally encoded?	1: present, 0: absent	?				
+TE039	Is there vowel length distinction?	1: present, 0: absent	1	Rybatzki (2003:371-372); Bläsing (2003:231); Piurbeev (1997:75)	“All vowel qualities have long (or doubled) counterparts.”		
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Benzing (1985:94)			"tavn alm
 [five apple]
 ‘five apples’"
-TE051	Is nominative case unmarked?	1: present, 0: absent	1	Piurbeev (1997:83)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Benzing (1985:23)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Benzing (1985:23)		-d	
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	0	Benzing (1985:42-43)		at least two particles can be used in content as well as in polar interrogation, with two other particles only examples with polar interrogation are available	
-TE055	Is acting agent in passive clause expressed by a dative-marked noun phrase?	1: present, 0: absent	1	Benzing (1985:114-115)			"xö:č-d ke:r šar arat üz-gd-v
-[herder-DAT ? yellow fox see-PASS-PST]
-‘A yellow fox was seen by the sheep herder in the steppe.’ "
-TE056	Is the subject of an adnominalized clause marked by the genitive case?	1: present, 0: absent	?	Bläsing (2003:229-246)			
-TE057	Can a passive construction have adversative meaning?	1: present, 0: absent	?				
-TE058	Can demonstrative/interrogative verbs be derived from pronouns and light verbs ‘to do’?	1: present, 0: absent	?				
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Benzing (1985:24, 114-115)		"causative: -ul-, -lh-, -h-/-g-/-x-
 passive: -gda-, -da, -d-, -t-, -gd-
 passive from intransitive verbs has causative semantics"	
-TE060	Are converb suffixes and deverbal noun suffixes formally identical?	1: present, 0: absent	?				
-TE061	Are quotative markers adverbial derivations from a verb ‘to say’?	1: present, 0: absent	?				
-TE062	Can relational adpositions (e.g. ‘under’) be derived from a place noun (e.g. ‘bottom’) and a locational suffix (e.g. at LOC)?	1: present, 0: absent	1	Benzing (1985:123)			"tal-dan
-[side-ALL]
-‘at his side’"
-TE063	Are hortatives/purposives encoded by the same marker (eventually involving a converb of the verb ‘to say’)?	1: present, 0: absent	?				
-TE064	Are denominal verbalizers and deverbal suffixes sharing comparable actional semantics expressed by the same marker?	1: present, 0: absent	?				
-TE065	Is ‘it is becoming if’ grammaticalized in deontic modality?	1: present, 0: absent	?				
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Bläsing (2003:240)			
-TE067	Is person marking on the verb formally identical to independent personal pronouns?	1: present, 0: absent	?				
-TE068	Is there a comparative construction that employs a marker of the standard which elsewhere has a meaning ‘to see’?	1: present, 0: absent	?				
-TE069	Can a copula be derived from original posture verbs?	1: present, 0: absent	?				
-TE070	Can the notional subject of a want complement clause be expressed overtly when it is coreferential with the wanter?	1: present, 0: absent	?				
-TE071	Are ‘foot’ and ‘leg’ expressed by the same term?	1: present, 0: absent	?				
-TE072	Are there balanced purpose clauses?	1: present, 0: absent	?				
-TE073	Is there an adposition or a particle formally similar to the verb?	1: present, 0: absent	?				
-TE074	Is completive aspect expressed by a marker formally identical to the verb ’to put/throw away’?	1: present, 0: absent	1	Benzing (1985:57)			
-TE076	Are there adpositions to mark core NPs?	1: present, 0: absent	?				
-TE077	Are there adpositions to mark oblique NPs?	1: present, 0: absent	?	Bläsing (2003:229-246)			
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Bläsing (2003:231)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Benzing (1985:94)			"tavn alm
 [five apple]
@@ -385,12 +332,6 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Bläsing (2003:229-246)			
 TS079	Is there height vowel harmony?	1: present, 0: absent	?	Bläsing (2003:229-246)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	?	Bläsing (2003:229-246)			
-TS081	Is there an initial l-?	1: present, 0: absent	?				
-TS082	Do numerals have the same form in attributive and predicative use?	1: present, 0: absent	?				
-TS083	Is the meaning ‘to hunt’ expressed as noun+denominalizer?	1: present, 0: absent	?				
-TS083	Are instrumental and comitative expressed by the same marker?	1: present, 0: absent	?				
-TS084	Are the meanings ‘to see’ and ‘to try’ expressed by formally identical verbs?	1: present, 0: absent	?				
-TS085	What is the order of personal possessive suffixes and case suffixes?	"0: one category missing; 1: POSS-case; 2: case-POSS; 3: both"	?				
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1				
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0				
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Bläsing (2003:231)			
