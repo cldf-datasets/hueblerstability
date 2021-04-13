@@ -1,61 +1,61 @@
-ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Family,Branch,Subbranch,Subsubbranch
-anat1259,Turkish,Eurasia,39.56,32.95,anat1259,tur,Turkic,Common Turkic,Oghuz,
-bash1264,Bashkir,Eurasia,53.60,56.56,bash1264,bak,Turkic,Common Turkic,Kipchak,North Kipchak
-berj1234,Beryozovka Even,Eurasia,67.13,156.59,berj1234,eve,Tungusic,Northern Tungusic,Even,Eastern Even
-bona1250,Bonan,Eurasia,35.70,103.00,bona1250,peh,Mongolic-Khitan,Mongolic,Southern Periphery Mongolic,Shirongol
-cent2126,Tsuken,Eurasia,26.25,127.94,cent2126,ryu,Japonic,Ryukyuan,Northern Ryukyuan,Okinawa
-chag1247,Chagatai,Eurasia,38.21,57.89,chag1247,chg,Turkic,Common Turkic,Turkestan Turkic,Uyghur-Uzbek
-chuv1255,Chuvash,Eurasia,55.49,47.16,chuv1255,chv,Turkic,Bolgar,,
-crim1257,Crimean Tatar,Eurasia,45.00,34.08,crim1257,crh,Turkic,Common Turkic,Kipchak,West Kipchak
-daur1238,Dagur,Eurasia,48.00,124.00,daur1238,dta,Mongolic-Khitan,Mongolic,,
-dolg1241,Dolgan,Eurasia,71.11,94.29,dolg1241,dlg,Turkic,Common Turkic,North Siberian Turkic,
-dong1285,Dongxiang,Eurasia,35.58,103.56,dong1285,sce,Mongolic-Khitan,Mongolic,Southern Periphery Mongolic,Shirongol
-east2337,Shira Yughur,Eurasia,37.99,101.76,east2337,yuy,Mongolic-Khitan,Mongolic,Southern Periphery Mongolic,
-gaga1249,Gagauz,Eurasia,44.60,28.03,gaga1249,gag,Turkic,Common Turkic,Oghuz,Nuclear Oghuz
-halh1238,Khalkha,Eurasia,48.32,106.29,halh1238,khk,Mongolic-Khitan,Mongolic,Eastern Mongolic,Khalkha-Buriat
-hate1238,Hateruma,Eurasia,24.06,123.78,hate1238,rys,Japonic,Ryukyuan,Southern Ryukyuan,Macro-Yaeyama
-huih1238,Solon,Eurasia,49.21,119.76,huih1238,evn,Tungusic,Northern Tungusic,Northwestern Tungusic,Evenki
-huzh1238,Mongghul,Eurasia,36.83,101.96,huzh1238,mjg,Mongolic-Khitan,Mongolic,Southern Periphery Mongolic,Shirongol
-ikem1235,Ikema,Eurasia,24.93,125.24,ikem1235,mvi,Japonic,Ryukyuan,Southern Ryukyuan,Miyako
-kara1467,Kara-Kalpak,Eurasia,39.98,63.32,kara1467,kaa,Turkic,Common Turkic,Kipchak,South Kipchak
-kaza1248,Kazakh,Eurasia,41.87,65.77,kaza1248,kaz,Turkic,Common Turkic,Kipchak,South Kipchak
-khak1248,Khakas,Eurasia,50.74,107.17,khak1248,kjh,Turkic,Common Turkic,Central Siberian Turkic,South Siberian Turkic
-kham1281,Khamnigal Mongol,Eurasia,49.00,117.00,kham1281,,Kham,Mongolic-Khitan,Mongolic,Eastern Mongolic
-kore1280,Korean,Eurasia,37.50,128.00,kore1280,kor,Koreanic,Korean,,
-manc1252,Manchu,Eurasia,47.31,126.56,manc1252,mnc,Tungusic,Manchu-Jurchen,Manchu-Sibe,
-midd1351,Middle Mongol,Eurasia,48.20,110.01,midd1351,xng,Mongolic-Khitan,Mongolic,,
-midd1372,Middle Korean,Eurasia,37.50,128.00,midd1372,,MK,Koreanic,Korean,
-minh1238,Mangghuer,Eurasia,36,102.82,minh1238,mjg,Mongolic-Khitan,Mongolic,Southern Periphery Mongolic,Shirongol
-mogh1245,Moghol,Eurasia,34.25,62.28,mogh1245,mhj,Mongolic-Khitan,Mongolic,,
-moma1245,Moma Even,Eurasia,66.44,143.17,moma1245,eve,Tungusic,Northern Tungusic,Even,Middle Even
-nana1257,Nanai,Eurasia,48.43,134.80,nana1257,gld,Tungusic,Central Tungusic,Central-Western Tungusic,
-negi1245,Negidal,Eurasia,52.97,139.21,negi1245,neg,Tungusic,Northern Tungusic,Northwestern Tungusic,
-noga1249,Nogai,Eurasia,43.59,46.66,noga1249,nog,Turkic,Common Turkic,Kipchak,South Kipchak
-nort2690,Northern Uzbek,Eurasia,40.89,69.21,nort2690,uzn,Turkic,Common Turkic,Turkestan Turkic,Uyghur-Uzbek
-nort2697,Azerbaijani,Eurasia,40.98,46.47,nort2697,azj,Turkic,Common Turkic,Oghuz,Nuclear Oghuz
-nort2935,Ura,Eurasia,28.21,129.45,nort2935,ryn,Japonic,Ryukyuan,Northern Ryukyuan,Amami
-nucl1643,Japanese,Eurasia,35.00,135.00,nucl1643,jpn,Japonic,Japanesic,Japan-Taiwan Japanese,
-ogam1239,Ogami,Eurasia,24.92,125.31,ogam1239,mvi,Japonic,Ryukyuan,Southern Ryukyuan,Miyako
-oira1262,Oirat,Eurasia,49.24,91.03,oira1262,xal,Mongolic-Khitan,Mongolic,Eastern Mongolic,Khalkha-Buriat
-okin1246,Okinoerabu,Eurasia,27.37,128.62,okin1246,okn,Japonic,Ryukyuan,Northern Ryukyuan,Amami
-oldj1239,Eastern Old Japanese,Eurasia,34.68,135.80,oldj1239,ojp,Japonic,Japanesic,,
-oldu1238,Old Turkic,Eurasia,42.85,89.53,oldu1238,oui,Turkic,Common Turkic,Turkestan Turkic,
-ordo1245,Ordos,Eurasia,39.6,109.8,ordo1245,mvf,Mongolic-Khitan,Mongolic,Eastern Mongolic,Khalkha-Buriat
-oroc1248,Oroch,Eurasia,50.32,137.85,oroc1248,oac,Tungusic,Central Tungusic,Central-Eastern Tungusic,
-orok1265,Orok,Eurasia,49.36,143.13,orok1265,oaa,Tungusic,Central Tungusic,Central-Western Tungusic,Ulchaic
-russ1264,Russia Buriat,Eurasia,50.85,105.56,russ1264,bxr,Mongolic-Khitan,Mongolic,Eastern Mongolic,Khalkha-Buriat
-shor1247,Shor,Eurasia,52.33,88.43,shor1247,cjs,Turkic,Common Turkic,Central Siberian Turkic,South Siberian Turkic
-shur1243,Shuri,Eurasia,26.22,127.73,shur1243,ryu,Japonic,Ryukyuan,Northern Ryukyuan,Okinawa
-sibe1251,Evenki,Eurasia,68,100,sibe1251,evn,Tungusic,Northern Tungusic,Northwestern Tungusic,Evenki
-sout2954,Yuwan,Eurasia,28.20,129.28,sout2954,ams,Japonic,Ryukyuan,Northern Ryukyuan,Amami
-tara1319,Tarama,Eurasia,24.66,124.698,tara1319,mvi,Japonic,Ryukyuan,Southern Ryukyuan,Miyako
-tata1255,Tatar,Eurasia,55.00,50.00,tata1255,tat,Turkic,Common Turkic,Kipchak,North Kipchak
-torg1245,Kalmyk,Eurasia,47,45.32,torg1245,xal,Mongolic-Khitan,Mongolic,Eastern Mongolic,Khalkha-Buriat
-turk1303,Khalaj,Eurasia,34.42,50.32,turk1303,klj,Turkic,Common Turkic,,
-turk1304,Turkmen,Eurasia,37.09,59.18,turk1304,tuk,Turkic,Common Turkic,Oghuz,Nuclear Oghuz
-tuvi1240,Tuvan,Eurasia,51.70,94.37,tuvi1240,tyv,Turkic,Common Turkic,Central Siberian Turkic,South Siberian Turkic
-udih1248,Udihe,Eurasia,46.63,135.68,udih1248,ude,Tungusic,Central Tungusic,Central-Eastern Tungusic,
-uigh1240,Uighur,Eurasia,43.88,87.38,uigh1240,uig,Turkic,Common Turkic,Turkestan Turkic,Uyghur-Uzbek
-ulch1241,Ulch,Eurasia,51.85,140.29,ulch1241,ulc,Tungusic,Central Tungusic,Central-Western Tungusic,Ulchaic
-yaku1245,Yakut,Eurasia,61.70,133.98,yaku1245,sah,Turkic,Common Turkic,North Siberian Turkic,
-yona1241,Yonaguni,Eurasia,24.45,122.99,yona1241,yoi,Japonic,Ryukyuan,Southern Ryukyuan,Macro-Yaeyama
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
+torg1245,Kalmyk,,,,torg1245,
+oldj1239,Eastern Old Japanese,,,,oldj1239,
+crim1257,Crimean Tatar,,,,crim1257,
+bash1264,Bashkir,,,,bash1264,
+anat1259,Turkish,,,,anat1259,
+okin1246,Okinoerabu,,,,okin1246,
+yaku1245,Yakut,,,,yaku1245,
+daur1238,Dagur,,,,daur1238,
+east2337,Shira Yughur,,,,east2337,
+ikem1235,Ikema (Miyako),,,,ikem1235,
+sibe1251,Evenki,,,,sibe1251,
+nort2697,Azerbaijani,,,,nort2697,
+bona1250,Bonan,,,,bona1250,
+ulch1241,Ulch,,,,ulch1241,
+nort2935,Ura (Northern Amami-Oshima),,,,nort2935,
+gaga1249,Gagauz,,,,gaga1249,
+tara1319,Tarama Miyako,,,,tara1319,
+moma1245,Moma Even,,,,moma1245,
+manc1252,Manchu,,,,manc1252,
+shor1247,Shor,,,,shor1247,
+kaza1248,Kazakh,,,,kaza1248,
+midd1351,Middle Mongol,,,,midd1351,
+chag1247,Chagatai,,,,chag1247,
+huih1238,Solon,,,,huih1238,
+ordo1245,Ordos,,,,ordo1245,
+turk1303,Khalaj,,,,turk1303,
+negi1245,Negidal,,,,negi1245,
+nana1257,Nanai,,,,nana1257,
+nort2690,Northern Uzbek,,,,nort2690,
+shur1243,Shuri (Central Okinawan),,,,shur1243,
+minh1238,Minhe Mangghuer (Tu),,,,minh1238,
+udih1248,Udihe,,,,udih1248,
+oira1262,Altai Oirat,,,,oira1262,
+hate1238,Hateruma Yaeyama,,,,hate1238,
+tata1255,Tatar,,,,tata1255,
+turk1304,Turkmen,,,,turk1304,
+oroc1248,Oroch,,,,oroc1248,
+chuv1255,Chuvash (Southern dialect),,,,chuv1255,
+noga1249,Nogai,,,,noga1249,
+dong1285,Dongxiang,,,,dong1285,
+halh1238,Khalkha,,,,halh1238,
+cent2126,Tsuken (Central Okinawan),,,,cent2126,
+yona1241,Yonaguni (Dunan),,,,yona1241,
+kore1280,Korean,,,,kore1280,
+tuvi1240,Tuvan,,,,tuvi1240,
+huzh1238,Huzhu Mongghul,,,,huzh1238,
+khak1248,Khakas,,,,khak1248,
+oldu1238,Old Turkic,,,,oldu1238,
+nucl1643,Japanese,,,,nucl1643,
+miya1259,Ogami (Miyako),,,,miya1259,
+orok1265,Orok,,,,orok1265,
+midd1372,Middle Korean,,,,midd1372,
+mogh1245,Moghol,,,,mogh1245,
+uigh1240,Uighur,,,,uigh1240,
+kara1467,Karakalpak,,,,kara1467,
+russ1264,Buriat,,,,russ1264,
+sout2954,Yuwan (Southern Amami-Oshima),,,,sout2954,
+berj1234,Beryozovka Even,,,,berj1234,
+kham1281,Khamnigan Mongol,,,,kham1281,
+dolg1241,Dolgan,,,,dolg1241,
