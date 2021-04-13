@@ -7,7 +7,7 @@ GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N
 GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Tsumagari (2009:12)			"eri jü:
 this house
 ‘this house’"
-GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Tsumagari (2009:7)			"imin do:-ni: mü:-nin aruxxun bičči antasi Imin.river-GEN water-3 clear be.PTCP sweet
+GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Tsumagari (2009:10)			"imin do:-ni: mü:-nin aruxxun bičči antasi Imin river-GEN water-3 clear be.PTCP sweet
 ‘The water of Imin river is clear and sweet.’ 
 (Hu & Chaoke 1986:100)"
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Tsumagari (2009:4, 18)	Not mentioned.	comitative: -gili:	
@@ -50,7 +50,7 @@ min-i: jaxa
 min-i: bitig
 1SG-GEN book
 ‘my book’"
-GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Tsumagari (2009:7)			"imin do:-ni: mü:-nin aruxxun bičči antasi Imin.river-GEN water-3 clear be.PTCP sweet
+GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	0	Tsumagari (2009:7)			"imin do:-ni: mü:-nin aruxxun bičči antasi Imin river-GEN water-3 clear be.PTCP sweet
 ‘The water of Imin river is clear and sweet.’ 
 (Hu & Chaoke 1986:100)"
 GB069	Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?	1: present, 0: absent	0	Tsumagari (2009:1-18)			"aja xonin-sal
@@ -106,7 +106,7 @@ GB116	Do verbs classify the shape, size or consistency of absolutive arguments b
 GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	Tsumagari (2009:7, 12)		bi-	"bi: malsin bi-sü:
 1SG stock.farmer be-PST.PTCP.1SG
 ‘I was a stock farmer.’
-imin do:-ni: mü:-nin aruxxun bičči antasi Imin.river-GEN water-3 clear be.PTCP sweet
+imin do:-ni: mü:-nin aruxxun bičči antasi Imin river-GEN water-3 clear be.PTCP sweet
 ‘The water of Imin river is clear and sweet.’ 
 (Hu & Chaoke 1986:100)"
 GB118	Are there serial verb constructions?	1: present, 0: absent	?	Tsumagari (2009:1-18)	Not mentioned.		
