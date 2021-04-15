@@ -8,7 +8,7 @@ GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	0	Hinds (1986:345-346)			
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	0	Martin (1988:203); Hinds (1986:93-97)		"coordination: to, ya, toka
 comitative: to"	
-GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Robbeets (2017:611); Hinds (1986:250)			
+GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Hinds (1986:250)			
 GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	1	Hinds (1986:239, 257)			"kare [3SG.M]
 kanojo [3SG.F.]"
 GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	0	Hinds (1986:239)			

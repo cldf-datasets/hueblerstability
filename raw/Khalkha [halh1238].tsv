@@ -37,7 +37,7 @@ GB059	Is the adnominal possessive construction different for alienable and inali
 main-ai ger-t
 [1PL.EXCL-GEN house-DAT]
 ‘in our house’"
-GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Janhunen (2010:137, 230)			"min-ii eej
+GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	3	Janhunen (2012:137, 230)			"min-ii eej
 [1SG-GEN mother]
 ‘my mother’
 duu-men
@@ -146,7 +146,7 @@ GB155	Are causatives formed by affixes or clitics on verbs?	1: present, 0: absen
 GB156	Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?	1: present, 0: absent	0	Janhunen (2012:149)			
 GB158	Are verbs reduplicated?	1: present, 0: absent	?	Janhunen (2012:1-296)	Not mentioned.		
 GB159	Are nouns reduplicated?	1: present, 0: absent	?	Janhunen (2012:1-296)	Not mentioned.		
-GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	0	Janhunen (2010:119-121)	they don’t constitute a single phonological unit		
+GB160	Are elements apart from verbs or nouns reduplicated?	1: present, 0: absent	0	Janhunen (2012:119-121)	they don’t constitute a single phonological unit		
 GB165	Is there productive morphological trial marking on nouns?	1: present, 0: absent	0	Janhunen (2012:99-102)			
 GB166	Is there productive morphological paucal marking on nouns?	1: present, 0: absent	0	Janhunen (2012:99-102)			
 GB167	Is there a logophoric pronoun?	1: present, 0: absent	0	Janhunen (2012:1-296)	Not mentioned.		
@@ -270,13 +270,13 @@ GB410	Is there any neutral alignment of flagging?	1: present, 0: absent	1	Janhun
 GB415	Is there a politeness distinction in 2nd person forms?	1: present, 0: absent	0	Janhunen (2012:134)			
 GB421	Is there a preposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	0	Janhunen (2012:240, 285)			
 GB422	Is there a postposed complementizer in complements of verbs of thinking and/or knowing?	1: present, 0: absent	0	Janhunen (2012:240, 285)			
-GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	Janhunen (2010:137, 230)			
-GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	Janhunen (2010:137, 230)			
-GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	Janhunen (2010:137, 230)			"min-ii eej
+GB430	Can adnominal possession be marked by a prefix on the possessor?	1: present, 0: absent	0	Janhunen (2012:137, 230)			
+GB431	Can adnominal possession be marked by a prefix on the possessed noun?	1: present, 0: absent	0	Janhunen (2012:137, 230)			
+GB432	Can adnominal possession be marked by a suffix on the possessor?	1: present, 0: absent	1	Janhunen (2012:137, 230)			"min-ii eej
 1SG-GEN mother
 ‘my mother’
 min-ii bagsh [1SG-GEN teacher] ‘my teacher’"
-GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	Janhunen (2010:137, 230)			duu-men [younger.brother-1SG] ‘my younger brother’
+GB433	Can adnominal possession be marked by a suffix on the possessed noun?	1: present, 0: absent	1	Janhunen (2012:137, 230)			duu-men [younger.brother-1SG] ‘my younger brother’
 GB519	"Can mood be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Janhunen (2012:173)			
 GB520	"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Janhunen (2012:174)			
 GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1: present, 0: absent	0	Janhunen (2012:156-159)			
@@ -307,7 +307,7 @@ TE054	Is there a distinction between marking of interrogation in polar and conte
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Janhunen (2012:148-149)		"-gd
 -lg"	
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Janhunen (2012:143-144, 152)			ir [come] ‘come!’
-TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Janhunen (2010:156)			
+TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Janhunen (2012:156)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Janhunen (2012:187, 193)			" en’ ail-d xoyer mory bai-n’
 [this camp-DAT two horse be-DUR]
 ‘in this camp there are two horses’"
