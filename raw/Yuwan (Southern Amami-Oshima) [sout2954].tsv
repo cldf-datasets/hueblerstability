@@ -43,7 +43,7 @@ GB059	Is the adnominal possessive construction different for alienable and inali
 GB065	What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?	multistate 1:Possessor-Possessed; 2:Possessed-Possessor; 3: both	1	Niinaga (2014:57-58)			"jumɨ=nu naaja
 [daughter.in.law=GEN name=TOP]
 ‘the name of the daughter-in-law’"
-GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	1	Niinaga (2010:52, 61, 71)			"taa-sa=nu tar-an tall-nlz=nom be.su cient-neg.npst 
+GB068	Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?	1: present, 0: absent	1	Niinaga (2010:52, 61, 71)			"taa-sa=nu tar-an tall-nlz=nom be.su cient-neg.npst 
 ‘(It) is not tall enough.’
 b. an kɨɨ=nu taa-sa
 that tree=nom tall-nlz 
@@ -308,16 +308,13 @@ GB323	Is there grammatical marking of indirect evidence (hearsay, inference, etc
 GB324	Is there an interrogative verb for content interrogatives (who?, what?, etc.)?	1: present, 0: absent	?	Niinaga (2010:35-87)	Not mentioned.		
 GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	1	Niinaga (2010:51, 55)			"ikjassa 'how much?’
 ikutai, iku-cɨ ‘how many?’ (depending on the class)"
-GB326	Do (nominal) content interrogatives normally or frequently occur in situ?	1: present, 0: absent	1	Niinaga (2010:51)		"NLZ=nominalizer
+GB326	Do (nominal) content interrogatives normally or frequently occur in situ?	1: present, 0: absent	1	Niinaga (2010:51, 75)	Most often they occur in situ.	"NLZ=nominalizer
 UMRK=unmarked verbal affix"	"urəə taa ʔkin ?
 that.top whose kimono 
 ‘Whose kimono is that?’ 
 ta-ru ga mut-tɨ k-tar-u
 [who-NLZ=FOC have-SEQ come-PST-PFC]
-‘Who brought (the picture here)?’
-nuu sɨr-jur-tɨ ga asɨb-tur-tar=kai
-[what do-UMRK-SEQ=FOC play-PROG-PST=DUB]
-‘What did (we) do (when we) were playing (around here)?’"
+‘Who brought (the picture here)?’"
 GB327	Can the relative clause follow the noun?	1: present, 0: absent	0	Niinaga (2014:58)			
 GB328	Can the relative clause precede the noun?	1: present, 0: absent	1	Niinaga (2010:53, 60, 65); Niinaga (2014:58)			"wan=ga ʔkinjuu mu-tan nɨkan=ba tur-ɨ ! 1sg=nom yesterday pick.up-pst.adn orange=acc take-imp 
 ‘Take the orange I picked up yesterday!’ 

@@ -50,13 +50,13 @@ GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A
 GB073	Are there morphological cases for oblique independent personal pronouns (i.e. not S/A/P)?	1: present, 0: absent	1	Sohn (1994:281)			
 GB074	Are there prepositions?	1: present, 0: absent	0	Sohn (1999:204, 212-213)			
 GB075	Are there postpositions?	1: present, 0: absent	1	Sohn (1999:204, 212-213)			
-GB079	Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	0	Sohn (1999:216); Sohn (2015:324) Grammaticalization			
-GB080	Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	1	Sohn (1999:216, 265); Sohn (2015:324) Grammaticalization			
+GB079	Do verbs have prefixes/proclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	0	Sohn (1999:216); Sohn (2015:324)			
+GB080	Do verbs have suffixes/enclitics, other than those that ONLY mark A, S or O (do include portmanteau: A & S + TAM)?	1: present, 0: absent	1	Sohn (1999:216, 265); Sohn (2015:324)			
 GB081	Is there productive infixation in verbs?	1: present, 0: absent	0	Sohn (1994:1-430)			
 GB082	Is there overt morphological marking of present tense on verbs?	1: present, 0: absent	0	Sohn (1999:233)			
 GB083	Is there overt morphological marking on the verb dedicated to past tense?	1: present, 0: absent	1	Sohn (1999:233)		-(e/a)ss	
 GB084	Is there overt morphological marking on the verb dedicated to future tense?	1: present, 0: absent	1	Sohn (1999:233-234)	it is described as ‘prospective mood’	-(u)l(i)	
-GB086	Is a morphological distinction between perfective and imperfective aspect available on verbs?	1: present, 0: absent	0	Sohn (1999:275, 303, 386-388); Sohn (2015:324) Grammaticalization			
+GB086	Is a morphological distinction between perfective and imperfective aspect available on verbs?	1: present, 0: absent	0	Sohn (1999:275, 303, 386-388); Sohn (2015:324)			
 GB089	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	Sohn (1994:1-430)			
 GB090	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?	1: present, 0: absent	0	Sohn (1994:1-430)			
 GB091	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?	1: present, 0: absent	0	Sohn (1994:1-430)			
@@ -85,7 +85,7 @@ GB116	Do verbs classify the shape, size or consistency of absolutive arguments b
 GB117	Is there a copula for predicate nominals?	1: present, 0: absent	1	Sohn (1999:281)			
 GB118	Are there serial verb constructions?	1: present, 0: absent	1	Sohn (1999:380-381)			
 GB119	"Can mood be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Sohn (1999:358-362)			
-GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Sohn (1999:275, 303, 386-388); Sohn (2015:324) Grammaticalization			
+GB120	"Can aspect be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	1	Sohn (1999:275, 303, 386-388); Sohn (2015:324)			
 GB121	"Can tense be marked by an inflecting word (""auxiliary verb"")?"	1: present, 0: absent	0	Sohn (1999:362-366)			
 GB122	Is verb compounding a regular process?	1: present, 0: absent	1	Sohn (1999:252-255)			"kep-nata
 [fear-come.out]
@@ -95,7 +95,7 @@ sal-ccita
 ‘gain weight’"
 GB123	Are there verb-adjunct (aka light-verb) constructions?	1: present, 0: absent	1	Sohn (1999:205)			ssilum-hanta [wrestling-do] ‘[he] wrestles’
 GB124	Is incorporation of nouns into verbs a productive intransitivizing process?	1: present, 0: absent	0	Sohn (1994:1-430)			
-GB126	Is there an existential verb?	1: present, 0: absent	1	Sohn (1999:210); Sohn (2015:324) Grammaticalization			"kyeysita ‘exist, stay (honorific)’
+GB126	Is there an existential verb?	1: present, 0: absent	1	Sohn (1999:210); Sohn (2015:324)			"kyeysita ‘exist, stay (honorific)’
 issta ‘stay, exist'"
 GB127	Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?	1: present, 0: absent	?	Sohn (1994:1-430)	Not mentioned.		
 GB129	Is there a notably small number, i.e. about 100 or less, of verb roots in the language?	1: present, 0: absent	0	Sohn (1994:1-430)			
@@ -125,7 +125,7 @@ GB150	Is there clause chaining?	1: present, 0: absent	1	Sohn (1999:365); Sohn (1
 sister TOP meal ACC not eat-and school to go-PST-DC
 'My sister did not eat her meal and went to school.'"
 GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	0	Sohn (1994:1-430)			
-GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	Sohn (1999:239, 308-309); Sohn (2015:325) Grammaticalization		-konase ‘after doing’, -(u)myense ‘while’, -nula-myen ‘while doing’ etc.	
+GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	Sohn (1999:239, 308-309); Sohn (2015:325)		-konase ‘after doing’, -(u)myense ‘while’, -nula-myen ‘while doing’ etc.	
 GB155	Are causatives formed by affixes or clitics on verbs?	1: present, 0: absent	1	Sohn (1999:323, 331, 376)		CAUS: -y, -i, -hi, -li, -ki, -khi, -(i)wu, -chwu, -kwu, -ay	
 GB156	Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?	1: present, 0: absent	1	Sohn (1999:323, 331, 376)			"Kiho nun Nami ka ttena-ss-ta ko hay-ss-ta
 [Kiho TOP Nami NOM leave-PST-DECL QUOT say-PST-DECL]
@@ -265,7 +265,7 @@ nol-assta [play-PST] ‘played'"
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Sohn (1999:181-182)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Sohn (1999:162)			
 TE006	Is there an initial r-?	1: present, 0: absent	1	Sohn (1999:162)			
-TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Sohn (1999:160); Cho (2015:28) Syllable-based phonological processes		only glides are allowed (CGV)	
+TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Sohn (1999:160); Cho (2015:28)		only glides are allowed (CGV)	
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	0	Sohn (1999:153)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Sohn (1999:207)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	0	Sohn (1999:207)			
@@ -282,7 +282,7 @@ TE053	Are recipient and location expressed by the same marker?	1: present, 0: ab
 LOC: ey, eykey, hanthey, kkey, eyse, eykeyse, hantheyse"	
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	0	Sohn (1994:299)		"content: -ni and other speech level forms
 polar: -ni and other speech level forms"	
-TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	1	Sohn (1999:226-227, 367); Sohn (2015:324) Grammaticalization		"CAUS: -y, -i, -hi, -li, -ki, -khi, -(i)wu, -chwu, -kwu, -ay
+TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	1	Sohn (1999:226-227, 367); Sohn (2015:324)		"CAUS: -y, -i, -hi, -li, -ki, -khi, -(i)wu, -chwu, -kwu, -ay
 PASS: -i, -hi, -ki, -li"	"po-i-ta
 [see-CAUS/PASS-DECL]
 ‘be seen; show’"

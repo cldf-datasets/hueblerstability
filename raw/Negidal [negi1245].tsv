@@ -86,7 +86,7 @@ GB103	Is there a benefactive applicative marker on the verb (including indexing)
 GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Tsintsius (1982:3-308); Tsintsius (1997:188-201)			
 GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
 GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	0	Tsintsius (1997:195); Tsintsius (1982:24)			
-GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	1	Pakendorf (in preparation)	"""Like other Tungusic languages (cf. Stojnova 2016, to appear), the North Tungusic languages have an associated motion suffix –nA that expresses mainly andative meanings, but can have ventive readings as well. This adds a directional argument to the argument structure”"		
+GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	1	Pakendorf (2020a:300)	"""Like other Tungusic languages (cf. Stojnova 2016, to appear), the North Tungusic languages have an associated motion suffix –nA that expresses mainly andative meanings, but can have ventive readings as well. This adds a directional argument to the argument structure”"		
 GB109	Is there verb suppletion for participant number?	1: present, 0: absent	0	Tsintsius (1997:198-199)		There is no suppletion whatsoever.	
 GB110	Is there verb suppletion for tense or aspect?	1: present, 0: absent	0	Tsintsius (1982:3-308); Tsintsius (1997:188-201)		There is no suppletion whatsoever.	
 GB111	Are there conjugation classes?	1: present, 0: absent	?	Tsintsius (1982:3-308); Tsintsius (1997:188-201)	Not mentioned.		
@@ -174,15 +174,15 @@ GB203	What is the order of the adnominal collective universal quantifier ('all')
 GB204	Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?	1: present, 0: absent	?	Tsintsius (1982:3-308); Tsintsius (1997:188-201)	Not mentioned.		
 GB250	Can predicative possession be expressed with a transitive 'habeo' verb?	1: present, 0: absent	0	Tsintsius (1982:3-308); Tsintsius (1997:188-201)	Not mentioned.		
 GB252	Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?	1: present, 0: absent	0	Tsintsius (1982:3-308); Tsintsius (1997:188-201)	Not mentioned.		
-GB253	Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?	1: present, 0: absent	1	Pakendorf (in preparation)			"taj bəjə-l-du hute-tin bi-ča-n 
+GB253	Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?	1: present, 0: absent	1	Pakendorf (2020a:301)			"taj bəjə-l-du hute-tin bi-ča-n 
 that person-PL-DAT offspring-POSS.3PL be-PST-3SG 
 ‘Those people had a child’"
-GB254	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	1: present, 0: absent	0	Pakendorf (in preparation)	Not mentioned.		
-GB256	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	1: present, 0: absent	0	Pakendorf (in preparation)	Not mentioned.		
+GB254	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	1: present, 0: absent	0	Pakendorf (2020a:301)	Not mentioned.		
+GB256	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	1: present, 0: absent	0	Pakendorf (2020a:301)	Not mentioned.		
 GB257	Can polar interrogation be marked by intonation only?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
 GB260	Can polar interrogation be indicated by a special word order?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
 GB262	Is there a clause-initial polar interrogative particle?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			
-GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	Oskolskaya (p.c. 2017); Pakendorf (in preparation)			"čewka:ŋ-ŋa-s ǯəb-ǯə-m=ŋu
+GB263	Is there a clause-final polar interrogative particle?	1: present, 0: absent	1	Oskolskaya (p.c. 2017); Pakendorf (2020a:301)			"čewka:ŋ-ŋa-s ǯəb-ǯə-m=ŋu
 [little.bird-ACC.DEF-POSS.2SG eat-FUT-1SG=Q]
 ’May I eat your little bird?"
 GB264	Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?	1: present, 0: absent	0	Oskolskaya (p.c. 2017)			

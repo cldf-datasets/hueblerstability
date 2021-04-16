@@ -101,7 +101,7 @@ GB103	Is there a benefactive applicative marker on the verb (including indexing)
 GB104	Is there an instrumental applicative marker on the verb (including indexing)?	1: present, 0: absent	0	Lebedev (1978:38-105)			
 GB105	Can the recipient in a ditransitive construction be marked like the monotransitive patient?	1: present, 0: absent	0	Lebedev (1978:50)			
 GB107	Can standard negation be marked by an affix, clitic or modification of the verb?	1: present, 0: absent	?	Lebedev (1978:87)	Probably not, not mentioned.		
-GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	1	Pakendorf (in preparation)	“Like other Tungusic languages (cf. Stojnova 2016, to appear), the North Tungusic languages have an associated motion suffix –nA that expresses mainly andative meanings, but can have ventive readings as well. This adds a directional argument to the argument structure.” Lebedev (1978:38-105): there is marking indicating a reverse action: bring - bring back		
+GB108	Is there directional or locative morphological marking on verbs?	1: present, 0: absent	1	Pakendorf (2020a:300)	“Like other Tungusic languages (cf. Stojnova 2016, to appear), the North Tungusic languages have an associated motion suffix –nA that expresses mainly andative meanings, but can have ventive readings as well. This adds a directional argument to the argument structure.” Lebedev (1978:38-105): there is marking indicating a reverse action: bring - bring back		
 GB109	Is there verb suppletion for participant number?	1: present, 0: absent	?	Lebedev (1978:38-105)	Not mentioned.		
 GB110	Is there verb suppletion for tense or aspect?	1: present, 0: absent	?	Lebedev (1978:38-105)	Not mentioned.		
 GB111	Are there conjugation classes?	1: present, 0: absent	1	Lebedev (1978:85)		tense markers depend on the conjugation class	
@@ -153,11 +153,7 @@ find-PASS-IND
 GB148	Is there a morphological antipassive marked on the lexical verb?	1: present, 0: absent	0	Lebedev (1978:38-105)			
 GB149	Is there a morphologically marked inverse on verbs?	1: present, 0: absent	0	Lebedev (1978:38-105)			
 GB150	Is there clause chaining?	1: present, 0: absent	?	Lebedev (1978:38-105)	Not mentioned.		
-GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	?	Pakendorf (in preparation)	there is a marker in Lamunkhin and Bystraja dialects of Even		"ee, kuŋa bi-hiŋi-j buollar upeː-je-ŋ-čel 
-eh child be-VS.IPFV-PRFL.SG DP.Y grandmother-ASSOC-ALN-COM 
-bi-j-deg-im=diː 
-be-CONN-ASS.Y-1SG.Y=EMPH.Y 
-‘When I was a child I lived with my grandmother and her family.’"
+GB151	"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?"	1: present, 0: absent	0	Lebedev (1978:38-105)			
 GB152	Is there a morphologically marked distinction between simultaneous and sequential clauses?	1: present, 0: absent	1	Lebedev (1978:95)		"participles:
 -ŋhi SIM
 -riʤi SEQ (event happened before another one)"	"umbe-du bolïhï-ŋhi-vur ho:jav ujamkam ʤeptit

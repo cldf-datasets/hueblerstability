@@ -13,7 +13,7 @@ girl with boy
 ‘girl and boy’"
 GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Li (2011:46)			
 GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Li (2011:46)			
-GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	1	Li (2011:84); Pakendorf (2020:293)			bihikki ‘you and me’
+GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	1	Li (2011:84); Pakendorf (2020b:293)			bihikki ‘you and me’
 GB035	Are there three or more distance contrasts in demonstratives?	1: present, 0: absent	1	Li (2011:79)			
 GB036	Do demonstratives show an elevation distinction?	1: present, 0: absent	0	Li (2011:1-309)			
 GB037	Do demonstratives show a visible-nonvisible distinction?	1: present, 0: absent	0	Li (2011:1-309)			
@@ -148,7 +148,7 @@ GB132	Is a pragmatically unmarked constituent order verb-medial for transitive c
 1PL eat-PRS-1PL bread-ACC
 ‘We eat bread.’"
 GB133	Is a pragmatically unmarked constituent order verb-final for transitive clauses?	1: present, 0: absent	1	Li (2011:259)			
-GB134	Is the order of constituents the same in main and subordinate clauses?	1: present, 0: absent	1	Pakendorf (2020:444)			"kogda min oččuguj er-dek-pine kihi-ler-ge iːt-illi-bit-im 
+GB134	Is the order of constituents the same in main and subordinate clauses?	1: present, 0: absent	1	Pakendorf (2020b:444)			"kogda min oččuguj er-dek-pine kihi-ler-ge iːt-illi-bit-im 
 when.R 1SG tiny be-TEMP-COND.1SG human-PL-DAT raise-PASS-PST.PTC-POSS.1SG 
 ‘When I was small I was raised by (other) people.’"
 GB135	Do clausal objects usually occur in the same position as nominal objects?	1: present, 0: absent	1	Li (2011:162-163)			"min kni:ga-nї a:k-a:rї gїn-a-bїn
@@ -202,12 +202,12 @@ GB197	Is there a male/female distinction in 1st person independent pronouns?	1: 
 GB198	Can an adnominal numeral agree with the noun in gender/noun class?	1: present, 0: absent	0	Li (2011:48)			
 GB203	What is the order of the adnominal collective universal quantifier ('all') and the noun?	0: no UQ, 1: UQ-N, 2: N-UQ, 3: both	1	Li (2011:84)			
 GB204	Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?	1: present, 0: absent	1	Li (2011:118)			a:yï ‘every, each’, barї ‘all’
-GB250	Can predicative possession be expressed with a transitive 'habeo' verb?	1: present, 0: absent	0	Li (2011:77); Pakendorf (430-445)			
-GB252	Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?	1: present, 0: absent	0	Li (2011:77); Pakendorf (2020:430-445)			
+GB250	Can predicative possession be expressed with a transitive 'habeo' verb?	1: present, 0: absent	0	Li (2011:77); Pakendorf (2020b:430-445)			
+GB252	Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?	1: present, 0: absent	0	Li (2011:77); Pakendorf (2020b:430-445)			
 GB253	Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?	1: present, 0: absent	1	Li (2011:77)			"min-ieke ba:r kar
 1SG-DAT existent money
 ‘I have money.’"
-GB254	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	1: present, 0: absent	0	Li (2011:77); Pakendorf (430-445)			
+GB254	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	1: present, 0: absent	0	Li (2011:77); Pakendorf (2020b:430-445)			
 GB256	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	1: present, 0: absent	1	Li (2011:96, 264)		-LAːχ/-LA:k	"gini uol ogo-lo:x
 1SG male child-having
 ‘He has a son.’
@@ -242,7 +242,7 @@ GB300	Does the verb for 'give' have suppletive verb forms?	1: present, 0: absent
 GB301	Is there an inclusory construction?	1: present, 0: absent	0	Li (2011:61)	probably not		
 GB302	Is there a phonologically free passive marker ('particle' or 'auxiliary')?	1: present, 0: absent	0	Li (2011:122-123)			
 GB303	Is there a phonologically free antipassive marker ('particle' or 'auxiliary')?	1: present, 0: absent	0	Li (2011:122-123)			
-GB304	Can the agent be expressed overtly in a passive clause?	1: present, 0: absent	1	Pakendorf (2020:444); Li (2011:278)	it is nearly always omitted, but it can be expressed		
+GB304	Can the agent be expressed overtly in a passive clause?	1: present, 0: absent	1	Pakendorf (2020b:444); Li (2011:278)	it is nearly always omitted, but it can be expressed		
 GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	1	Li (2011:86)			
 GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	0	Li (2011:88)	it is bipartite		"beye beye
 REFL REFL

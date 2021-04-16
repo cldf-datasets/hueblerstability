@@ -63,7 +63,7 @@ GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/
 GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Andreev (1961:614); Levitskaja (1976:29-31); Savelev (p.c. 2016)		"1SG
 NOM Ele
 DAT/ACC man-a"	
-GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Andreev (1997:486-487); Levitskaja (1976:18-28		"locative -ta/-če
+GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Andreev (1997:486-487); Levitskaja (1976:18-28)		"locative -ta/-če
 ablative -ran/-ren/-tan/-ten
 instrumental-comitative -pa/-pe
 abessiv -s@r
@@ -296,7 +296,7 @@ sakǎ ěneněn ‘of this cow’"
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Andreev (1997:483)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Savelev (p.c. 2016)		there is no velar nasal	
 TE006	Is there an initial r-?	1: present, 0: absent	0	Krueger (1961:53); Savelev (p.c. 2016)		only in borrowings	
-TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	c		borrowings or personal names	
+TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Savelev, Alexandr (p.c. 2016)		borrowings or personal names	
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	0	Savelev (p.c. 2016)		distinction: semi-voiced vs. voiceless geminates	
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Levitskaja (1976:29-31); Savelev (p.c. 2016)		bi-si	"1SG
 NOM Ele
