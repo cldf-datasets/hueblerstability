@@ -346,7 +346,7 @@ four.CLF:PERSON=GEN woman=NOM exist-IND
 TS002	Can numeral follow the noun?	1: present, 0: absent	1	van der Lubbe (2015:351)			"wunagu=nu juttai wu-ŋ
 woman=NOM four.CLF:PERSON exist-IND
 ‘There are four women.’ (Masana)"
-TS003	Can demonstrative precede the noun?	1: present, 0: absent	1	van der Lubbe (2015:359)			"aŋ tʃuu=wa ʔerabu=nu tʃuu DEM person=TOP Okinoerabu=GEN person COP:NEG-IND
+TS003	Can demonstrative precede the noun?	1: present, 0: absent	1	van der Lubbe (2015:359)			"aŋ tʃuu=wa ʔerabu=nu tʃuu,DEM person=TOP Okinoerabu=GEN person COP:NEG-IND
 ‘That person is not from Okinoerabu.’ "
 TS004	Can demonstrative follow the noun?	1: present, 0: absent	0	van der Lubbe (2015:345-376)			
 TS005	Can adnominal possessor precede the possessed noun?	1: present, 0: absent	1	van der Lubbe (2015:352)			
