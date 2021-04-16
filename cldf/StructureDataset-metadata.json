@@ -16,13 +16,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/hueblerstability",
-            "dc:created": "e4cb662"
+            "dc:created": "c53947b"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes-326-gea763abd75"
+            "dc:created": "v4.3"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -35,7 +35,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "huebler",
+    "rdf:ID": "hueblerstability",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
@@ -155,7 +155,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2889,
+            "dc:extent": 2885,
             "tableSchema": {
                 "columns": [
                     {

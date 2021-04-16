@@ -3,7 +3,8 @@ bs4==0.0.1
 certifi==2020.12.5
 chardet==4.0.0
 cldfbench==1.6.0
--e git+https://github.com/cldf-datasets/hueblerstability@e4cb662cd2c31118e7b2c79868848dd6c967b76b#egg=cldfbench_hueblerstability
+-e git+https://github.com/cldf-datasets/hueblerstability@c53947b282de12f1570f345b9ea4bb48bd640514#egg=cldfbench_hueblerstability
+-e git+https://github.com/cldf-datasets/jipa.git@fa05fe2b7daae9de891f86718f44e40d09da4bcf#egg=cldfbench_jipa
 cldfcatalog==1.3.0
 clldutils==3.7.0
 colorlog==4.8.0
@@ -22,6 +23,7 @@ purl==1.5
 py==1.10.0
 pybtex==0.24.0
 pycldf==1.19.0
+pyclts==3.0.2
 pycountry==20.7.3
 pyglottolog==3.4.1
 pytest==6.2.3
@@ -34,6 +36,7 @@ SQLAlchemy==1.4.6
 tabulate==0.8.9
 termcolor==1.1.0
 tqdm==4.60.0
+Unidecode==1.2.0
 uritemplate==3.0.1
 urllib3==1.26.4
 xlrd==2.0.1

@@ -9,8 +9,28 @@ from cldfbench import Dataset as BaseDataset
 
 REF_PATTERNS = [
     re.compile(r'(?P<author>[^(]+)\((?P<year>[^:)]+)(:(?P<pages>.*))?\)'),
-    re.compile(r'(?P<author>[^\s]+)\s+(?P<year>[0-9]{4})'),
+    re.compile(r'(?P<author>[^\s]+)\s+(?P<year>[0-9]{4}[a-z]?)'),
 ]
+
+SOURCES = {
+    'cho2015syllable': """
+@article{cho2015syllable,
+  title={Syllable-based phonological processes},
+  author={Cho, Young-mee Yu},
+  journal={The handbook of Korean linguistics},
+  pages={22},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+""",
+    'skhatyla': """
+@misc{sakhatyla,
+  title = {SakhaTyla.Ru},
+  url = {https://sakhatyla.ru/},
+  howpublished = {Online dictionary}
+}
+"""
+}
 
 
 @attr.s
@@ -40,13 +60,10 @@ def match_ref(ref):
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
-    id = "huebler"
+    id = "hueblerstability"
 
     def cldf_specs(self):
-        return CLDFSpec(
-            dir=self.cldf_dir,
-            module="StructureDataset",
-        )
+        return CLDFSpec(dir=self.cldf_dir, module="StructureDataset")
 
     def cmd_download(self, args):
         pass
@@ -63,8 +80,6 @@ class Dataset(BaseDataset):
         for eid, ex in examples.items():
             for i, e in enumerate(ex, start=1):
                 e['ID'] = '{}-{}'.format(e['ID'], i)
-        missing = collections.Counter()
-        unknown = collections.Counter()
         pids, srcids, codes = set(), set(), collections.defaultdict(set)
         for sheet in self.raw_dir.glob('*.tsv'):
             m = re.fullmatch(r'(?P<name>[^\[]+)\[(?P<gc>[a-z0-9]{8})]', sheet.stem)
@@ -88,15 +103,36 @@ class Dataset(BaseDataset):
 
                 refs = []
                 for ref in val['Source'].split(';'):
+                    ref = ref.strip()
+                    if not ref:
+                        continue
+                    if ref == 'Savelev, Alexandr (p.c. 2016)':
+                        val['Comment'] = 'Source: ' + ref
+                        val['Source'] = ''
+                        continue
+                    if ref in {
+                        'Sakha online dictionary (SakhaTyla.ru)',
+                        'Sakha online dictionary, 2018',
+                        'Sakha online dictionary',
+                    }:
+                        refs.append('sakhatyla')
+                        srcids.add('sakhatyla')
+                        continue
+                    elif ref in {
+                        'Cho (2015:28) Syllable-based phonological processes',
+                    }:
+                        refs.append('cho2015syllable')
+                        srcids.add('cho2015syllable')
+                        continue
                     reference = match_ref(ref)
                     if reference:
                         if reference.key not in sources:
-                            missing.update([reference.key])
+                            raise ValueError(reference.key)
                         elif sources[reference.key]['matchid']:
                             refs.append(reference.as_cldf(sources[reference.key]['matchid']))
                             srcids.add(sources[reference.key]['matchid'])
                     else:
-                        unknown.update([ref])
+                        raise ValueError(ref)
 
                 args.writer.objects['ValueTable'].append(dict(
                     ID='{}-{}'.format(val['Grambank ID'], gc),
@@ -115,7 +151,6 @@ class Dataset(BaseDataset):
                         Parameter_ID=pid,
                         Name=val,
                     ))
-        misligned = 0
         for exs in examples.values():
             for ex in exs:
                 if not ex['Primary_Text']:
@@ -125,20 +160,15 @@ class Dataset(BaseDataset):
                 if not ex['Gloss']:
                     ex['Gloss'] = None
                 if ex['Gloss'] and len(ex['Analyzed_Word']) != len(ex['Gloss']):
-                    print(ex['ID'])
-                    print(ex['Analyzed_Word'])
-                    print(ex['Gloss'])
-                    misligned += 1
+                    raise ValueError()
                 args.writer.objects['ExampleTable'].append(ex)
-        print(misligned)
         for srcid in sorted(srcids):
-            src = glottolog.bibfiles[srcid]
-            src.key = srcid
-            args.writer.cldf.add_sources(str(src))
-
-        for k, v in missing.most_common():
-            print(k, v)
-        return
+            if srcid in SOURCES:
+                args.writer.cldf.add_sources(SOURCES[srcid])
+            else:
+                src = glottolog.bibfiles[srcid]
+                src.key = srcid
+                args.writer.cldf.add_sources(str(src))
 
     def _schema(self, cldf):
         cldf.add_columns(
