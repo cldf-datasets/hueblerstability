@@ -265,7 +265,7 @@ nol-assta [play-PST] ‘played'"
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Sohn (1999:181-182)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Sohn (1999:162)			
 TE006	Is there an initial r-?	1: present, 0: absent	1	Sohn (1999:162)			
-TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Sohn (1999:160); Cho (2015:28) Syllable-based phonological processes		only glides are allowed (CGV)	
+TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Sohn (1999:160); Cho (2015:28)		only glides are allowed (CGV)	
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	0	Sohn (1999:153)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Sohn (1999:207)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	0	Sohn (1999:207)			

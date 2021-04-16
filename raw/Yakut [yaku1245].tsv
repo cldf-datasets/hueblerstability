@@ -168,7 +168,7 @@ GB171	Can an adnominal demonstrative agree with the noun in gender/noun class?	1
 GB172	Can an article agree with the noun in gender/noun class?	1: present, 0: absent	0	Kharitonov (1982)			
 GB177	Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument visible in the NP domain?	1: present, 0: absent	0	Kharitonov (1982)			
 GB184	Can an adnominal property word agree with the noun in number?	1: present, 0: absent	0	Pakendorf (2020b:437); Kharitonov (1982:156)	there is no agreement between the adjective and the noun		
-GB185	Can an adnominal demonstrative agree with the noun in number?	1: present, 0: absent	0	Sakha online dictionary, 2018			
+GB185	Can an adnominal demonstrative agree with the noun in number?	1: present, 0: absent	0	Sakha online dictionary (2018)			
 GB186	Can an article agree with the noun in number?	1: present, 0: absent	0	Kharitonov (1982)			
 GB187	Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?	1: present, 0: absent	1	Kharitonov (1982:112)	-ka and allomorphs, -čaan and allomorphs, both borrowed from Tungusic languages (Even and Evenki)		"kїїs-ča:n
 girl-DIM
@@ -230,7 +230,7 @@ GB304	Can the agent be expressed overtly in a passive clause?	1: present, 0: abs
 GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	1	Pakendorf (2020b:435); Kharitonov (1982:203)		beye	"beye-ɣin χarïstan
 REFL-2SG protect
 ‘Take care of yourself!’"
-GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	0	Sakha online dictionary		beye beye ‘each other’	
+GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	0	Sakha online dictionary (2018)		beye beye ‘each other’	
 GB309	Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?	1: present, 0: absent	1	Kharitonov (1982:308-317)		"past categorical tense: -t/-d/-l/-n
 past narrative tense: -bїt/-pїt/-mїt + 1st type of person marking
 past perfect tense: -bїt + e-"	
@@ -257,7 +257,7 @@ GB323	Is there grammatical marking of indirect evidence (hearsay, inference, etc
 GB324	Is there an interrogative verb for content interrogatives (who?, what?, etc.)?	1: present, 0: absent	1	Kharitonov (1982:198)			"onu min χayїї-bїn
 [this 1SG do.what-1SG]
 ‘What do I have to do with it?’"
-GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	1	Kharitonov (1982:176, 199); Sakha online dictionary (SakhaTyla.ru); Pakendorf (2020b:436)		"töhö ‘how much?’
+GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	1	Kharitonov (1982:176, 199); Sakha online dictionary (2018); Pakendorf (2020b:436)		"töhö ‘how much?’
 χas ‘how many?’"	"χas kihi kelle
 [how.many person come]
 ‘How many people came?’
