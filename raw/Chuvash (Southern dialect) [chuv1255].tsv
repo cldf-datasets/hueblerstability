@@ -63,7 +63,7 @@ GB070	Are there morphological cases for non-pronominal core arguments (i.e. S/A/
 GB071	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?	1: present, 0: absent	1	Andreev (1961:614); Levitskaja (1976:29-31); Savelev (p.c. 2016)		"1SG
 NOM Ele
 DAT/ACC man-a"	
-GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Andreev (1997:486-487); Levitskaja (1976:18-28		"locative -ta/-če
+GB072	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?	1: present, 0: absent	1	Andreev (1997:486-487); Levitskaja (1976:18-28)		"locative -ta/-če
 ablative -ran/-ren/-tan/-ten
 instrumental-comitative -pa/-pe
 abessiv -s@r

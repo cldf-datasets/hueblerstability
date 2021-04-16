@@ -3,7 +3,7 @@ GB020	Are there definite or specific articles?	1: present, 0: absent	0	Kharitono
 GB021	Do indefinite nominals commonly have indefinite articles?	1: present, 0: absent	0	Kharitonov (1982)			
 GB022	Are there prenominal articles?	1: present, 0: absent	0	Kharitonov (1982)			
 GB023	Are there postnominal articles?	1: present, 0: absent	0	Kharitonov (1982)			
-GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Pakendorf (2020:438); Kharitonov (1982:125, 176)			
+GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Pakendorf (2020b:438); Kharitonov (1982:125, 176)			
 GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Kharitonov (1982:193)			
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	1	Fanselow (p.c. 2017)			
 GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	1	Kharitonov (1982:430, 472)		"coordination: itienne, uonna, da, daɣanï, ikki, buolan
@@ -191,7 +191,7 @@ barї doydu-lar
 all country-PL
 ‘all countries’"
 GB250	Can predicative possession be expressed with a transitive 'habeo' verb?	1: present, 0: absent	0	Pakendorf (2020b:443)			
-GB252	Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?	1: present, 0: absent	0	Pakendorf (2020b:443			
+GB252	Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?	1: present, 0: absent	0	Pakendorf (2020b:443)			
 GB253	Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?	1: present, 0: absent	0	Pakendorf (2020b:443)			
 GB254	Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?	1: present, 0: absent	0	Pakendorf (2020b:443)			
 GB256	Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?	1: present, 0: absent	1	Pakendorf (2020b:443)	proprietative suffix -LAːχ, which is also used to coordinate to nouns and to express associative meaning		"oɣonńor-do:𝞆-𝞆un duo
@@ -230,7 +230,7 @@ GB304	Can the agent be expressed overtly in a passive clause?	1: present, 0: abs
 GB305	Is there a phonologically independent reflexive pronoun?	1: present, 0: absent	1	Pakendorf (2020b:435); Kharitonov (1982:203)		beye	"beye-ɣin χarïstan
 REFL-2SG protect
 ‘Take care of yourself!’"
-GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	0	Yakut online dictionary		beye beye ‘each other’	
+GB306	Is there a phonologically independent non-bipartite reciprocal pronoun?	1: present, 0: absent	0	Sakha online dictionary		beye beye ‘each other’	
 GB309	Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?	1: present, 0: absent	1	Kharitonov (1982:308-317)		"past categorical tense: -t/-d/-l/-n
 past narrative tense: -bїt/-pїt/-mїt + 1st type of person marking
 past perfect tense: -bїt + e-"	
@@ -257,7 +257,7 @@ GB323	Is there grammatical marking of indirect evidence (hearsay, inference, etc
 GB324	Is there an interrogative verb for content interrogatives (who?, what?, etc.)?	1: present, 0: absent	1	Kharitonov (1982:198)			"onu min χayїї-bїn
 [this 1SG do.what-1SG]
 ‘What do I have to do with it?’"
-GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	1	Kharitonov (1982:176, 199); Yakut online dictionary (SakhaTyla.ru); Pakendorf (2020b:436)		"töhö ‘how much?’
+GB325	Is there a count/mass distinction in interrogative quantifiers?	1: present, 0: absent	1	Kharitonov (1982:176, 199); Sakha online dictionary (SakhaTyla.ru); Pakendorf (2020b:436)		"töhö ‘how much?’
 χas ‘how many?’"	"χas kihi kelle
 [how.many person come]
 ‘How many people came?’
