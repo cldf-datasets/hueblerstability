@@ -207,7 +207,7 @@ GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause w
 TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Hahn (1998:383)			
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Hahn (1998:383)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Hahn (1998:381-382)			
-TE006	Is there an initial r-?	1: present, 0: absent	1	Hahn (1998:381-382)			
+TE006	Is there an initial r-?	1: present, 0: absent	?	Hahn (1998:381-382)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Hahn (1998:381-382)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Hahn (1998:381-382)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Hahn (1998:390-391)			
@@ -216,7 +216,7 @@ TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: 
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Hahn (1998:381-382)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Hahn (1998:381-382)	But very restricted		
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Hahn (1998:381-382)			
-TE039	Is there vowel length distinction?	1: present, 0: absent	1	Hahn (1998:381-382)			
+TE039	Is there vowel length distinction?	1: present, 0: absent	0	Hahn (1998:380)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Hahn (1998:388)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	1	Hahn (1998:389)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	0	Krueger (1997:113)			

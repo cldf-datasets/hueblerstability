@@ -273,13 +273,13 @@ TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Harisson (2000
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Krueger (1997:105)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Krueger (1997:106)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Harisson (2000:14)			
-TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Krueger (1997:97)			
+TE008	Is there a voicing distinction in stops?	1: present, 0: absent	0	Krueger (1997:97)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Krueger (1997:123)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Krueger (1997:123)		both nominative and oblique form of personal pronouns end with a dental nasal	"men-de
 1SG-LOC"
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Krueger (1997:123-124)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Krueger (1997:105)			
-TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Krueger (1997:97)			
+TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Krueger (1997:97)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Krueger (1997:97)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Krueger (1997:89)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Krueger (1997:117)			"če:rbi beš kiži

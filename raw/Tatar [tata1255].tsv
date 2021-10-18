@@ -343,8 +343,8 @@ TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Poppe (1963:15-16)
 at-lar horse-PL ‘horses’"
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Poppe (1963:15-16)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Poppe (1963:12)			
-TE006	Is there an initial r-?	1: present, 0: absent	?	Poppe (1963:13)	Not mentioned.		
-TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	?	Poppe (1963:8-28)	Not mentioned.		
+TE006	Is there an initial r-?	1: present, 0: absent	0	Zakiev (1997:362)	Very rarely.		
+TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Zakiev (1997:362)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Poppe (1963:10-13)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Poppe (1963:53-54)			
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Poppe (1963:53-54)			
@@ -395,7 +395,7 @@ all book-PL-ACC read-PRS.GER finish-PST-1SG
 ‘I have read all the books.’"
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	0	Poppe (1963:8-130)	modifiers normally precede their heads		
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Poppe (1963:15-16)			
-TS080	Is there labial vowel harmony?	1: present, 0: absent	?	Poppe (1963:15-16)			
+TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Zakiev (1997:362)			
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Poppe (1963:101)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Poppe (1963:101)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Poppe (1963:10-13)			

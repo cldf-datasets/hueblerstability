@@ -292,7 +292,7 @@ TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: abs
 tabe-ro [eat-IMP]"
 TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Hinds (1986:409-410)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Hinds (1986:228)			
-TS002	Can numeral follow the noun?	1: present, 0: absent	0	Hinds (1986:228)			
+TS002	Can numeral follow the noun?	1: present, 0: absent	1	Hinds (1986:228)			
 TS003	Can demonstrative precede the noun?	1: present, 0: absent	1	Hinds (1986:232-233)			
 TS004	Can demonstrative follow the noun?	1: present, 0: absent	0	Hinds (1986:232-233)			
 TS005	Can adnominal possessor precede the possessed noun?	1: present, 0: absent	1	Hinds (1986:138-139, 203)			"anata no atama

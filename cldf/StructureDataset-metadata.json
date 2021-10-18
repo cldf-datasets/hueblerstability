@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/hueblerstability",
-            "dc:created": "1139e34"
+            "dc:created": "0e7f7c0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -28,7 +28,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 13800,
+            "dc:extent": 13801,
             "tableSchema": {
                 "columns": [
                     {
@@ -316,7 +316,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 230,
+            "dc:extent": 231,
             "tableSchema": {
                 "columns": [
                     {
@@ -349,7 +349,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 396,
+            "dc:extent": 397,
             "tableSchema": {
                 "columns": [
                     {

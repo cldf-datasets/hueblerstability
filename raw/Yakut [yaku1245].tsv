@@ -314,7 +314,7 @@ tuk ‘lack’"
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	0	Kharitonov (1982:188-189)			min vs. en
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	0	Kharitonov (1982:188-189)		the nasal is lost in declination	min [1SG.NOM] - mieχe [1SG.DAT]
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Kharitonov (1982:188-189)			
-TE031	Is there a non-initial velar nasal?	1: present, 0: absent	0	Kharitonov (1982:55)			
+TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Antonov (1997: 515)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	0	Kharitonov (1982:55)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Kharitonov (1982:55)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Kharitonov (1982:39, 50-53)			kir ‘to gnaw’ - ki:r ‘to enter’

@@ -206,7 +206,7 @@ TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: 
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Rybatzki (2003:64)			
 TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Rybatzki (2003:64)			
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Rybatzki (2003:64)			
-TE039	Is there vowel length distinction?	1: present, 0: absent	1	Rybatzki (2003:57-81)			
+TE039	Is there vowel length distinction?	1: present, 0: absent	0	Rybatzki (2003:57-81)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Rybatzki (2003:78)			
 TE052	Are accusative-marked objects specific while unmarked objects are non-specific?	1: present, 0: absent	0	Rybatzki (2003:57-81)			
 TE053	Are recipient and location expressed by the same marker?	1: present, 0: absent	1	Rybatzki (2003:68)			

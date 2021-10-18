@@ -384,7 +384,7 @@ wash-INF
 ‘wash’"
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Kavitskaya (2010:25-26)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Kavitskaya (2010:13)			
-TE006	Is there an initial r-?	1: present, 0: absent	?	Kavitskaya (2010:19)	Not mentioned in the exceptions		
+TE006	Is there an initial r-?	1: present, 0: absent	0	Izidinova (1997: 302)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Kavitskaya (2010:21)			
 TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Kavitskaya (2010:10)			
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Kavitskaya (2010:45)			men-sen
