@@ -16,26 +16,26 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/hueblerstability",
-            "dc:created": "e4cb662"
+            "dc:created": "0e7f7c0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes-326-gea763abd75"
+            "dc:created": "v4.4"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "huebler",
+    "rdf:ID": "hueblerstability",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 13800,
+            "dc:extent": 13801,
             "tableSchema": {
                 "columns": [
                     {
@@ -155,7 +155,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2889,
+            "dc:extent": 2885,
             "tableSchema": {
                 "columns": [
                     {
@@ -316,7 +316,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 230,
+            "dc:extent": 231,
             "tableSchema": {
                 "columns": [
                     {
@@ -349,7 +349,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 396,
+            "dc:extent": 397,
             "tableSchema": {
                 "columns": [
                     {
