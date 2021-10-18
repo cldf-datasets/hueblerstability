@@ -12,7 +12,7 @@ setup(
         ]
     },
     install_requires=[
-        'pyglottolog>=3.4.1',
+        'pyglottolog>=3.6',
         'cldfbench',
     ],
     extras_require={

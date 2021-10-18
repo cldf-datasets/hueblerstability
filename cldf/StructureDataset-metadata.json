@@ -35,7 +35,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "huebler",
+    "rdf:ID": "hueblerstability",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
