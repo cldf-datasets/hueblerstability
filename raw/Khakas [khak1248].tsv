@@ -357,17 +357,22 @@ GB521	"Can tense be marked by a non-inflecting word (""auxiliary particle"")?"	1
 GB522	"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?"	1: present, 0: absent	1	Baskakov (1975:207-227)			"par-Ɣan pol-Ɣam
 go-PST.INDF be-PST.INDF.1SG
 ‘I went once upon a time.’"
-TE003	Is there palatal vowel harmony?	1: present, 0: absent	0	Baskakov (1975:23)			
+TE003	Is there palatal vowel harmony?	1: present, 0: absent	1	Baskakov (1975:23)		"aƔas-tar
+tree-PL
+‘trees’
+kime-ler
+boat-PL
+‘boats'"	
 TE004	Is there tongue root vowel harmony?	1: present, 0: absent	0	Baskakov (1975:23)			
 TE005	Is there an initial velar nasal?	1: present, 0: absent	0	Baskakov (1975:37)			
 TE006	Is there an initial r-?	1: present, 0: absent	0	Baskakov (1975:36)			
 TE007	Are there initial consonant clusters in native words?	1: present, 0: absent	0	Baskakov (1975:1-413)	Not mentioned explicitly, but examples provide no evidence for consonant clusters		
-TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Baskakov (1975:27)			
+TE008	Is there a voicing distinction in stops?	1: present, 0: absent	1	Baskakov (1975:27)	Not between b/p (b can only be encountered in loanwords)		
 TE018	Is there a mi-ti opposition in 1 vs. 2 SG personal pronouns?	1: present, 0: absent	1	Baskakov (1975:146)		min-sin	
 TE019	Is the secondary oblique stem of personal pronouns formed with a dental nasal?	1: present, 0: absent	1	Baskakov (1975:146)	both nominative and oblique forms		
 TE027	Can 1PL marker be augmented by a collective plural marker?	1: present, 0: absent	0	Baskakov (1975:146-147)			
 TE031	Is there a non-initial velar nasal?	1: present, 0: absent	1	Baskakov (1975:27)			
-TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Baskakov (1975:27)			
+TE037	Is there a voicing distinction in fricatives?	1: present, 0: absent	1	Baskakov (1975:27)	Not between s/z (z can only be encountered in loanwords)		
 TE038	Are there two separate liquid phonemes (r/l)?	1: present, 0: absent	1	Baskakov (1975:27)			
 TE039	Is there vowel length distinction?	1: present, 0: absent	1	Baskakov (1975:13, 25-26)			
 TE050	Do cardinal numerals require agreement on noun phrases?	1: present, 0: absent	0	Baskakov (1975:115)			"altï at
@@ -415,13 +420,9 @@ TS009	Can adnominal collective universal quantifier (‘all’) precede the noun
 all pupil-PL
 ‘all pupils’"
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	0	Baskakov (1975:156)			
-TS079	Is there height vowel harmony?	1: present, 0: absent	1	Baskakov (1975:23)			"aƔas-tar
-tree-PL
-‘trees’
-kime-ler
-boat-PL
-‘boats'"
+TS079	Is there height vowel harmony?	1: present, 0: absent	0	Baskakov (1975:23)			
 TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Baskakov (1975:23)	restricted to roots, does not appear in affixes		
+TS081	Is there an initial l-?	1: present, 0: absent	0	Baskakov (1975:36)		
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Baskakov (1975:207)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Baskakov (1975:207)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	0	Baskakov (1975:27)			

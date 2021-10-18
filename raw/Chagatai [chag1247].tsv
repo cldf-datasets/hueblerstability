@@ -225,7 +225,7 @@ TS008	Can adnominal property word follow the noun?	1: present, 0: absent	?	Boesc
 TS009	Can adnominal collective universal quantifier (‘all’) precede the noun?	1: present, 0: absent	?	Boeschoten (1998:169-177)	Not mentioned.		
 TS010	Can adnominal collective universal quantifier (‘all’) follow the noun?	1: present, 0: absent	?	Boeschoten (1998:169-177)	Not mentioned.		
 TS079	Is there height vowel harmony?	1: present, 0: absent	0	Boeschoten (1998:169)			
-TS080	Is there labial vowel harmony?	1: present, 0: absent	1	Boeschoten (1998:170)			
+TS080	Is there labial vowel harmony?	1: present, 0: absent	0	Boeschoten (1998:170)	Restricted to a couple of suffixes.		
 TS086	Is the pragmatically unmarked order of SV in intransitive clauses?	1: present, 0: absent	1	Boeschoten (1998:172-173)			
 TS087	Is the pragmatically unmarked order of VS in intransitive clauses?	1: present, 0: absent	0	Boeschoten (1998:172-173)			
 TS088	Is there an aspiration distinction in stops?	1: present, 0: absent	?	Boeschoten (1998:169-177)	No section on phonology available.		

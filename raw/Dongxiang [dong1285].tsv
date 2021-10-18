@@ -214,7 +214,7 @@ TE053	Are recipient and location expressed by the same marker?	1: present, 0: ab
 TE054	Is there a distinction between marking of interrogation in polar and content questions?	1: present, 0: absent	?	Kim (2003: 359)	Not mentioned.		
 TE059	Are causative and passive expressed by a formally identical marker?	1: present, 0: absent	0	Kim (2003: 346-362)			
 TE066	Is imperative form for 2SG identical to bare verb root?	1: present, 0: absent	1	Kim (2003: 357)			
-TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	0	Kim (2003: 349-350)			
+TE078	Are there three laryngeal contrasts for stops?	1: present, 0: absent	1	Kim (2003: 349)			
 TS001	Can numeral precede the noun?	1: present, 0: absent	1	Kim (2003: 353-355)			
 TS002	Can numeral follow the noun?	1: present, 0: absent	0	Kim (2003: 353-355)			
 TS003	Can demonstrative precede the noun?	1: present, 0: absent	1	Kim (2003: 353)			
