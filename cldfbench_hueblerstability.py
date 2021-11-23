@@ -73,6 +73,8 @@ class Dataset(BaseDataset):
         glottolog = args.glottolog.api
         sources = {
             (r['author'], r['year']): r for r in self.etc_dir.read_csv('sources.csv', dicts=True)}
+        langs = {
+            r['Name']: r for r in self.etc_dir.read_csv('languages_geo.csv', dicts=True)}
         examples = {eid: list(ex) for eid, ex in itertools.groupby(
             sorted(self.etc_dir.read_csv('examples.csv', dicts=True), key=lambda r: r['ID']),
             lambda r: r['ID']
@@ -88,6 +90,8 @@ class Dataset(BaseDataset):
                 ID=gc,
                 Name=lname,
                 Glottocode=gc,
+                Latitude=float(langs[lname]['Latitude']),
+                Longitude=float(langs[lname]['Longitude']),
             ))
             values = self.raw_dir.read_csv(sheet.name, delimiter='\t', dicts=True)
             assert values
@@ -127,7 +131,8 @@ class Dataset(BaseDataset):
                     reference = match_ref(ref)
                     if reference:
                         if reference.key not in sources:
-                            raise ValueError(reference.key)
+                            args.log.warning(reference.key)
+                            #raise ValueError(reference.key)
                         elif sources[reference.key]['matchid']:
                             refs.append(reference.as_cldf(sources[reference.key]['matchid']))
                             srcids.add(sources[reference.key]['matchid'])

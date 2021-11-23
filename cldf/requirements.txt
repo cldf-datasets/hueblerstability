@@ -3,7 +3,7 @@ bs4==0.0.1
 certifi==2020.12.5
 chardet==4.0.0
 cldfbench==1.7.2
--e git+https://github.com/cldf-datasets/hueblerstability@0e7f7c0a1964b883df9fe8c222f9395df2ab3d8e#egg=cldfbench_hueblerstability
+-e git+https://github.com/cldf-datasets/hueblerstability@405b81d6713b365fc4abca635b46d3c7f0a54858#egg=cldfbench_hueblerstability
 -e git+https://github.com/cldf-datasets/jipa.git@fa05fe2b7daae9de891f86718f44e40d09da4bcf#egg=cldfbench_jipa
 cldfcatalog==1.3.0
 clldutils==3.10.0
