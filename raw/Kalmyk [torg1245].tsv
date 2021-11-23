@@ -6,7 +6,7 @@ GB023	Are there postnominal articles?	1: present, 0: absent	0	Bläsing (2003:229
 GB024	What is the order of numeral and noun in the NP?	multistate 1: Num-N; 2: N-Num; 3: both.	1	Piurbeev (1997:85)			xojr 9dr [two day] ‘two days’
 GB025	What is the order of adnominal demonstrative and noun?	multistate 1: Dem-N; 2: N-Dem; 3: both.	1	Benzing (1985:133)			
 GB026	Can adnominal property words occur discontinuously?	1: present, 0: absent	?	Bläsing (2003:229-246)	Not mentioned.		
-GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Piurbeev (1997:79)	comitative case -ta and conjunction boln ‘and’, but there are no examples available		noxa-la (noxa-ta) — noxa-la (noxa-ta) xamdan ‘together with the dog’
+GB027	Are nominal conjunction and comitative expressed by different elements?	1: present, 0: absent	?	Piurbeev (1997:79)	comitative case -ta, connective case -la and conjunction boln ‘and’		noxa-la (noxa-ta) — noxa-la (noxa-ta) xamdan ‘together with the dog’
 GB028	Is there an inclusive/exclusive distinction?	1: present, 0: absent	0	Bläsing (2003:238-239)	only diachronically	b1dn [1PL.INCL], madn [1PL.EXCL]	
 GB030	Is there a gender distinction in independent 3rd person pronouns?	1: present, 0: absent	0	Piurbeev (1997:78-79)	demonstrative pronouns are used in this function, they do not show a gender distinction		en [this], ter [that]
 GB031	Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?	1: present, 0: absent	0	Piurbeev (1997:83)			

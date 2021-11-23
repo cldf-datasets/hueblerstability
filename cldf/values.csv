@@ -657,7 +657,7 @@ GB522-crim1257,crim1257,GB522,1,GB522-1,,hh:s:Kavitskaya:Crimean-Tatar[99],crim1
 TE003-crim1257,crim1257,TE003,1,TE003-1,,hh:s:Kavitskaya:Crimean-Tatar[25],crim1257-TE003-1 crim1257-TE003-2
 TE004-crim1257,crim1257,TE004,0,TE004-0,,hh:s:Kavitskaya:Crimean-Tatar[25-26],
 TE005-crim1257,crim1257,TE005,0,TE005-0,,hh:s:Kavitskaya:Crimean-Tatar[13],
-TE006-crim1257,crim1257,TE006,0,TE006-0,,,
+TE006-crim1257,crim1257,TE006,0,TE006-0,,wals:2896[302],
 TE007-crim1257,crim1257,TE007,0,TE007-0,,hh:s:Kavitskaya:Crimean-Tatar[21],
 TE008-crim1257,crim1257,TE008,1,TE008-1,,hh:s:Kavitskaya:Crimean-Tatar[10],
 TE018-crim1257,crim1257,TE018,1,TE018-1,,hh:s:Kavitskaya:Crimean-Tatar[45],crim1257-TE018-1 crim1257-TE018-2
@@ -1583,7 +1583,7 @@ TE008-yaku1245,yaku1245,TE008,1,TE008-1,,mpieva:Charitonov1982Grammati[55],yaku1
 TE018-yaku1245,yaku1245,TE018,0,TE018-0,,mpieva:Charitonov1982Grammati[188-189],yaku1245-TE018-1 yaku1245-TE018-2
 TE019-yaku1245,yaku1245,TE019,0,TE019-0,,mpieva:Charitonov1982Grammati[188-189],yaku1245-TE019-1 yaku1245-TE019-2
 TE027-yaku1245,yaku1245,TE027,0,TE027-0,,mpieva:Charitonov1982Grammati[188-189],
-TE031-yaku1245,yaku1245,TE031,1,TE031-1,,,
+TE031-yaku1245,yaku1245,TE031,1,TE031-1,,wals:231[515],
 TE037-yaku1245,yaku1245,TE037,0,TE037-0,,mpieva:Charitonov1982Grammati[55],
 TE038-yaku1245,yaku1245,TE038,1,TE038-1,,mpieva:Charitonov1982Grammati[55],
 TE039-yaku1245,yaku1245,TE039,1,TE039-1,,"mpieva:Charitonov1982Grammati[39, 50-53]",yaku1245-TE039-1 yaku1245-TE039-2
@@ -4567,7 +4567,7 @@ GB522-shor1247,shor1247,GB522,1,GB522-1,,hh:g:Dyrenkova:Shor[59],shor1247-GB522-
 TE003-shor1247,shor1247,TE003,1,TE003-1,,hh:g:Dyrenkova:Shor[13-14],shor1247-TE003-1 shor1247-TE003-2
 TE004-shor1247,shor1247,TE004,0,TE004-0,,hh:g:Dyrenkova:Shor[13-15],
 TE005-shor1247,shor1247,TE005,0,TE005-0,,hh:g:Dyrenkova:Shor[17],
-TE006-shor1247,shor1247,TE006,0,TE006-0,,,shor1247-TE006-1 shor1247-TE006-2
+TE006-shor1247,shor1247,TE006,0,TE006-0,,wals:1536[500],shor1247-TE006-1 shor1247-TE006-2
 TE007-shor1247,shor1247,TE007,0,TE007-0,,hh:g:Dyrenkova:Shor[16-22],
 TE008-shor1247,shor1247,TE008,1,TE008-1,,hh:g:Dyrenkova:Shor[16],
 TE018-shor1247,shor1247,TE018,1,TE018-1,,hh:g:Dyrenkova:Shor[81-82],
@@ -4797,7 +4797,7 @@ GB522-kaza1248,kaza1248,GB522,1,GB522-1,,hh:s:Kara:Kazak[1-56],
 TE003-kaza1248,kaza1248,TE003,1,TE003-1,,hh:s:Kara:Kazak[12],
 TE004-kaza1248,kaza1248,TE004,0,TE004-0,,hh:s:Kara:Kazak[12],
 TE005-kaza1248,kaza1248,TE005,0,TE005-0,,hh:s:Kara:Kazak[10],
-TE006-kaza1248,kaza1248,TE006,0,TE006-0,,hh:s:Kara:Kazak[14],
+TE006-kaza1248,kaza1248,TE006,0,TE006-0,,hh:s:Kara:Kazak[14];wals:3066[246],
 TE007-kaza1248,kaza1248,TE007,0,TE007-0,,hh:s:Kara:Kazak[10],
 TE008-kaza1248,kaza1248,TE008,1,TE008-1,,hh:s:Kara:Kazak[10],
 TE018-kaza1248,kaza1248,TE018,1,TE018-1,,hh:s:Kara:Kazak[23],
@@ -4805,7 +4805,7 @@ TE019-kaza1248,kaza1248,TE019,1,TE019-1,,hh:s:Kara:Kazak[23],
 TE027-kaza1248,kaza1248,TE027,0,TE027-0,,hh:s:Kara:Kazak[23],
 TE031-kaza1248,kaza1248,TE031,1,TE031-1,,hh:s:Kara:Kazak[10],
 TE037-kaza1248,kaza1248,TE037,1,TE037-1,,hh:s:Kara:Kazak[10],
-TE038-kaza1248,kaza1248,TE038,1,TE038-1,,,
+TE038-kaza1248,kaza1248,TE038,1,TE038-1,,wals:3066[245],
 TE039-kaza1248,kaza1248,TE039,0,TE039-0,,hh:s:Kara:Kazak[9],
 TE050-kaza1248,kaza1248,TE050,0,TE050-0,,hh:s:Kara:Kazak[55],kaza1248-TE050-1
 TE052-kaza1248,kaza1248,TE052,1,TE052-1,,hh:s:Kara:Kazak[19],
@@ -8017,8 +8017,8 @@ GB522-tata1255,tata1255,GB522,1,GB522-1,,hh:g:Poppe:Tatar:1963[122],tata1255-GB5
 TE003-tata1255,tata1255,TE003,1,TE003-1,,hh:g:Poppe:Tatar:1963[15-16],tata1255-TE003-1 tata1255-TE003-2
 TE004-tata1255,tata1255,TE004,0,TE004-0,,hh:g:Poppe:Tatar:1963[15-16],
 TE005-tata1255,tata1255,TE005,0,TE005-0,,hh:g:Poppe:Tatar:1963[12],
-TE006-tata1255,tata1255,TE006,0,TE006-0,,,
-TE007-tata1255,tata1255,TE007,0,TE007-0,,,
+TE006-tata1255,tata1255,TE006,0,TE006-0,,wals:6659[362],
+TE007-tata1255,tata1255,TE007,0,TE007-0,,wals:6659[362],
 TE008-tata1255,tata1255,TE008,1,TE008-1,,hh:g:Poppe:Tatar:1963[10-13],
 TE018-tata1255,tata1255,TE018,1,TE018-1,,hh:g:Poppe:Tatar:1963[53-54],
 TE019-tata1255,tata1255,TE019,1,TE019-1,,hh:g:Poppe:Tatar:1963[53-54],
@@ -8045,7 +8045,7 @@ TS008-tata1255,tata1255,TS008,0,TS008-0,,hh:g:Poppe:Tatar:1963[112-114],
 TS009-tata1255,tata1255,TS009,1,TS009-1,,hh:g:Poppe:Tatar:1963[102],tata1255-TS009-1
 TS010-tata1255,tata1255,TS010,0,TS010-0,,hh:g:Poppe:Tatar:1963[8-130],
 TS079-tata1255,tata1255,TS079,0,TS079-0,,hh:g:Poppe:Tatar:1963[15-16],
-TS080-tata1255,tata1255,TS080,1,TS080-1,,,
+TS080-tata1255,tata1255,TS080,1,TS080-1,,wals:6659[362],
 TS086-tata1255,tata1255,TS086,1,TS086-1,,hh:g:Poppe:Tatar:1963[101],
 TS087-tata1255,tata1255,TS087,0,TS087-0,,hh:g:Poppe:Tatar:1963[101],
 TS088-tata1255,tata1255,TS088,0,TS088-0,,hh:g:Poppe:Tatar:1963[10-13],
@@ -8247,7 +8247,7 @@ GB522-turk1304,turk1304,GB522,1,GB522-1,,hh:g:Clark:Turkmen[353],turk1304-GB522-
 TE003-turk1304,turk1304,TE003,1,TE003-1,,hh:g:Clark:Turkmen[47],turk1304-TE003-1 turk1304-TE003-2
 TE004-turk1304,turk1304,TE004,0,TE004-0,,hh:g:Clark:Turkmen[47],
 TE005-turk1304,turk1304,TE005,0,TE005-0,,hh:g:Clark:Turkmen[39],
-TE006-turk1304,turk1304,TE006,0,TE006-0,,,turk1304-TE006-1
+TE006-turk1304,turk1304,TE006,0,TE006-0,,wals:1046[417],turk1304-TE006-1
 TE007-turk1304,turk1304,TE007,0,TE007-0,,hh:g:Clark:Turkmen[43],
 TE008-turk1304,turk1304,TE008,1,TE008-1,,hh:g:Clark:Turkmen[37],
 TE018-turk1304,turk1304,TE018,1,TE018-1,,hh:g:Clark:Turkmen[181],turk1304-TE018-1 turk1304-TE018-2
@@ -8938,7 +8938,7 @@ TE003-noga1249,noga1249,TE003,1,TE003-1,,hh:s:CsatoKarakoc:Noghay[333-334],
 TE004-noga1249,noga1249,TE004,0,TE004-0,,hh:s:CsatoKarakoc:Noghay[333-334],
 TE005-noga1249,noga1249,TE005,?,,,hh:s:CsatoKarakoc:Noghay[333-334],
 TE006-noga1249,noga1249,TE006,?,,,hh:s:CsatoKarakoc:Noghay[333-334],
-TE007-noga1249,noga1249,TE007,0,TE007-0,,,
+TE007-noga1249,noga1249,TE007,0,TE007-0,,wals:412[329],
 TE008-noga1249,noga1249,TE008,1,TE008-1,,hh:s:CsatoKarakoc:Noghay[333-334],
 TE018-noga1249,noga1249,TE018,1,TE018-1,,hh:s:CsatoKarakoc:Noghay[336-337],
 TE019-noga1249,noga1249,TE019,1,TE019-1,,hh:s:CsatoKarakoc:Noghay[336-337],
@@ -9449,7 +9449,7 @@ GB041-ogam1239,ogam1239,GB041,0,GB041-0,,hh:s:Pellard:Ogami[113-166],
 GB042-ogam1239,ogam1239,GB042,0,GB042-0,,hh:s:Pellard:Ogami[131],
 GB043-ogam1239,ogam1239,GB043,0,GB043-0,,hh:s:Pellard:Ogami[131],
 GB044-ogam1239,ogam1239,GB044,0,GB044-0,,hh:g:Pellard:Ogami[138],
-GB046-ogam1239,ogam1239,GB046,1,GB046-1,,hh:g:Pellard:Ogami[138];hh:s:Pellard:Ogami[131],
+GB046-ogam1239,ogam1239,GB046,1,GB046-1,,hh:g:Pellard:Ogami[138];hh:s:Pellard:Ogami[131],ogam1239-GB046-1
 GB047-ogam1239,ogam1239,GB047,0,GB047-0,,hh:g:Pellard:Ogami[118];hh:s:Pellard:Ogami[142],
 GB048-ogam1239,ogam1239,GB048,1,GB048-1,,hh:s:Pellard:Ogami[142],
 GB049-ogam1239,ogam1239,GB049,0,GB049-0,,hh:s:Pellard:Ogami[142],
@@ -9498,7 +9498,7 @@ GB113-ogam1239,ogam1239,GB113,1,GB113-1,,hh:g:Pellard:Ogami[217],
 GB114-ogam1239,ogam1239,GB114,0,GB114-0,,"hh:g:Pellard:Ogami[121-123, 145-148]",
 GB115-ogam1239,ogam1239,GB115,?,,,hh:s:Pellard:Ogami[113-166],
 GB116-ogam1239,ogam1239,GB116,0,GB116-0,,hh:s:Pellard:Ogami[113-166],
-GB117-ogam1239,ogam1239,GB117,0,GB117-0,,hh:s:Pellard:Ogami[146],
+GB117-ogam1239,ogam1239,GB117,0,GB117-0,,hh:s:Pellard:Ogami[146],ogam1239-GB117-1
 GB118-ogam1239,ogam1239,GB118,1,GB118-1,,"hh:s:Pellard:Ogami[139-140, 144]",
 GB119-ogam1239,ogam1239,GB119,1,GB119-1,,"hh:s:Pellard:Ogami[137, 151-154]",
 GB120-ogam1239,ogam1239,GB120,1,GB120-1,,hh:s:Pellard:Ogami[155-157],
@@ -9550,7 +9550,7 @@ GB196-ogam1239,ogam1239,GB196,0,GB196-0,,hh:s:Pellard:Ogami[129],
 GB197-ogam1239,ogam1239,GB197,0,GB197-0,,hh:s:Pellard:Ogami[129],
 GB198-ogam1239,ogam1239,GB198,0,GB198-0,,hh:s:Pellard:Ogami[113-166],
 GB203-ogam1239,ogam1239,GB203,1,GB203-1,,hh:g:Pellard:Ogami[388],
-GB204-ogam1239,ogam1239,GB204,1,GB204-1,,hh:s:Pellard:Ogami[127],
+GB204-ogam1239,ogam1239,GB204,1,GB204-1,,hh:s:Pellard:Ogami[127],ogam1239-GB204-1 ogam1239-GB204-2
 GB250-ogam1239,ogam1239,GB250,0,GB250-0,,hh:s:Pellard:Ogami[147],
 GB252-ogam1239,ogam1239,GB252,1,GB252-1,,hh:s:Pellard:Ogami[147],
 GB253-ogam1239,ogam1239,GB253,0,GB253-0,,hh:s:Pellard:Ogami[147],
@@ -9618,7 +9618,7 @@ GB421-ogam1239,ogam1239,GB421,0,GB421-0,,hh:s:Pellard:Ogami[161],
 GB422-ogam1239,ogam1239,GB422,1,GB422-1,,hh:s:Pellard:Ogami[161],
 GB430-ogam1239,ogam1239,GB430,0,GB430-0,,hh:g:Pellard:Ogami[195],
 GB431-ogam1239,ogam1239,GB431,0,GB431-0,,hh:g:Pellard:Ogami[195],
-GB432-ogam1239,ogam1239,GB432,1,GB432-1,,hh:s:Pellard:Ogami[146];hh:g:Pellard:Ogami[195],
+GB432-ogam1239,ogam1239,GB432,1,GB432-1,,hh:s:Pellard:Ogami[146];hh:g:Pellard:Ogami[195],ogam1239-GB432-1 ogam1239-GB432-2
 GB433-ogam1239,ogam1239,GB433,0,GB433-0,,hh:g:Pellard:Ogami[195],
 GB519-ogam1239,ogam1239,GB519,1,GB519-1,,"hh:s:Pellard:Ogami[137, 151-154]",
 GB520-ogam1239,ogam1239,GB520,1,GB520-1,,hh:s:Pellard:Ogami[155-157],
@@ -9646,13 +9646,13 @@ TE066-ogam1239,ogam1239,TE066,0,TE066-0,,"hh:g:Pellard:Ogami[146];hh:s:Pellard:O
 TE078-ogam1239,ogam1239,TE078,0,TE078-0,,hh:s:Pellard:Ogami[116],
 TS001-ogam1239,ogam1239,TS001,1,TS001-1,,"hh:s:Pellard:Ogami[130, 134]",
 TS002-ogam1239,ogam1239,TS002,1,TS002-1,,"hh:s:Pellard:Ogami[130, 134]",
-TS003-ogam1239,ogam1239,TS003,1,TS003-1,,"hh:s:Pellard:Ogami[113, 123, 133]",
+TS003-ogam1239,ogam1239,TS003,1,TS003-1,,"hh:s:Pellard:Ogami[113, 123, 133]",ogam1239-TS003-1
 TS004-ogam1239,ogam1239,TS004,0,TS004-0,,"hh:s:Pellard:Ogami[113, 123, 133]",
 TS005-ogam1239,ogam1239,TS005,1,TS005-1,,hh:s:Pellard:Ogami[123],
 TS006-ogam1239,ogam1239,TS006,0,TS006-0,,hh:s:Pellard:Ogami[123],
 TS007-ogam1239,ogam1239,TS007,1,TS007-1,,"hh:s:Pellard:Ogami[113, 123]",
 TS008-ogam1239,ogam1239,TS008,0,TS008-0,,"hh:s:Pellard:Ogami[113, 123]",
-TS009-ogam1239,ogam1239,TS009,1,TS009-1,,hh:g:Pellard:Ogami[388],
+TS009-ogam1239,ogam1239,TS009,1,TS009-1,,hh:g:Pellard:Ogami[388],ogam1239-TS009-1
 TS010-ogam1239,ogam1239,TS010,0,TS010-0,,hh:g:Pellard:Ogami[388],
 TS079-ogam1239,ogam1239,TS079,0,TS079-0,,hh:s:Pellard:Ogami[113-166],
 TS080-ogam1239,ogam1239,TS080,0,TS080-0,,hh:s:Pellard:Ogami[113-166],
@@ -12619,7 +12619,7 @@ TE003-kara1467,kara1467,TE003,1,TE003-1,,hh:s:Wurm:Karakalpak[503],
 TE004-kara1467,kara1467,TE004,0,TE004-0,,hh:s:Wurm:Karakalpak[503],
 TE005-kara1467,kara1467,TE005,?,,,hh:s:Wurm:Karakalpak[487-596],
 TE006-kara1467,kara1467,TE006,?,,,hh:s:Wurm:Karakalpak[487-596],
-TE007-kara1467,kara1467,TE007,0,TE007-0,,,
+TE007-kara1467,kara1467,TE007,0,TE007-0,,wals:412[266],
 TE008-kara1467,kara1467,TE008,1,TE008-1,,hh:s:Wurm:Karakalpak[510],
 TE018-kara1467,kara1467,TE018,1,TE018-1,,hh:s:Wurm:Karakalpak[559],kara1467-TE018-1 kara1467-TE018-2
 TE019-kara1467,kara1467,TE019,1,TE019-1,,hh:s:Wurm:Karakalpak[559],

@@ -6,7 +6,7 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:description": "Some description",
+    "dc:description": "The dataset complements the research article submitted for review 'Phylogenetic signal and rate of evolutionary change in language structures'.",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "hueblerstability",
@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/hueblerstability",
-            "dc:created": "0e7f7c0"
+            "dc:created": "405b81d"
         },
         {
             "rdf:type": "prov:Entity",
