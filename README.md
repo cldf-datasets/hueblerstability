@@ -10,7 +10,7 @@ this dataset using the DOI of the [particular released version](../../releases/)
 ## Description
 
 
-The dataset complements the research article submitted for review 'Phylogenetic signal and rate of evolutionary change in language structures'.
+The dataset complements the research article 'Phylogenetic signal and rate of evolutionary change in language structures'.
 
 This dataset is licensed under a CC-BY-4.0 license
 
